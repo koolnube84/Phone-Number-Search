@@ -30,6 +30,6 @@ chmod 777 cleanup.sh
 ```
 ./run.sh
 
-#To clean cleanup
+#To clean files
 ./cleanup.sh
 ```
