@@ -11,6 +11,7 @@ Tried to make it as simple as I could, Just type in the phone number you would l
 - Caller zipcode ID
 - Caller city ID
 - Caller county ID
+- Possible high school/schools of caller
 
 #Installation
 ```shell
