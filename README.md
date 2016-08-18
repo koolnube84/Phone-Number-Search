@@ -13,7 +13,7 @@ Tried to make it as simple as I could, Just type in the phone number you would l
 - Caller county ID
 
 #Installation
-'''
+```shell
 cd ~/Desktop
 git clone https://github.com/koolnube84/Phone-Number-Search.git
 cd Phone-Number-Search
@@ -23,4 +23,4 @@ chmod 777 run.sh
 #Useage
 '''
 ./run.sh
-'''
+```
