@@ -18,9 +18,9 @@ cd ~/Desktop
 git clone https://github.com/koolnube84/Phone-Number-Search.git
 cd Phone-Number-Search
 chmod 777 run.sh
-'''
+```
 
 #Useage
-'''
+```
 ./run.sh
 ```
