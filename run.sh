@@ -1,18 +1,35 @@
 function startup {
 	clear
-	echo "Welcome to Phone Number Lookup by Nick Lemke v1.0 9/17/16"
+	HOMEFOLDER=$(pwd)
+	echo "Welcome to Phone Number Lookup by Nick Lemke v2.1 9/17/16"
 	echo "$(tput setaf 3)If there are any issues please contact dev$(tput sgr0)"
 	sleep .5
 	echo " "
 	echo " "
-	echo "What is the first three numbers? "
-	read FIRSTTHREE
-	echo "What are the middle three numbers? "
-	read MIDDLETHREE
-	echo "What are the last four numbers? "
-	read LASTFOUR
-	FULLPHONENUMBER="$FIRSTTHREE-$MIDDLETHREE-$LASTFOUR"
-	echo "$(tput setaf 3)Phone number entered was $FIRSTTHREE-$MIDDLETHREE-$LASTFOUR$(tput sgr0)"
+	echo "Do you want to get infor from a previous search? (y/n) "
+	read PREVIOUS
+	if [ "$PREVIOUS" = "y" ]; then
+		cd ".searches"
+		echo "Previous Searches..."
+		PREVIOUSLIST=$(cat "list.txt")
+		echo "$PREVIOUSLIST"
+		echo "Please enter the number you would like to review again"
+		read PREVIOUSSEARCHNUMBER
+		echo " "
+		echo " "
+		cd "$PREVIOUSSEARCHNUMBER"
+		cat "info.txt"
+		exit
+	else
+		echo "What is the first three numbers? "
+		read FIRSTTHREE
+		echo "What are the middle three numbers? "
+		read MIDDLETHREE
+		echo "What are the last four numbers? "
+		read LASTFOUR
+		FULLPHONENUMBER="$FIRSTTHREE-$MIDDLETHREE-$LASTFOUR"
+		echo "$(tput setaf 3)Phone number entered was $FIRSTTHREE-$MIDDLETHREE-$LASTFOUR$(tput sgr0)"
+	fi
 }
 function getinfo {
 	cd areacodes
@@ -107,35 +124,111 @@ function lastcheck {
 }
 function show {
 	cd ..
+	echo " "
+	echo " "
+	echo "    Phone Information"
+	echo "*************************"
+	echo "Carrier = $COMPANY"
+	echo "Date introduced = $DATE"
+	echo "Useage = $USEAGE"
+	echo "*************************"
+	echo " "
+	echo " "
+	echo "     Call Geography"
+	echo "*************************"
+	echo "Country = $COUNTRY"
+	echo "State = $STATE"
+	echo "Abbreviation = $ABB"
+	echo "Capital = $CAPITAL"
+	echo "County = $COUNTY"
+	echo "City = $CITY"
+	echo "Zipcode = $ZIP"
+	echo "*************************"
+	echo " "
+	echo " "
+	echo "       BETA INFO"
+	echo "*************************"
+	echo "Possible High Schools and their cities"
+	echo "*************************"
+	echo "$SCHOOLS"
+	echo "*************************"
+	echo " "
+	#send the data to /searches
+	if [ -d "$FULLPHONENUMBER" ]; then
 		echo " "
+	else
+		cd ".searches"
+		mkdir "$FULLPHONENUMBER"
+		echo "$FULLPHONENUMBER" >> "list.txt"
+		cd "$FULLPHONENUMBER"
+		echo "    Phone Information" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo "Carrier = $COMPANY" >> "info.txt"
+		echo "Date introduced = $DATE" >> "info.txt"
+		echo "Useage = $USEAGE" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo " " >> "info.txt"
+		echo " " >> "info.txt"
+		echo "     Call Geography" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo "Country = $COUNTRY" >> "info.txt"
+		echo "State = $STATE" >> "info.txt"
+		echo "Abbreviation = $ABB" >> "info.txt"
+		echo "Capital = $CAPITAL" >> "info.txt"
+		echo "County = $COUNTY" >> "info.txt"
+		echo "City = $CITY" >> "info.txt"
+		echo "Zipcode = $ZIP" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo " " >> "info.txt"
+		echo " " >> "info.txt"
+		echo "       BETA INFO" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo "Possible High Schools and their cities" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo "$SCHOOLS" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo " " >> "info.txt"
+		cd ..
+		cd ..
 		echo " "
-		echo "    Phone Information"
-		echo "*************************"
-		echo "Carrier = $COMPANY"
-		echo "Date introduced = $DATE"
-		echo "Useage = $USEAGE"
-		echo "*************************"
-		echo " "
-		echo " "
-		echo "     Call Geography"
-		echo "*************************"
-		echo "Country = $COUNTRY"
-		echo "State = $STATE"
-		echo "Abbreviation = $ABB"
-		echo "Capital = $CAPITAL"
-		echo "County = $COUNTY"
-		echo "City = $CITY"
-		echo "Zipcode = $ZIP"
-		echo "*************************"
-		echo " "
-		echo " "
-		echo "       BETA INFO"
-		echo "*************************"
-		echo "Possible High Schools and their cities"
-		echo "*************************"
-		echo "$SCHOOLS"
-		echo "*************************"
-
+	fi
+	echo "Would you like to export the data? (y/n) "
+	read EXPORT
+	if [ "$EXPORT" = "y" ]; then
+		cd "exports"
+		mkdir "$FULLPHONENUMBER"
+		cd "$FULLPHONENUMBER"
+		echo "    Phone Information" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo "Carrier = $COMPANY" >> "info.txt"
+		echo "Date introduced = $DATE" >> "info.txt"
+		echo "Useage = $USEAGE" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo " " >> "info.txt"
+		echo " " >> "info.txt"
+		echo "     Call Geography" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo "Country = $COUNTRY" >> "info.txt"
+		echo "State = $STATE" >> "info.txt"
+		echo "Abbreviation = $ABB" >> "info.txt"
+		echo "Capital = $CAPITAL" >> "info.txt"
+		echo "County = $COUNTY" >> "info.txt"
+		echo "City = $CITY" >> "info.txt"
+		echo "Zipcode = $ZIP" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo " " >> "info.txt"
+		echo " " >> "info.txt"
+		echo "       BETA INFO" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo "Possible High Schools and their cities" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo "$SCHOOLS" >> "info.txt"
+		echo "*************************" >> "info.txt"
+		echo " " >> "info.txt"
+		echo "Done exporting"
+	else
+		echo "Goodbye"
+	fi
 }
 startup
 getinfo
