@@ -1,0 +1,781 @@
+Prefix,Primary City,Company,County,Usage,Introduced
+(724) 200-,"Enon Valley, PA",Comcast Phone Of Pennsylvania,Lawrence,Landline,9/3/08
+(724) 201-,"Ellwood City, PA",Armstrong Telecommunications,Lawrence,Landline,5/21/07
+(724) 202-,"New Castle, PA",Teleport Communications America,Lawrence,Landline,5/18/98
+(724) 203-,"Aliquippa, PA",Teleport Communications America,Beaver,Landline,5/18/98
+(724) 204-,"Mount Pleasant, PA",Teleport Communications America,Westmoreland,Landline,5/18/98
+(724) 205-,"Greensburg, PA",Leap Wireless Intl DBA Cricket Comm,Westmoreland,Cell Number,2/7/02
+(724) 206-,"Washington, PA",Teleport Communications America,Washington,Landline,5/18/98
+(724) 207-,"Washington, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 208-,"Uniontown, PA",New Cingular Wireless PCS - IL,Fayette,Cell Number,7/22/99
+(724) 209-,"Avella, PA",Teleport Communications America,Washington,Landline,5/10/99
+(724) 212-,"New Kensington, PA",Teleport Communications America,Westmoreland,Landline,5/18/98
+(724) 213-,"Imperial, PA",Consolidated Communications Enterprise Services-pa,Allegheny,Landline,6/13/00
+(724) 214-,"Butler, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 215-,"Burgettstn, PA",Consolidated Communications Enterprise Services-pa,Washington,Landline,1/29/01
+(724) 216-,"Greensburg, PA",Level 3 Communications,Westmoreland,Landline,3/3/01
+(724) 217-,"Greensburg, PA",Leap Wireless Intl DBA Cricket Comm,Westmoreland,Cell Number,1/31/01
+(724) 218-,"Pittsburgh, PA",Teleport Communications America,Allegheny,Landline,5/18/98
+(724) 219-,"Greensburg, PA",Teleport Communications America,Westmoreland,Landline,5/18/98
+(724) 220-,"Scottdale, PA",Core Communications,Westmoreland,Landline,5/30/01
+(724) 221-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,10/26/12
+(724) 222-,"Washington, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 223-,"Washington, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 224-,"Tarentum, PA",Verizon Pennsylvania,Allegheny,Landline,5/18/98
+(724) 225-,"Washington, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 226-,"Tarentum, PA",Verizon Pennsylvania,Allegheny,Landline,5/18/98
+(724) 227-,"Pittsburgh, PA",AT&T Local,Allegheny,Landline,1/4/01
+(724) 228-,"Washington, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 229-,"Washington, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 230-,"Tarentum, PA",Verizon Pennsylvania,Allegheny,Landline,5/18/98
+(724) 231-,"Dilliner, PA",Idt America Corp,Greene,Landline,11/13/07
+(724) 232-,"East Brady, PA",Armstrong Telecommunications,Armstrong,Landline,4/20/07
+(724) 233-,"New Kensington, PA",Usa Mobility Wireless,Westmoreland,Cell Number,11/20/98
+(724) 234-,"Butler, PA",Intermedia Communications Inc.,Butler,Landline,2/9/01
+(724) 235-,"New Florence, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 236-,"Leechburg, PA",Comcast Phone Of Pennsylvania,Westmoreland,Landline,9/5/08
+(724) 237-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,2/9/10
+(724) 238-,"Ligonier, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 239-,"Bentleyville, PA",Bentleyville Comm. Corp. DBA Bentleyville Telco,Washington,Landline,5/18/98
+(724) 240-,"Ambridge, PA",Global Crossing Local Services-pa,Beaver,Landline,5/10/99
+(724) 241-,"Baden, PA",Global Crossing Local Services-pa,Beaver,Landline,5/10/99
+(724) 242-,"Baden, PA",Teleport Communications America,Beaver,Landline,5/10/99
+(724) 243-,"Belle Vernon, PA",Teleport Communications America,Westmoreland,Landline,5/10/99
+(724) 244-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,11/20/98
+(724) 245-,"New Salem, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 246-,"New Salem, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 247-,"Belle Vernon, PA",Global Crossing Local Services-pa,Westmoreland,Landline,5/10/99
+(724) 248-,"Blairsville, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 249-,"Washington, PA",Core Communications,Washington,Landline,3/12/01
+(724) 250-,"Washington, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 251-,"Ambridge, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 252-,"Aliquippa, PA",New Cingular Wireless PCS - IL,Beaver,Cell Number,3/23/06
+(724) 253-,"Hadley, PA",Windstream Pennsylvania,Mercer,Landline,5/18/98
+(724) 254-,"Clymer, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 255-,"Washington, PA",Cellco Partnership DBA Verizon Wireless,Washington,Cell Number,8/20/00
+(724) 256-,"Butler, PA",New Cingular Wireless PCS - IL,Butler,Cell Number,9/1/06
+(724) 257-,"Tarentum, PA",Core Communications,Allegheny,Landline,3/12/01
+(724) 258-,"Monongahela, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 259-,"Ligonier, PA",Telcove Of Pennsylvania,Westmoreland,Landline,1/19/01
+(724) 260-,"Pittsburgh, PA",Teleport Communications America,Allegheny,Landline,5/10/99
+(724) 261-,"Greensburg, PA",Citizens Telecom Solutions,Westmoreland,Landline,11/22/04
+(724) 262-,"Rochester Mills, PA",Core Communications,Indiana,Landline,3/12/01
+(724) 263-,"Washington, PA",New Cingular Wireless PCS - IL,Washington,Cell Number,2/27/99
+(724) 264-,"Grove City, PA",Consolidated Communications Enterprise Services-pa,Mercer,Landline,3/3/01
+(724) 265-,"Russellton, PA",Consolidated Communications Of Pennsylvania Co,Allegheny,Landline,5/18/98
+(724) 266-,"Ambridge, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 267-,"Marianna, PA",Marianna - Scenery Hill Telephone Co.,Washington,Landline,5/18/98
+(724) 268-,"Belle Vernon, PA",Telcove Of Pennsylvania,Westmoreland,Landline,1/29/01
+(724) 269-,"Mercer, PA",Telcove Of Pennsylvania,Mercer,Landline,1/29/01
+(724) 270-,"Bessemer, PA",Global Crossing Local Services-pa,Lawrence,Landline,5/10/99
+(724) 271-,"Canonsburg, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 272-,"Mars, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,1/14/00
+(724) 273-,"Pittsburgh, PA",Intermedia Communications Inc.,Allegheny,Landline,11/20/98
+(724) 274-,"Springdale, PA",Verizon Pennsylvania,Allegheny,Landline,5/18/98
+(724) 275-,"Springdale, PA",Verizon Pennsylvania,Allegheny,Landline,5/18/98
+(724) 276-,"Charleroi, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 277-,"Connellsville, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 278-,"Donora, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 279-,"Fayette City, PA",Global Crossing Local Services-pa,Fayette,Landline,5/10/99
+(724) 280-,"New Freeport, PA",Core Communications,Greene,Landline,3/20/09
+(724) 281-,"Pittsburgh, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 282-,"Butler, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 283-,"Butler, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 284-,"Butler, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 285-,"Butler, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 286-,"Rochester Mills, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 287-,"Butler, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 288-,"Washington, PA",Intermedia Communications Inc.,Washington,Landline,1/14/00
+(724) 289-,"Greensburg, PA",Global Crossing Local Services-pa,Westmoreland,Landline,5/18/98
+(724) 290-,"Butler, PA",New Cingular Wireless PCS - IL,Butler,Cell Number,5/18/98
+(724) 291-,"Herminie, PA",Global Crossing Local Services-pa,Westmoreland,Landline,5/10/99
+(724) 292-,"Monongahela, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 293-,"Imperial, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 294-,"Freeport, PA",Us Lec Of Pennsylvania,Armstrong,Landline,5/18/98
+(724) 295-,"Freeport, PA",Consolidated Communications Of Pennsylvania Co,Armstrong,Landline,5/18/98
+(724) 296-,"Jeannette, PA",Global Crossing Local Services-pa,Westmoreland,Landline,5/18/98
+(724) 297-,"Worthington, PA",Windstream Pennsylvania,Armstrong,Landline,5/18/98
+(724) 298-,"Mc Donald, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 299-,"Pittsburgh, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 300-,"Mercer, PA",Teleport Communications America,Mercer,Landline,5/10/99
+(724) 301-,"Sharon, PA",Cellco Partnership DBA Verizon Wireless,Mercer,Cell Number,11/20/98
+(724) 302-,"Aliquippa, PA",Consolidated Communications Enterprise Services-pa,Beaver,Landline,6/13/00
+(724) 303-,"Edinburg, PA",Core Communications,Lawrence,Landline,3/12/01
+(724) 304-,"New Kensington, PA",Allegiance Telecom Of Pennsylvania,Westmoreland,Landline,6/30/01
+(724) 305-,"Donora, PA",Level 3 Communications,Washington,Landline,5/2/01
+(724) 306-,"Prospect, PA",Core Communications,Butler,Landline,4/16/04
+(724) 307-,"Pittsburgh, PA",Teleport Communications America,Allegheny,Landline,5/18/98
+(724) 308-,"Sharon, PA",Telcove Of Pennsylvania,Mercer,Landline,6/13/00
+(724) 309-,"Greensburg, PA",New Cingular Wireless PCS - IL,Westmoreland,Cell Number,5/18/98
+(724) 310-,"Monongahela, PA",Teleport Communications America,Washington,Landline,5/10/99
+(724) 312-,"New Brighton, PA",New Cingular Wireless PCS - IL,Beaver,Cell Number,2/27/99
+(724) 313-,"Blairsville, PA",Teleport Communications America,Indiana,Landline,5/10/99
+(724) 314-,"Monessen, PA",Teleport Communications America,Westmoreland,Landline,5/18/98
+(724) 315-,"Glenwillard, PA",Intermedia Communications Inc.,Allegheny,Landline,5/18/98
+(724) 316-,"Mars, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,11/20/98
+(724) 317-,"Uniontown, PA",Core Communications,Fayette,Landline,3/12/01
+(724) 318-,"Ambridge, PA",Telcove Of Pennsylvania,Beaver,Landline,5/3/01
+(724) 319-,"Carmichaels, PA",Idt America Corp,Greene,Landline,11/12/07
+(724) 320-,"Uniontown, PA",Neutral Tandem-pennsylvania,Fayette,Landline,1/10/08
+(724) 321-,"Gibsonia, PA",Sprint Spectrum L.p.,Allegheny,Cell Number,2/27/99
+(724) 322-,"Uniontown, PA",Cellco Partnership DBA Verizon Wireless,Fayette,Cell Number,10/13/99
+(724) 323-,"Uniontown, PA",Sprint Spectrum L.p.,Fayette,Cell Number,11/20/98
+(724) 324-,"Mt Morris, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 325-,"Export, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 326-,"Fayette City, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 327-,"Export, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 328-,"Washington, PA",Leap Wireless Intl DBA Cricket Comm,Washington,Cell Number,1/31/01
+(724) 329-,"Farmington, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 330-,"California, PA",Teleport Communications America,Washington,Landline,11/20/98
+(724) 331-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,11/20/98
+(724) 332-,"Freeport, PA",Cellco Partnership DBA Verizon Wireless,Armstrong,Landline,12/9/13
+(724) 333-,"New Castle, PA",Sprint Spectrum L.p.,Lawrence,Cell Number,11/20/98
+(724) 334-,"New Kensington, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 335-,"New Kensington, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 336-,"Enon Valley, PA",Windstream Pennsylvania,Lawrence,Landline,5/18/98
+(724) 337-,"New Kensington, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 338-,"Canonsburg, PA",AT&T Local,Washington,Landline,11/20/98
+(724) 339-,"New Kensington, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 340-,"Bolivar, PA",Teleport Communications America,Westmoreland,Landline,5/10/99
+(724) 341-,"Greensburg, PA",Usa Mobility Wireless,Westmoreland,Cell Number,11/20/98
+(724) 342-,"Sharon, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 343-,"Blairsville, PA",Teleport Communications America,Indiana,Landline,5/10/99
+(724) 344-,"Washington, PA",Cellco Partnership DBA Verizon Wireless,Washington,Cell Number,11/20/98
+(724) 345-,"Hickory, PA",Verizon North Inc.-pa (quaker St),Washington,Landline,5/18/98
+(724) 346-,"Sharon, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 347-,"Sharon, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 348-,"Finleyville, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 349-,"Indiana, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 350-,"Washington, PA",Sprint Spectrum L.p.,Washington,Cell Number,11/20/98
+(724) 351-,"Springdale, PA",Leap Wireless Intl DBA Cricket Comm,Allegheny,Cell Number,1/31/01
+(724) 352-,"Saxonburg, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 353-,"Saxonburg, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 354-,"Shelocta, PA",Windstream Pennsylvania,Indiana,Landline,5/18/98
+(724) 355-,"Butler, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,11/20/98
+(724) 356-,"Hickory, PA",Hickory Telephone Co.,Washington,Landline,5/18/98
+(724) 357-,"Indiana, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 358-,"Greensboro, PA",Idt America Corp,Greene,Landline,11/13/07
+(724) 359-,"Beaver Falls, PA",Telcove Of Pennsylvania,Beaver,Landline,5/3/01
+(724) 360-,"Saxonburg, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 361-,"Monessen, PA",Global Crossing Local Services-pa,Westmoreland,Landline,5/10/99
+(724) 362-,"Monongahela, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 363-,"Fayette City, PA",Telcove Of Pennsylvania,Fayette,Landline,1/29/01
+(724) 364-,"Brownsville, PA",Telcove Of Pennsylvania,Fayette,Landline,1/29/01
+(724) 365-,"Mount Pleasant, PA",Global Crossing Local Services-pa,Westmoreland,Landline,5/10/99
+(724) 366-,"Uniontown, PA",Cellco Partnership DBA Verizon Wireless,Fayette,Cell Number,11/20/98
+(724) 367-,"Pittsburgh, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 368-,"Portersville, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Lawrence,Landline,5/18/98
+(724) 369-,"Pittsburgh, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 370-,"Paris, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 371-,"Rochester, PA",Global Crossing Local Services-pa,Beaver,Landline,5/10/99
+(724) 372-,"Grove City, PA",Cellco Partnership DBA Verizon Wireless,Mercer,Cell Number,2/27/99
+(724) 373-,"Greenville, PA",Teleport Communications America,Mercer,Landline,2/27/99
+(724) 374-,"Jeannette, PA",Teleport Communications America,Westmoreland,Landline,2/27/99
+(724) 375-,"Aliquippa, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 376-,"Sandy Lake, PA",Windstream Pennsylvania,Mercer,Landline,5/18/98
+(724) 377-,"East Millsboro, PA",Windstream Pennsylvania,Fayette,Landline,5/18/98
+(724) 378-,"Aliquippa, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 379-,"Donora, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 380-,"Washington, PA",Usa Mobility Wireless,Washington,Cell Number,11/20/98
+(724) 381-,"New Salem, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 382-,"Irwin, PA",Telcove Of Pennsylvania,Westmoreland,Landline,3/12/01
+(724) 383-,"Sharpsville, PA",Core Communications,Mercer,Landline,3/12/01
+(724) 384-,"Beaver Falls, PA",Teleport Communications America,Beaver,Landline,11/20/98
+(724) 385-,"Ambridge, PA",Teleport Communications America,Beaver,Landline,11/20/98
+(724) 386-,"Pittsburgh, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 387-,"Export, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 388-,"Indiana, PA",Cellco Partnership DBA Verizon Wireless,Indiana,Cell Number,11/20/98
+(724) 389-,"Pittsburgh, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 390-,"Baden, PA",Intermedia Communications Inc.,Beaver,Landline,11/20/98
+(724) 391-,"Slippery Rock, PA",Core Communications,Butler,Landline,4/16/04
+(724) 392-,"Harrison City, PA",Telcove Of Pennsylvania,Westmoreland,Landline,1/19/01
+(724) 393-,"Creighton, PA",Sprint Spectrum L.p.,Allegheny,Cell Number,3/7/11
+(724) 394-,"Uniontown, PA",Usa Mobility Wireless,Fayette,Cell Number,11/20/98
+(724) 395-,"New Castle, PA",Usa Mobility Wireless,Lawrence,Cell Number,11/20/98
+(724) 396-,"Greensburg, PA",New Cingular Wireless PCS - IL,Westmoreland,Cell Number,11/20/98
+(724) 397-,"Home, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 398-,"Dawson, PA",Level 3 Communications,Fayette,Landline,5/2/01
+(724) 399-,"Parker, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Clarion,Landline,5/18/98
+(724) 400-,"W Alexander, PA",Teleport Communications America,Washington,Landline,5/10/99
+(724) 401-,"New Florence, PA",Teleport Communications America,Indiana,Landline,5/10/99
+(724) 402-,"Hadley, PA",Windstream Pennsylvania,Mercer,Landline,6/20/01
+(724) 403-,"Indiana, PA",Teleport Communications America,Indiana,Landline,5/18/98
+(724) 404-,"Youngwood, PA",Global Crossing Local Services-pa,Westmoreland,Landline,5/10/99
+(724) 405-,"West Newton, PA",Global Crossing Local Services-pa,Westmoreland,Landline,5/10/99
+(724) 406-,"Slippery Rock, PA",Consolidated Communications Enterprise Services-pa,Butler,Landline,6/30/04
+(724) 407-,"Aliquippa, PA",Global Crossing Local Services-pa,Beaver,Landline,5/10/99
+(724) 408-,"Glenwillard, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 409-,"Tarentum, PA",Telcove Of Pennsylvania,Allegheny,Landline,6/13/00
+(724) 410-,"Pittsburgh, PA",Intermedia Communications Inc.,Allegheny,Landline,5/18/98
+(724) 413-,"Washington, PA",Sprint Spectrum L.p.,Washington,Cell Number,5/18/98
+(724) 414-,"Paris, PA",Teleport Communications America,Washington,Landline,5/10/99
+(724) 415-,"Uniontown, PA",Telcove Of Pennsylvania,Fayette,Landline,6/13/00
+(724) 416-,"Canonsburg, PA",Intermedia Communications Inc.,Washington,Landline,5/18/98
+(724) 417-,"Rochester, PA",Leap Wireless Intl DBA Cricket Comm,Beaver,Cell Number,3/14/01
+(724) 418-,"Sharon, PA",Core Communications,Mercer,Landline,3/12/01
+(724) 419-,"Aliquippa, PA",Intermedia Communications Inc.,Beaver,Landline,5/18/98
+(724) 420-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,6/14/01
+(724) 421-,"Slippery Rock, PA",Consolidated Communications Enterprise Services-pa,Butler,Landline,7/22/99
+(724) 422-,"Indiana, PA",Cellco Partnership DBA Verizon Wireless,Indiana,Cell Number,11/20/98
+(724) 423-,"Acme, PA",Citizens Telephone Co. Of Kecksburg,Westmoreland,Landline,5/18/98
+(724) 424-,"Acme, PA",Citizens Telephone Co. Of Kecksburg,Westmoreland,Landline,5/18/98
+(724) 425-,"Uniontown, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 426-,"Brownsville, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 427-,"Indiana, PA",Core Communications,Indiana,Landline,3/12/01
+(724) 428-,"Graysville, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 429-,"Burgettstn, PA",Teleport Communications America,Washington,Landline,5/10/99
+(724) 430-,"Uniontown, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 431-,"Butler, PA",Consolidated Communications Enterprise Services-pa,Butler,Landline,7/22/99
+(724) 432-,"Evans City, PA",Consolidated Communications Enterprise Services-pa,Butler,Landline,7/22/99
+(724) 433-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,8/20/00
+(724) 434-,"Uniontown, PA",Verizon Pennsylvania,Fayette,Landline,5/10/99
+(724) 435-,"Spraggs, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 436-,"Beaver Falls, PA",Verizon Pennsylvania,Beaver,Landline,5/10/99
+(724) 437-,"Uniontown, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 438-,"Uniontown, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 439-,"Uniontown, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 440-,"Uniontown, PA",Verizon Pennsylvania,Fayette,Cell Number,5/18/98
+(724) 441-,"Ligonier, PA",Core Communications,Westmoreland,Landline,3/12/01
+(724) 442-,"Fredonia, PA",Windstream Pennsylvania,Mercer,Landline,12/20/11
+(724) 443-,"Gibsonia, PA",Consolidated Communications Of Pennsylvania Co,Allegheny,Landline,5/18/98
+(724) 444-,"Gibsonia, PA",Consolidated Communications Of Pennsylvania Co,Allegheny,Landline,5/18/98
+(724) 445-,"Chicora, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 446-,"Herminie, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 447-,"New Freeport, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 448-,"New Kensington, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,10/13/99
+(724) 449-,"Gibsonia, PA",Consolidated Communications Of Pennsylvania Co,Allegheny,Landline,5/18/98
+(724) 450-,"Grove City, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 451-,"Brave, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 452-,"Zelienople, PA",Verizon Pennsylvania,Butler,Landline,5/18/98
+(724) 453-,"Zelienople, PA",Verizon Pennsylvania,Butler,Landline,5/18/98
+(724) 454-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,10/13/99
+(724) 455-,"Indian Head, PA",Laurel Highland Telephone Co.,Fayette,Landline,5/18/98
+(724) 456-,"Sharpsville, PA",Cellco Partnership DBA Verizon Wireless,Mercer,Cell Number,2/27/99
+(724) 457-,"Glenwillard, PA",Verizon Pennsylvania,Allegheny,Landline,5/18/98
+(724) 458-,"Grove City, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 459-,"Blairsville, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 460-,"Greensburg, PA",Usa Mobility Wireless,Westmoreland,Cell Number,2/27/99
+(724) 461-,"Delmont, PA",Windstream Pennsylvania,Westmoreland,Landline,5/30/01
+(724) 462-,"Rochester, PA",Cellco Partnership DBA Verizon Wireless,Beaver,Cell Number,6/14/01
+(724) 463-,"Indiana, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 464-,"Indiana, PA",Verizon Pennsylvania,Indiana,Landline,5/10/99
+(724) 465-,"Indiana, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 466-,"Uniontown, PA",Aerial Communications,Fayette,Cell Number,7/22/99
+(724) 467-,"Indiana, PA",Aerial Communications,Indiana,Cell Number,7/22/99
+(724) 468-,"Delmont, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 469-,"Monessen, PA",Aerial Communications,Westmoreland,Cell Number,7/22/99
+(724) 470-,"Washington, PA",Telcove Of Pennsylvania,Washington,Landline,6/13/00
+(724) 471-,"Indiana, PA",Choice One Communications,Indiana,Landline,10/31/00
+(724) 472-,"New Kensington, PA",Telcove Of Pennsylvania,Westmoreland,Landline,3/3/01
+(724) 473-,"Zelienople, PA",Telcove Of Pennsylvania,Butler,Landline,1/29/01
+(724) 474-,"Indian Head, PA",Core Communications,Fayette,Landline,3/19/09
+(724) 475-,"Fredonia, PA",Windstream Pennsylvania,Mercer,Landline,5/18/98
+(724) 476-,"West Sunbury, PA",Core Communications,Butler,Landline,4/16/04
+(724) 477-,"Butler, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 478-,"Apollo, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 479-,"Homer City, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 480-,"Rochester, PA",Core Communications,Beaver,Landline,3/12/01
+(724) 481-,"Renfrew, PA",Core Communications,Butler,Landline,4/16/04
+(724) 482-,"Meridian, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 483-,"Charleroi, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 484-,"W Alexander, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 485-,"Canonsburg, PA",Choice One Communications,Washington,Landline,10/31/00
+(724) 486-,"Renfrew, PA",Consolidated Communications Enterprise Services-pa,Butler,Landline,3/3/01
+(724) 487-,"Butler, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,6/14/10
+(724) 488-,"Ambridge, PA",Verizon Pennsylvania,Beaver,Landline,5/30/01
+(724) 489-,"Charleroi, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 490-,"Home, PA",Teleport Communications America,Indiana,Landline,5/10/99
+(724) 491-,"Masontown, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 492-,"Pittsburgh, PA",Teleport Communications America,Allegheny,Landline,5/10/99
+(724) 493-,"Greensburg, PA",New Cingular Wireless PCS - IL,Westmoreland,Cell Number,6/30/01
+(724) 494-,"New Brighton, PA",New Cingular Wireless PCS - IL,Beaver,Cell Number,6/30/01
+(724) 495-,"Midland, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 496-,"Butler, PA",New Cingular Wireless PCS - IL,Butler,Cell Number,6/13/00
+(724) 497-,"Perryopolis, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 498-,"New Castle, PA",Telcove Of Pennsylvania,Lawrence,Landline,3/3/01
+(724) 499-,"Rogersville, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 500-,"New Alexandria, PA",Windstream Pennsylvania,Westmoreland,Landline,3/7/12
+(724) 501-,"Rices Landing, PA",Idt America Corp,Greene,Landline,11/13/07
+(724) 502-,"Gibsonia, PA",Sprint Spectrum L.p.,Allegheny,Cell Number,10/31/00
+(724) 503-,"Washington, PA",Us Lec Of Pennsylvania,Washington,Landline,6/30/01
+(724) 504-,"Butler, PA",New Cingular Wireless PCS - IL,Butler,Cell Number,6/13/00
+(724) 505-,"Point Marion, PA",Core Communications,Fayette,Landline,3/12/01
+(724) 506-,"Beaver Falls, PA",Consolidated Communications Enterprise Services-pa,Beaver,Landline,8/20/00
+(724) 507-,"Avella, PA",Advanced Telephone Sys Inc DBA Htc Communications,Washington,Landline,8/20/00
+(724) 508-,"Midland, PA",Teleport Communications America,Beaver,Landline,5/18/98
+(724) 509-,"Sharon, PA",Teleport Communications America,Mercer,Landline,5/18/98
+(724) 510-,"New Castle, PA",Level 3 Communications,Lawrence,Landline,3/3/01
+(724) 512-,"Aliquippa, PA",Choice One Communications,Beaver,Landline,1/14/00
+(724) 513-,"Rochester, PA",Sprint Spectrum L.p.,Beaver,Landline,5/18/98
+(724) 514-,"Canonsburg, PA",Teleport Communications America,Washington,Landline,5/18/98
+(724) 515-,"Irwin, PA",Teleport Communications America,Westmoreland,Landline,5/18/98
+(724) 516-,"Greensburg, PA",Sprint Spectrum L.p.,Westmoreland,Cell Number,5/18/98
+(724) 517-,"Imperial, PA",Core Communications,Allegheny,Landline,3/12/01
+(724) 518-,"Monongahela, PA",Sprint Spectrum L.p.,Washington,Cell Number,5/18/98
+(724) 519-,"Export, PA",Telcove Of Pennsylvania,Westmoreland,Landline,1/19/01
+(724) 520-,"Latrobe, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 521-,"Paris, PA",Core Communications,Washington,Landline,3/12/01
+(724) 522-,"Jeannette, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 523-,"Jeannette, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 524-,"Saxonburg, PA",New Cingular Wireless PCS - IL,Butler,Cell Number,3/25/04
+(724) 525-,"Kittanning, PA",New Cingular Wireless PCS - IL,Armstrong,Cell Number,5/18/98
+(724) 526-,"East Brady, PA",Windstream Pennsylvania,Armstrong,Landline,5/18/98
+(724) 527-,"Jeannette, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 528-,"W Middlesex, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 529-,"Dawson, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 530-,"Slippery Rock, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 531-,"Washington, PA",Leap Wireless Intl DBA Cricket Comm,Washington,Cell Number,1/31/01
+(724) 532-,"Latrobe, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 533-,"Volant, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Lawrence,Landline,5/18/98
+(724) 534-,"Clinton, PA",Core Communications,Beaver,Landline,3/19/09
+(724) 535-,"Wampum, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 536-,"New Florence, PA",Core Communications,Indiana,Landline,3/12/01
+(724) 537-,"Latrobe, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 538-,"Evans City, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 539-,"Latrobe, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 540-,"Freeport, PA",Intermedia Communications Inc.,Armstrong,Landline,5/12/05
+(724) 541-,"Indiana, PA",New Cingular Wireless PCS - IL,Indiana,Cell Number,5/18/98
+(724) 542-,"Mount Pleasant, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 543-,"Kittanning, PA",Windstream Pennsylvania,Armstrong,Landline,5/18/98
+(724) 544-,"New Brighton, PA",New Cingular Wireless PCS - IL,Beaver,Cell Number,7/22/99
+(724) 545-,"Kittanning, PA",Windstream Pennsylvania,Armstrong,Landline,5/18/98
+(724) 546-,"New Castle, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 547-,"Mount Pleasant, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 548-,"Kittanning, PA",Windstream Pennsylvania,Armstrong,Landline,5/18/98
+(724) 549-,"Indiana, PA",Verizon Pennsylvania,Indiana,Landline,5/30/01
+(724) 550-,"Uniontown, PA",Verizon Pennsylvania,Fayette,Landline,6/30/01
+(724) 551-,"Sharon, PA",Us Lec Of Pennsylvania,Mercer,Landline,6/30/01
+(724) 552-,"Greensburg, PA",Choice One Communications,Westmoreland,Landline,10/13/99
+(724) 553-,"Mars, PA",Leap Wireless Intl DBA Cricket Comm,Butler,Cell Number,4/16/01
+(724) 554-,"Washington, PA",New Cingular Wireless PCS - IL,Washington,Cell Number,6/30/01
+(724) 556-,"Slippery Rock, PA",Sprint Spectrum L.p.,Butler,Cell Number,8/7/02
+(724) 557-,"Uniontown, PA",New Cingular Wireless PCS - IL,Fayette,Cell Number,5/18/98
+(724) 558-,"Springdale, PA",Consolidated Communications Enterprise Services-pa,Allegheny,Landline,10/31/00
+(724) 559-,"Brave, PA",Core Communications,Greene,Landline,3/19/09
+(724) 560-,"Fayette City, PA",Level 3 Communications,Fayette,Landline,5/2/01
+(724) 561-,"Rochester, PA",Consolidated Communications Enterprise Services-pa,Beaver,Landline,6/13/00
+(724) 562-,"Uniontown, PA",Consolidated Communications Enterprise Services-pa,Fayette,Landline,10/31/00
+(724) 563-,"Stahlstown, PA",Core Communications,Westmoreland,Landline,3/20/09
+(724) 564-,"Fairchance, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 565-,"Charleroi, PA",Teleport Communications America,Washington,Landline,5/10/99
+(724) 566-,"Claysville, PA",Teleport Communications America,Washington,Landline,5/10/99
+(724) 567-,"Vandergrift, PA",Verizon North Inc.-pa,Westmoreland,Landline,5/18/98
+(724) 568-,"Vandergrift, PA",Verizon North Inc.-pa,Westmoreland,Landline,5/18/98
+(724) 569-,"Smithfield, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 570-,"Uniontown, PA",Sprint Spectrum L.p.,Fayette,Cell Number,5/18/98
+(724) 571-,"Vandergrift, PA",Verizon North Inc.-pa,Westmoreland,Landline,5/10/99
+(724) 572-,"Latrobe, PA",Telcove Of Pennsylvania,Westmoreland,Landline,3/3/01
+(724) 573-,"Hookstown, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 574-,"Vandergrift, PA",Telcove Of Pennsylvania,Westmoreland,Landline,6/15/01
+(724) 575-,"Export, PA",Aerial Communications,Westmoreland,Cell Number,1/14/00
+(724) 576-,"Midland, PA",Telcove Of Pennsylvania,Beaver,Landline,10/31/01
+(724) 577-,"Point Marion, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 578-,"Jeannette, PA",Telcove Of Pennsylvania,Westmoreland,Landline,1/19/01
+(724) 579-,"Washington, PA",Consolidated Communications Enterprise Services-pa,Washington,Landline,10/31/00
+(724) 580-,"Allison, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 581-,"Beaver Falls, PA",Core Communications,Beaver,Landline,3/12/01
+(724) 582-,"Pittsburgh, PA",Allegiance Telecom Of Pennsylvania,Allegheny,Landline,6/30/01
+(724) 583-,"Masontown, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 584-,"Mars, PA",New Cingular Wireless PCS - IL,Butler,Cell Number,5/18/98
+(724) 585-,"Portersville, PA",Core Communications,Lawrence,Landline,4/16/04
+(724) 586-,"Renfrew, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 587-,"Avella, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 588-,"Greenville, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 589-,"Greenville, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 590-,"Irwin, PA",Core Communications,Westmoreland,Landline,12/1/05
+(724) 591-,"Mars, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,11/14/06
+(724) 592-,"Rices Landing, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 593-,"Donegal, PA",Laurel Highland Telephone Co.,Westmoreland,Landline,5/18/98
+(724) 594-,"New Kensington, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,6/13/00
+(724) 595-,"Ambridge, PA",Intermedia Communications Inc.,Beaver,Landline,5/18/98
+(724) 596-,"Apollo, PA",New Cingular Wireless PCS - IL,Westmoreland,Cell Number,3/12/04
+(724) 597-,"Canonsburg, PA",Telcove Of Pennsylvania,Washington,Landline,1/19/01
+(724) 598-,"New Castle, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 599-,"Indiana, PA",Telcove Of Pennsylvania,Indiana,Landline,3/3/01
+(724) 600-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,8/14/98
+(724) 601-,"Rochester, PA",Cellco Partnership DBA Verizon Wireless,Beaver,Cell Number,5/18/98
+(724) 602-,"Butler, PA",Level 3 Communications,Butler,Landline,7/6/01
+(724) 603-,"Connellsville, PA",Teleport Communications America,Fayette,Landline,5/18/98
+(724) 604-,"Tarentum, PA",Choice One Communications,Allegheny,Landline,1/14/00
+(724) 605-,"Grove City, PA",Verizon Pennsylvania,Mercer,Landline,5/31/01
+(724) 606-,"Petrolia, PA",Core Communications,Butler,Landline,4/16/04
+(724) 607-,"Chicora, PA",Core Communications,Butler,Landline,4/16/04
+(724) 608-,"Parker, PA",Consolidated Communications Enterprise Services-pa,Clarion,Landline,6/30/01
+(724) 609-,"Zelienople, PA",Teleport Communications America,Butler,Landline,5/18/98
+(724) 610-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,9/15/08
+(724) 612-,"Pittsburgh, PA",Sprint Spectrum L.p.,Allegheny,Cell Number,5/18/98
+(724) 613-,"Mount Pleasant, PA",Telcove Of Pennsylvania,Westmoreland,Landline,1/19/01
+(724) 614-,"New Castle, PA",Consolidated Communications Enterprise Services-pa,Lawrence,Landline,6/13/00
+(724) 615-,"Grove City, PA",Telcove Of Pennsylvania,Mercer,Landline,3/3/01
+(724) 616-,"Petrolia, PA",Core Communications,Butler,Landline,4/16/04
+(724) 617-,"Clymer, PA",Teleport Communications America,Indiana,Landline,5/31/12
+(724) 618-,"Dawson, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 619-,"Scottdale, PA",Teleport Communications America,Westmoreland,Landline,5/10/99
+(724) 620-,"Connellsville, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 621-,"Dilliner, PA",New Cingular Wireless PCS - IL,Greene,Cell Number,11/16/09
+(724) 622-,"Rochester, PA",Cellco Partnership DBA Verizon Wireless,Beaver,Cell Number,11/20/98
+(724) 623-,"Glenwillard, PA",Choice One Communications,Allegheny,Landline,1/14/00
+(724) 624-,"New Brighton, PA",Sprint Spectrum L.p.- Pa,Beaver,Cell Number,10/13/99
+(724) 625-,"Mars, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 626-,"Connellsville, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 627-,"Waynesburg, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 628-,"Connellsville, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 629-,"Westford, PA",Armstrong Telecommunications,Crawford,Landline,3/29/07
+(724) 630-,"Rochester, PA",Consolidated Communications Enterprise Services-pa,Beaver,Landline,8/22/01
+(724) 631-,"Zelienople, PA",Consolidated Communications Enterprise Services-pa,Butler,Landline,11/20/98
+(724) 632-,"Daisytown, PA",Windstream Pennsylvania,Washington,Landline,5/18/98
+(724) 633-,"West Newton, PA",Teleport Communications America,Westmoreland,Landline,5/10/99
+(724) 634-,"W Middlesex, PA",Teleport Communications America,Mercer,Landline,5/10/99
+(724) 635-,"Youngwood, PA",Teleport Communications America,Westmoreland,Landline,5/10/99
+(724) 636-,"Volant, PA",New Cingular Wireless PCS - IL,Lawrence,Cell Number,3/15/04
+(724) 637-,"West Sunbury, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 638-,"Gibsonia, PA",Level 3 Communications,Allegheny,Landline,4/19/02
+(724) 639-,"Saltsburg, PA",Verizon North Inc.-pa,Indiana,Landline,5/18/98
+(724) 640-,"Greensburg, PA",Sprint Spectrum L.p.,Westmoreland,Cell Number,11/20/98
+(724) 641-,"Spraggs, PA",Core Communications,Greene,Landline,3/20/09
+(724) 642-,"Dawson, PA",Global Crossing Local Services-pa,Fayette,Landline,5/10/99
+(724) 643-,"Midland, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 644-,"Avella, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 645-,"Perryopolis, PA",Global Crossing Local Services-pa,Fayette,Landline,5/10/99
+(724) 646-,"Transfer, PA",Pymatuning Independent Telephone Co.,Mercer,Landline,5/18/98
+(724) 647-,"Beaver Falls, PA",Global Crossing Local Services-pa,Beaver,Landline,5/10/99
+(724) 648-,"California, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 649-,"Burgettstn, PA",Global Crossing Local Services-pa,Washington,Landline,5/10/99
+(724) 650-,"Rochester, PA",Leap Wireless Intl DBA Cricket Comm,Beaver,Cell Number,3/14/01
+(724) 651-,"New Castle, PA",New Cingular Wireless PCS - IL,Lawrence,Cell Number,5/18/98
+(724) 652-,"New Castle, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 653-,"Monessen, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,10/31/00
+(724) 654-,"New Castle, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 655-,"Venetia, PA",Core Communications,Washington,Landline,3/12/01
+(724) 656-,"New Castle, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 657-,"New Castle, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 658-,"New Castle, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 659-,"Emlenton, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Venango,Landline,5/18/98
+(724) 660-,"Midland, PA",Core Communications,Beaver,Landline,3/12/01
+(724) 661-,"Scenery Hill, PA",Idt America Corp,Washington,Landline,2/13/09
+(724) 662-,"Mercer, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 663-,"Claysville, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 664-,"Kittanning, PA",Cellco Partnership DBA Verizon Wireless,Armstrong,Cell Number,11/20/98
+(724) 665-,"Belle Vernon, PA",Core Communications,Westmoreland,Landline,3/12/01
+(724) 666-,"Hickory, PA",Core Communications,Washington,Landline,3/19/09
+(724) 667-,"Bessemer, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 668-,"New Alexandria, PA",Windstream Pennsylvania,Westmoreland,Landline,3/15/02
+(724) 669-,"Bentleyville, PA",Idt America Corp,Washington,Landline,2/13/09
+(724) 670-,"Pulaski, PA",Peerless Network Of Pennsylvania,Lawrence,Landline,4/11/13
+(724) 671-,"Tarentum, PA",Consolidated Communications Enterprise Services-pa,Allegheny,Landline,6/30/01
+(724) 672-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,1/25/11
+(724) 673-,"Mc Donald, PA",Us Lec Of Pennsylvania,Washington,Landline,5/30/01
+(724) 674-,"New Castle, PA",Cellco Partnership DBA Verizon Wireless,Lawrence,Cell Number,5/18/98
+(724) 675-,"Blairsville, PA",Telcove Of Pennsylvania,Indiana,Landline,3/3/01
+(724) 676-,"Bolivar, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 677-,"Smock, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 678-,"Washington, PA",Cellco Partnership DBA Verizon Wireless,Washington,Cell Number,6/23/06
+(724) 679-,"Butler, PA",New Cingular Wireless PCS - IL,Butler,Cell Number,5/18/98
+(724) 680-,"Beaver Falls, PA",Advanced Telephone Sys Inc DBA Htc Communications,Beaver,Landline,8/20/00
+(724) 681-,"New Kensington, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,9/25/02
+(724) 682-,"Midland, PA",Verizon Pennsylvania,Beaver,Landline,6/13/00
+(724) 683-,"Rochester, PA",Cellco Partnership DBA Verizon Wireless,Beaver,Cell Number,8/23/07
+(724) 684-,"Monessen, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 685-,"Sharon, PA",Sprint Spectrum L.p.,Mercer,Landline,3/3/01
+(724) 686-,"Latrobe, PA",Verizon Pennsylvania,Westmoreland,Landline,6/30/01
+(724) 687-,"Mars, PA",Intermedia Communications Inc.,Butler,Landline,5/12/05
+(724) 688-,"Herminie, PA",New Cingular Wireless PCS - IL,Westmoreland,Cell Number,6/22/10
+(724) 689-,"Greensburg, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,6/13/00
+(724) 690-,"Rochester Mills, PA",Consolidated Communications Enterprise Services-pa,Indiana,Landline,8/22/01
+(724) 691-,"Greensburg, PA",Comcast Phone Of Pennsylvania,Westmoreland,Landline,2/23/09
+(724) 692-,"Jefferson, PA",Idt America Corp,Greene,Landline,11/13/07
+(724) 693-,"Oakdale, PA",Verizon Pennsylvania,Allegheny,Landline,5/18/98
+(724) 694-,"Derry, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 695-,"Imperial, PA",Verizon Pennsylvania,Allegheny,Landline,5/18/98
+(724) 696-,"Mount Pleasant, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 697-,"Avonmore, PA",Verizon North Inc.-pa,Westmoreland,Landline,5/18/98
+(724) 698-,"New Castle, PA",Core Communications,Lawrence,Landline,3/12/01
+(724) 699-,"Sharon, PA",Cellco Partnership DBA Verizon Wireless,Mercer,Cell Number,5/18/98
+(724) 701-,"Burgettstn, PA",Advanced Telephone Sys Inc DBA Htc Communications,Washington,Landline,8/20/00
+(724) 702-,"Saltsburg, PA",Comcast Phone Of Pennsylvania,Indiana,Landline,6/25/05
+(724) 703-,"Pittsburgh, PA",Intermedia Communications Inc.,Allegheny,Landline,11/20/98
+(724) 704-,"Sharon, PA",Choice One Communications,Mercer,Landline,3/3/01
+(724) 705-,"Washington, PA",Level 3 Communications,Washington,Landline,3/3/01
+(724) 706-,"Rogersville, PA",Core Communications,Greene,Landline,3/20/09
+(724) 707-,"Connellsville, PA",Core Communications,Fayette,Landline,3/12/01
+(724) 708-,"Greensburg, PA",New Cingular Wireless PCS - IL,Westmoreland,Cell Number,3/19/09
+(724) 709-,"Rochester, PA",Teleport Communications America,Beaver,Landline,5/18/98
+(724) 710-,"Waynesburg, PA",New Cingular Wireless PCS - IL,Greene,Cell Number,
+(724) 712-,"Butler, PA",Sprint Spectrum L.p.,Butler,Cell Number,5/18/98
+(724) 713-,"Mars, PA",Aerial Communications,Butler,Cell Number,5/18/98
+(724) 714-,"New Castle, PA",Verizon Pennsylvania,Lawrence,Landline,6/30/01
+(724) 715-,"Pittsburgh, PA",Teleport Communications America,Allegheny,Landline,5/18/98
+(724) 716-,"Zelienople, PA",Consolidated Communications Enterprise Services-pa,Butler,Landline,8/22/01
+(724) 717-,"Indiana, PA",Consolidated Communications Enterprise Services-pa,Indiana,Landline,6/13/00
+(724) 718-,"Sharpsville, PA",Teleport Communications America,Mercer,Landline,5/10/99
+(724) 719-,"Wexford, PA",Full Service Computing Corporation,Allegheny,Landline,2/7/07
+(724) 720-,"Mars, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,11/12/07
+(724) 721-,"Yukon, PA",Core Communications,Westmoreland,Landline,3/20/09
+(724) 722-,"Yukon, PA",Yukon - Waltz Telephone Co.,Westmoreland,Landline,5/18/98
+(724) 723-,"Indiana, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 725-,"Point Marion, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 726-,"Aultman, PA",Verizon Pennsylvania,Indiana,Landline,5/18/98
+(724) 727-,"Vandergrift, PA",Verizon North Inc.-pa,Westmoreland,Landline,5/18/98
+(724) 728-,"Rochester, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 729-,"Paris, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 730-,"New Castle, PA",New Cingular Wireless PCS - IL,Lawrence,Cell Number,5/18/98
+(724) 731-,"Venetia, PA",Choice One Communications,Washington,Landline,1/14/00
+(724) 732-,"Beaver Falls, PA",Verizon Pennsylvania,Beaver,Landline,6/15/01
+(724) 733-,"Export, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 734-,"Sharon, PA",Sprint Spectrum L.p.,Mercer,Cell Number,8/21/01
+(724) 735-,"Harrisville, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 736-,"Perryopolis, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 737-,"Mc Clellandtown, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 738-,"Slippery Rock, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 739-,"Derry, PA",Teleport Communications America,Westmoreland,Landline,5/10/99
+(724) 740-,"Wampum, PA",Consolidated Communications Enterprise Services-pa,Lawrence,Landline,8/22/01
+(724) 741-,"Cranberry Twp, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,6/13/00
+(724) 742-,"Cranberry Twp, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 743-,"Canonsburg, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 744-,"Harrison City, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 745-,"Canonsburg, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 746-,"Canonsburg, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 747-,"Washington, PA",Cellco Partnership DBA Verizon Wireless,Washington,Cell Number,1/14/00
+(724) 748-,"Volant, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Lawrence,Landline,5/18/98
+(724) 749-,"Canonsburg, PA",Paetec Communications,Washington,Landline,1/29/01
+(724) 750-,"Emlenton, PA",Comcast Phone Of Pennsylvania,Venango,Landline,4/10/08
+(724) 751-,"Marianna, PA",Idt America Corp,Washington,Landline,2/13/09
+(724) 752-,"Ellwood City, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 753-,"Petrolia, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 754-,"Canonsburg, PA",Intermedia Communications Inc.,Washington,Landline,1/14/00
+(724) 755-,"Youngwood, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 756-,"Petrolia, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 757-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,12/13/07
+(724) 758-,"Ellwood City, PA",Verizon Pennsylvania,Lawrence,Landline,5/18/98
+(724) 759-,"Wexford, PA",New Cingular Wireless PCS - IL,Allegheny,Cell Number,4/12/06
+(724) 760-,"Canonsburg, PA",Advanced Telephone Sys Inc DBA Htc Communications,Washington,Landline,8/20/00
+(724) 761-,"New Castle, PA",Local Access LLC,Lawrence,Cell Number,5/29/07
+(724) 762-,"Indiana, PA",New Cingular Wireless PCS - IL,Indiana,Cell Number,6/13/00
+(724) 763-,"Ford City, PA",Windstream Pennsylvania,Armstrong,Landline,5/18/98
+(724) 764-,"Midland, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 765-,"Irwin, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,6/13/00
+(724) 766-,"Mars, PA",Cellco Partnership DBA Verizon Wireless,Butler,Landline,11/12/03
+(724) 767-,"Sharon, PA",Consolidated Communications Enterprise Services-pa,Mercer,Landline,10/31/00
+(724) 768-,"Russellton, PA",Armstrong Telecommunications,Allegheny,Landline,4/5/06
+(724) 769-,"California, PA",Telcove Of Pennsylvania,Washington,Landline,6/30/01
+(724) 770-,"Rochester, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 771-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,4/18/07
+(724) 772-,"Cranberry Twp, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 773-,"Rochester, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 774-,"Rochester, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 775-,"Rochester, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 776-,"Cranberry Twp, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 777-,"Aliquippa, PA",New Cingular Wireless PCS - IL,Beaver,Cell Number,4/9/02
+(724) 778-,"Cranberry Twp, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,11/20/98
+(724) 779-,"Cranberry Twp, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 780-,"Farmington, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 781-,"Fayette City, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 782-,"Pittsburgh, PA",Teleport Communications America,Allegheny,Landline,5/10/99
+(724) 783-,"Rural Valley, PA",Windstream Pennsylvania,Armstrong,Landline,5/18/98
+(724) 784-,"Pittsburgh, PA",Teleport Communications America,Allegheny,Landline,5/10/99
+(724) 785-,"Brownsville, PA",Verizon Pennsylvania,Fayette,Landline,5/18/98
+(724) 786-,"Freeport, PA",Intermedia Communications Inc.,Armstrong,Landline,8/13/10
+(724) 787-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,1/14/00
+(724) 788-,"Aliquippa, PA",Core Communications,Beaver,Landline,3/12/01
+(724) 789-,"Renfrew, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 790-,"Bessemer, PA",Teleport Communications America,Lawrence,Landline,10/17/01
+(724) 791-,"Parker, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Clarion,Landline,5/18/98
+(724) 792-,"New Brighton, PA",Usa Mobility Wireless,Beaver,Cell Number,11/20/98
+(724) 793-,"Sharon, PA",Windstream Pennsylvania,Mercer,Cell Number,7/15/11
+(724) 794-,"Slippery Rock, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 795-,"Hickory, PA",Advanced Telephone Sys Inc DBA Htc Communications,Washington,Landline,8/20/00
+(724) 796-,"Bulger, PA",Windstream Pennsylvania,Washington,Landline,5/18/98
+(724) 797-,"Belle Vernon, PA",Leap Wireless Intl DBA Cricket Comm,Westmoreland,Cell Number,9/19/01
+(724) 798-,"Belle Vernon, PA",Level 3 Communications,Westmoreland,Landline,6/30/01
+(724) 799-,"Wexford, PA",New Cingular Wireless PCS - IL,Allegheny,Cell Number,12/4/03
+(724) 800-,"Portersville, PA",Bandwidth.com Clec,Lawrence,Landline,2/6/13
+(724) 801-,"Indiana, PA",Sprint Spectrum L.p.,Indiana,Cell Number,8/20/00
+(724) 802-,"Waynesburg, PA",Windstream Pennsylvania,Greene,Cell Number,10/23/06
+(724) 803-,"Avella, PA",Xo Communications Services Inc,Washington,Landline,7/21/05
+(724) 804-,"Latrobe, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,3/3/01
+(724) 805-,"Latrobe, PA",Choice One Communications,Westmoreland,Landline,1/14/00
+(724) 806-,"Scottdale, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 807-,"Grove City, PA",Teleport Communications America,Mercer,Landline,5/18/98
+(724) 808-,"Belle Vernon, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,8/22/01
+(724) 809-,"Washington, PA",Consolidated Communications Enterprise Services-pa,Washington,Landline,8/22/01
+(724) 810-,"Belle Vernon, PA",Verizon Pennsylvania,Westmoreland,Landline,5/30/01
+(724) 812-,"Uniontown, PA",Level 3 Communications,Fayette,Landline,6/30/01
+(724) 813-,"Sharpsville, PA",New Cingular Wireless PCS - IL,Mercer,Cell Number,5/18/98
+(724) 814-,"Mars, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,4/21/08
+(724) 815-,"Sharpsville, PA",Consolidated Communications Enterprise Services-pa,Mercer,Landline,8/22/01
+(724) 816-,"Mars, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,5/31/01
+(724) 817-,"Avonmore, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,6/30/01
+(724) 818-,"Parker, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Clarion,Landline,6/27/01
+(724) 819-,"Washington, PA",Fibernet Telecommunications Of Pennsylvania LLC Pa,Washington,Landline,6/11/08
+(724) 820-,"Canonsburg, PA",Us Lec Of Pennsylvania,Washington,Landline,9/25/01
+(724) 821-,"Mc Donald, PA",Advanced Telephone Sys Inc DBA Htc Communications,Washington,Landline,8/20/00
+(724) 822-,"Butler, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,11/20/98
+(724) 823-,"Donora, PA",Teleport Communications America,Washington,Landline,5/10/99
+(724) 824-,"Ellwood City, PA",Teleport Communications America,Lawrence,Landline,5/10/99
+(724) 825-,"Washington, PA",Level 3 Communications,Washington,Landline,6/30/01
+(724) 826-,"Springdale, PA",Leap Wireless Intl DBA Cricket Comm,Allegheny,Cell Number,1/31/01
+(724) 827-,"New Galilee, PA",Windstream Pennsylvania,Lawrence,Landline,5/18/98
+(724) 828-,"Mc Donald, PA",Comcast Phone Of Pennsylvania,Washington,Landline,9/5/08
+(724) 829-,"Greensburg, PA",Usa Mobility Wireless,Westmoreland,Cell Number,2/27/99
+(724) 830-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 831-,"Mars, PA",Leap Wireless Intl DBA Cricket Comm,Butler,Cell Number,4/16/01
+(724) 832-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 833-,"Waynesburg, PA",Cellco Partnership DBA Verizon Wireless,Greene,Cell Number,7/9/05
+(724) 834-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 835-,"Herminie, PA",Teleport Communications America,Westmoreland,Landline,5/10/99
+(724) 836-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 837-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 838-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 839-,"Dilliner, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 840-,"Indiana, PA",Cellco Partnership DBA Verizon Wireless,Indiana,Cell Number,7/22/02
+(724) 841-,"Butler, PA",Armstrong Telecommunications,Butler,Landline,9/27/06
+(724) 842-,"Leechburg, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 843-,"Beaver Falls, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 844-,"Sandy Lake, PA",Windstream Pennsylvania,Mercer,Landline,5/9/08
+(724) 845-,"Leechburg, PA",Windstream Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 846-,"Beaver Falls, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 847-,"Beaver Falls, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 848-,"Meridian, PA",Consolidated Communications Enterprise Services-pa,Butler,Landline,10/31/00
+(724) 849-,"Mount Pleasant, PA",Armstrong Telecommunications,Westmoreland,Landline,4/1/05
+(724) 850-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 851-,"Sharpsville, PA",New Cingular Wireless PCS - IL,Mercer,Cell Number,6/13/00
+(724) 852-,"Waynesburg, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 853-,"Greensburg, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 854-,"Sharpsville, PA",New Cingular Wireless PCS - IL,Mercer,Cell Number,6/30/01
+(724) 855-,"Hilliards, PA",Core Communications,Butler,Landline,4/16/04
+(724) 856-,"New Castle, PA",Choice One Communications,Lawrence,Landline,3/3/01
+(724) 857-,"Aliquippa, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 858-,"Greensburg, PA",Telcove Of Pennsylvania,Westmoreland,Landline,3/3/01
+(724) 859-,"Kittanning, PA",Cellco Partnership DBA Verizon Wireless,Armstrong,Cell Number,8/13/02
+(724) 860-,"Smithfield, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 861-,"Irwin, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 862-,"Midland, PA",Teleport Communications America,Beaver,Landline,5/10/99
+(724) 863-,"Irwin, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 864-,"Irwin, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 865-,"Prospect, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 866-,"Sharpsville, PA",New Cingular Wireless PCS - IL,Mercer,Cell Number,5/18/98
+(724) 867-,"Emlenton, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Venango,Landline,5/18/98
+(724) 868-,"Templeton, PA",Windstream Pennsylvania,Armstrong,Landline,5/18/98
+(724) 869-,"Baden, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 870-,"Grove City, PA",Consolidated Communications Enterprise Services-pa,Mercer,Landline,8/22/01
+(724) 871-,"Pittsburgh, PA",Global Crossing Local Services-pa,Allegheny,Landline,5/10/99
+(724) 872-,"West Newton, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 873-,"Canonsburg, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 874-,"Westford, PA",Windstream Pennsylvania,Crawford,Landline,3/20/09
+(724) 875-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,7/3/02
+(724) 876-,"Baden, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 877-,"Sharon, PA",New Cingular Wireless PCS - IL,Mercer,Cell Number,2/27/03
+(724) 878-,"Dilliner, PA",West Side Telephone Co.,Greene,Landline,5/10/99
+(724) 879-,"Latrobe, PA",Teleport Communications America,Westmoreland,Landline,5/18/98
+(724) 880-,"Uniontown, PA",Cellco Partnership DBA Verizon Wireless,Fayette,Cell Number,5/31/01
+(724) 881-,"Vandergrift, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,6/30/01
+(724) 882-,"New Kensington, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,6/14/01
+(724) 883-,"Jefferson, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 884-,"Washington, PA",Choice One Communications,Washington,Landline,7/22/99
+(724) 885-,"Greenville, PA",Pymatuning Independent Telephone Company,Mercer,Landline,10/6/06
+(724) 886-,"Dilliner, PA",New Cingular Wireless PCS - IL,Greene,Cell Number,3/15/04
+(724) 887-,"Scottdale, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 888-,"Rochester, PA",Cavalier Telephone Mid-atlantic,Beaver,Landline,8/19/10
+(724) 889-,"New Kensington, PA",Choice One Communications,Westmoreland,Landline,7/22/99
+(724) 891-,"Beaver Falls, PA",Verizon Pennsylvania,Beaver,Landline,5/18/98
+(724) 892-,"Mc Clellandtown, PA",Idt America Corp,Fayette,Landline,10/4/06
+(724) 893-,"Mercer, PA",Core Communications,Mercer,Landline,3/12/01
+(724) 894-,"Petrolia, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Butler,Landline,5/18/98
+(724) 895-,"Tarentum, PA",Teleport Communications America,Allegheny,Landline,5/18/98
+(724) 896-,"Hickory, PA",Teleport Communications America,Washington,Landline,9/21/01
+(724) 897-,"Fairchance, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 898-,"Valencia, PA",Consolidated Communications Of Pennsylvania Co,Butler,Landline,5/18/98
+(724) 899-,"Clinton, PA",Armstrong Telephone Co. Of Pennsylvania,Beaver,Landline,5/18/98
+(724) 900-,"Mars, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,9/25/12
+(724) 901-,"New Wilmington, PA",Level 3 Communications,Lawrence,Landline,5/12/05
+(724) 902-,"Ford City, PA",Sprint Spectrum L.p.,Armstrong,Cell Number,5/18/98
+(724) 903-,"Valencia, PA",Intermedia Communications Inc.,Butler,Landline,5/12/05
+(724) 904-,"Tarentum, PA",Intermedia Communications Inc.,Allegheny,Landline,5/18/98
+(724) 905-,"Clymer, PA",Level 3 Communications,Indiana,Landline,10/5/05
+(724) 906-,"W Middlesex, PA",Telcove Of Pennsylvania,Mercer,Landline,6/13/00
+(724) 907-,"Scottdale, PA",Level 3 Communications,Westmoreland,Landline,6/30/01
+(724) 908-,"Perryopolis, PA",Level 3 Communications,Fayette,Landline,5/2/01
+(724) 909-,"Pittsburgh, PA",Intermedia Communications Inc.,Allegheny,Landline,5/18/98
+(724) 910-,"Indiana, PA",Sprint Spectrum L.p.,Indiana,Cell Number,5/18/98
+(724) 912-,"Uniontown, PA",Teleport Communications America,Fayette,Landline,5/18/98
+(724) 913-,"Hookstown, PA",Teleport Communications America,Beaver,Landline,5/10/99
+(724) 914-,"Washington, PA",Fibernet Telecommunications Of Pennsylvania LLC Pa,Washington,Landline,2/19/03
+(724) 915-,"Homer City, PA",Level 3 Communications,Indiana,Landline,10/5/05
+(724) 916-,"Canonsburg, PA",Choice One Communications,Washington,Landline,1/14/00
+(724) 917-,"Greenville, PA",Consolidated Communications Enterprise Services-pa,Mercer,Landline,6/30/01
+(724) 918-,"Pittsburgh, PA",Level 3 Communications,Allegheny,Landline,6/30/01
+(724) 919-,"Kittanning, PA",Leap Wireless Intl DBA Cricket Comm,Armstrong,Cell Number,2/21/08
+(724) 920-,"Aliquippa, PA",New Cingular Wireless PCS - IL,Beaver,Cell Number,10/18/05
+(724) 921-,"Imperial, PA",Armstrong Telecommunications,Allegheny,Landline,6/15/06
+(724) 922-,"Finleyville, PA",Consolidated Communications Enterprise Services-pa,Washington,Landline,2/13/02
+(724) 923-,"New Castle, PA",New Cingular Wireless PCS - IL,Lawrence,Cell Number,6/13/00
+(724) 924-,"New Castle, PA",Verizon North Inc.-pa,Lawrence,Landline,5/18/98
+(724) 925-,"Youngwood, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 926-,"Mc Donald, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 927-,"Westford, PA",Windstream Pennsylvania,Crawford,Landline,5/18/98
+(724) 928-,"Oakdale, PA",Advanced Telephone Sys Inc DBA Htc Communications,Allegheny,Landline,8/20/00
+(724) 929-,"Belle Vernon, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 930-,"Belle Vernon, PA",Verizon Pennsylvania,Westmoreland,Landline,5/18/98
+(724) 931-,"Sharon, PA",T-mobile Usa,Mercer,Cell Number,4/24/02
+(724) 932-,"Jamestown, PA",Windstream Pennsylvania,Crawford,Landline,5/18/98
+(724) 933-,"Wexford, PA",Consolidated Communications Of Pennsylvania Co,Allegheny,Landline,8/14/98
+(724) 934-,"Wexford, PA",Consolidated Communications Of Pennsylvania Co,Allegheny,Landline,8/14/98
+(724) 935-,"Wexford, PA",Consolidated Communications Of Pennsylvania Co,Allegheny,Landline,8/14/98
+(724) 937-,"Grove City, PA",Core Communications,Mercer,Landline,3/12/01
+(724) 938-,"California, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 939-,"Pittsburgh, PA",Us Lec Of Pennsylvania,Allegheny,Landline,12/15/05
+(724) 940-,"Wexford, PA",Consolidated Communications Of Pennsylvania Co,Allegheny,Landline,8/14/98
+(724) 941-,"Venetia, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 942-,"Venetia, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 943-,"Greensboro, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 944-,"New Castle, PA",Cellco Partnership DBA Verizon Wireless,Lawrence,Cell Number,3/15/02
+(724) 945-,"Scenery Hill, PA",Marianna - Scenery Hill Telephone Co.,Washington,Landline,5/18/98
+(724) 946-,"New Wilmington, PA",Verizon North Inc.-pa,Lawrence,Landline,5/18/98
+(724) 947-,"Burgettstn, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 948-,"Claysville, PA",Verizon North Inc.-pa (quaker St),Washington,Landline,5/18/98
+(724) 949-,"Pittsburgh, PA",Intermedia Communications Inc.,Allegheny,Landline,1/14/00
+(724) 951-,"Ligonier, PA",Teleport Communications America,Westmoreland,Landline,5/10/99
+(724) 952-,"Masontown, PA",Core Communications,Fayette,Landline,3/12/01
+(724) 953-,"Greensburg, PA",Core Communications,Westmoreland,Landline,3/12/01
+(724) 954-,"Kittanning, PA",New Cingular Wireless PCS - IL,Armstrong,Cell Number,6/13/00
+(724) 955-,"Paris, PA",A.v. Lauttamus Communications,Washington,Cell Number,10/31/00
+(724) 956-,"Mt Morris, PA",Core Communications,Greene,Landline,3/19/09
+(724) 957-,"Pittsburgh, PA",Intermedia Communications Inc.,Allegheny,Landline,8/14/98
+(724) 960-,"Venetia, PA",Telcove Of Pennsylvania,Washington,Landline,3/3/01
+(724) 961-,"Greensburg, PA",Cellco Partnership DBA Verizon Wireless,Westmoreland,Cell Number,8/16/06
+(724) 962-,"Sharpsville, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 963-,"Uniontown, PA",Leap Wireless Intl DBA Cricket Comm,Fayette,Cell Number,11/13/02
+(724) 964-,"Pulaski, PA",Verizon North Inc.-pa,Lawrence,Landline,5/18/98
+(724) 965-,"New Castle, PA",Global Crossing Local Services-pa,Lawrence,Landline,5/10/99
+(724) 966-,"Carmichaels, PA",Windstream Pennsylvania,Greene,Landline,5/18/98
+(724) 967-,"Grove City, PA",New Cingular Wireless PCS - IL,Mercer,Cell Number,1/14/00
+(724) 968-,"Butler, PA",Leap Wireless Intl DBA Cricket Comm,Butler,Cell Number,2/12/02
+(724) 969-,"Venetia, PA",Verizon Pennsylvania,Washington,Landline,5/18/98
+(724) 970-,"Uniontown, PA",Idt America Corp,Fayette,Landline,7/26/06
+(724) 971-,"New Castle, PA",Sprint Spectrum L.p.,Lawrence,Cell Number,5/18/98
+(724) 972-,"Greensburg, PA",Level 3 Communications,Westmoreland,Landline,6/30/01
+(724) 973-,"Smock, PA",Teleport Communications America,Fayette,Landline,5/10/99
+(724) 974-,"Donegal, PA",Sprint Spectrum L.p.,Westmoreland,Cell Number,12/21/01
+(724) 977-,"Sharon, PA",Cellco Partnership DBA Verizon Wireless,Mercer,Cell Number,8/9/02
+(724) 978-,"Irwin, PA",Choice One Communications,Westmoreland,Landline,1/14/00
+(724) 979-,"Sharon, PA","Sprint Communications Company, L.p.",Mercer,Landline,8/31/06
+(724) 980-,"New Kensington, PA",Sprint Spectrum L.p.,Westmoreland,Cell Number,2/11/02
+(724) 981-,"Sharon, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 982-,"Sharon, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 983-,"Sharon, PA",Verizon Pennsylvania,Mercer,Landline,5/18/98
+(724) 984-,"Uniontown, PA",Cellco Partnership DBA Verizon Wireless,Fayette,Cell Number,8/9/02
+(724) 985-,"Transfer, PA","Time Warner Cable Information Svcs (pa), Pa",Mercer,Landline,11/21/07
+(724) 986-,"Washington, PA",Cellco Partnership DBA Verizon Wireless,Washington,Cell Number,8/9/02
+(724) 987-,"Rochester, PA",Telcove Of Pennsylvania,Beaver,Landline,6/13/00
+(724) 988-,"Greenville, PA",Sprint Spectrum L.p.,Mercer,Cell Number,8/21/01
+(724) 989-,"Greensburg, PA",New Cingular Wireless PCS - IL,Westmoreland,Cell Number,7/19/01
+(724) 990-,"Bolivar, PA",Consolidated Communications Enterprise Services-pa,Westmoreland,Landline,8/22/01
+(724) 991-,"Butler, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,8/9/02
+(724) 992-,"Grove City, PA",Cellco Partnership DBA Verizon Wireless,Mercer,Cell Number,5/31/01
+(724) 993-,"Washington, PA",Advanced Telephone Sys Inc DBA Htc Communications,Washington,Landline,8/20/00
+(724) 994-,"New Kensington, PA",Us Lec Of Pennsylvania,Westmoreland,Landline,9/25/01
+(724) 995-,"Ligonier, PA",Verizon Pennsylvania,Westmoreland,Landline,6/30/01
+(724) 996-,"Butler, PA",Cellco Partnership DBA Verizon Wireless,Butler,Cell Number,6/10/08
+(724) 997-,"Monongahela, PA",Core Communications,Washington,Landline,3/12/01
+(724) 998-,"Waynesburg, PA",New Cingular Wireless PCS - IL,Greene,Cell Number,8/14/98
+(724) 999-,"Jamestown, PA",Windstream Pennsylvania,Crawford,Landline,3/7/12

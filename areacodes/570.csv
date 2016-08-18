@@ -1,0 +1,763 @@
+Prefix,Primary City,Company,County,Usage,Introduced
+(570) 200-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 201-,"Lawton, PA",Core Communications,Susquehanna,Landline,3/20/09
+(570) 203-,"Hughesville, PA",Core Communications,Lycoming,Landline,3/18/09
+(570) 204-,"Bloomsburg, PA",Cellco Partnership DBA Verizon Wireless,Columbia,Cell Number,5/10/99
+(570) 205-,"Ashland, PA",Cellco Partnership DBA Verizon Wireless,Schuylkill,Cell Number,5/10/99
+(570) 206-,"Middlebry Ctr, PA",Core Communications,Tioga,Landline,3/18/09
+(570) 207-,"Scranton, PA",Ctsi,Lackawanna,Landline,2/27/99
+(570) 208-,"Wilkes Barre, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 209-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,8/11/11
+(570) 212-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 213-,"Stroudsburg, PA",Choice One Communications,Monroe,Landline,8/20/00
+(570) 214-,"Danville, PA",Verizon Pennsylvania,Montour,Landline,6/30/01
+(570) 215-,"White Haven, PA",Telcove Of Pennsylvania,Luzerne,Landline,6/13/00
+(570) 216-,"Mount Pocono, PA",AT&T Local,Monroe,Landline,9/27/01
+(570) 217-,"Mifflinburg, PA",Cellco Partnership DBA Verizon Wireless,Union,Cell Number,12/13/04
+(570) 218-,"Berwick, PA",Choice One Communications,Columbia,Landline,1/14/00
+(570) 219-,"Falls, PA",Core Communications,Wyoming,Landline,3/18/09
+(570) 220-,"Williamsport, PA",Cellco Partnership DBA Verizon Wireless,Lycoming,Cell Number,5/10/99
+(570) 221-,"Elysburg, PA",Verizon Pennsylvania,Northumberland,Landline,5/21/01
+(570) 222-,"Lenoxville, PA",North Eastern Pennsylvania Telephone Co.,Susquehanna,Landline,2/27/99
+(570) 223-,"Bushkill, PA",Verizon Pennsylvania,Pike,Landline,2/27/99
+(570) 224-,"Galilee, PA",Verizon North Inc.-pa (quaker St),Wayne,Landline,2/27/99
+(570) 225-,"Tamaqua, PA",Telcove Of Pennsylvania,Schuylkill,Landline,6/13/00
+(570) 226-,"Hawley, PA",Verizon Pennsylvania,Wayne,Landline,2/27/99
+(570) 227-,"Scranton, PA",Telcove Of Pennsylvania,Lackawanna,Landline,1/28/04
+(570) 228-,"Honesdale, PA",Sprint Spectrum L.p.,Wayne,Cell Number,4/18/01
+(570) 229-,"Honesdale, PA",Cellco Partnership DBA Verizon Wireless,Wayne,Cell Number,5/24/01
+(570) 230-,"Jermyn, PA",Choice One Communications,Lackawanna,Landline,8/20/00
+(570) 231-,"Berwick, PA",Sprint Spectrum L.p.,Columbia,Cell Number,3/14/01
+(570) 232-,"Shenandoah, PA",Verizon Pennsylvania,Schuylkill,Landline,5/21/01
+(570) 233-,"Hazleton, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,6/13/00
+(570) 234-,"Stroudsburg, PA",Telcove Of Pennsylvania,Monroe,Landline,1/14/00
+(570) 235-,"Wilkes Barre, PA",Comcast Phone Of Pennsylvania,Luzerne,Landline,5/1/07
+(570) 236-,"Stroudsburg, PA",New Cingular Wireless PCS - DC,Monroe,Cell Number,10/31/00
+(570) 237-,"Pittston, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,6/13/00
+(570) 238-,"Milton, PA",Cellco Partnership DBA Verizon Wireless,Northumberland,Cell Number,8/8/08
+(570) 239-,"Wilkes Barre, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,3/3/01
+(570) 240-,"Tunkhannock, PA",Sprint Spectrum L.p.,Wyoming,Cell Number,9/23/03
+(570) 241-,"Scranton, PA",Sprint Spectrum L.p.,Lackawanna,Landline,10/31/00
+(570) 242-,"Honesdale, PA",Cellco Partnership DBA Verizon Wireless,Wayne,Cell Number,1/4/02
+(570) 243-,"Mount Pocono, PA",Telcove Of Pennsylvania,Monroe,Landline,6/13/00
+(570) 244-,"Williamsport, PA",New Cingular Wireless PCS - DC,Lycoming,Landline,6/30/01
+(570) 245-,"Bloomsburg, PA",Choice One Communications,Columbia,Landline,1/14/00
+(570) 246-,"Milton, PA",Sprint Spectrum L.p.,Northumberland,Cell Number,4/18/01
+(570) 247-,"Rome, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 248-,"Lawrenceville, PA",Core Communications,Tioga,Landline,3/18/09
+(570) 249-,"Jim Thorpe, PA",Cellco Partnership DBA Verizon Wireless,Carbon,Cell Number,7/19/04
+(570) 250-,"Towanda, PA",New Cingular Wireless PCS - DC,Bradford,Cell Number,7/26/04
+(570) 251-,"Honesdale, PA",Verizon Pennsylvania,Wayne,Landline,2/27/99
+(570) 252-,"Newfoundland, PA",Telcove Of Pennsylvania,Wayne,Landline,6/13/00
+(570) 253-,"Honesdale, PA",Verizon Pennsylvania,Wayne,Landline,2/27/99
+(570) 254-,"Jermyn, PA",Verizon North Inc.-pa (quaker St),Lackawanna,Landline,2/27/99
+(570) 255-,"Dallas, PA",Commonwealth Telephone Company,Luzerne,Landline,6/14/01
+(570) 256-,"Hunlock Creek, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 257-,"Tafton, PA","Sprint Communications Company, L.p.",Pike,Landline,6/18/01
+(570) 258-,"Nanticoke, PA",Ctsi,Luzerne,Landline,10/31/00
+(570) 259-,"Sunbury, PA",Cellco Partnership DBA Verizon Wireless,Northumberland,Cell Number,1/4/02
+(570) 260-,"Saint Clair, PA",AT&T Local,Schuylkill,Landline,12/7/01
+(570) 261-,"Mountain Top, PA",Choice One Communications,Luzerne,Landline,8/20/00
+(570) 262-,"Wilkes Barre, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,1/14/00
+(570) 263-,"Lock Haven, PA",Sprint Spectrum L.p.,Clinton,Cell Number,6/4/01
+(570) 264-,"Montgomery, PA",Core Communications,Lycoming,Landline,3/18/09
+(570) 265-,"Towanda, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 266-,"Wilkes Barre, PA",Ctsi,Luzerne,Landline,9/22/09
+(570) 267-,"Carbondale, PA",Choice One Communications,Lackawanna,Landline,1/14/00
+(570) 268-,"Towanda, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 269-,"Stroudsburg, PA",New Cingular Wireless PCS - DC,Monroe,Cell Number,9/17/01
+(570) 270-,"Wilkes Barre, PA",Ctsi,Luzerne,Landline,8/20/00
+(570) 271-,"Danville, PA",Verizon Pennsylvania,Montour,Landline,2/27/99
+(570) 273-,"Nesquehoning, PA","Sprint Communications Company, L.p.",Carbon,Landline,6/18/01
+(570) 274-,"Sunbury, PA",Sprint Spectrum L.p.,Northumberland,Cell Number,9/12/01
+(570) 275-,"Danville, PA",Verizon Pennsylvania,Montour,Landline,2/27/99
+(570) 276-,"Girardville, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 277-,"New Philadelphia, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 278-,"Montrose, PA",Commonwealth Telephone Company,Susquehanna,Landline,2/27/99
+(570) 279-,"Williamsport, PA",Sprint Spectrum L.p.,Lycoming,Cell Number,6/6/01
+(570) 280-,"Carbondale, PA",Telcove Of Pennsylvania,Lackawanna,Landline,10/13/99
+(570) 281-,"Carbondale, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 282-,"Carbondale, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 283-,"Kingston, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 284-,"Danville, PA",Verizon Pennsylvania,Montour,Landline,6/21/01
+(570) 285-,"Kingston, PA",Telcove Of Pennsylvania,Luzerne,Landline,10/13/99
+(570) 286-,"Sunbury, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 287-,"Kingston, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 288-,"Kingston, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 289-,"Kingsley, PA",Commonwealth Telephone Company,Susquehanna,Landline,2/27/99
+(570) 290-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,11/9/09
+(570) 291-,"Olyphant, PA",Choice One Communications,Lackawanna,Landline,8/20/00
+(570) 292-,"Pottsville, PA",Keystone Wireless,Schuylkill,Cell Number,3/3/01
+(570) 293-,"Mainville, PA",Choice One Communications,Columbia,Landline,3/3/01
+(570) 294-,"Pottsville, PA",New Cingular Wireless PCS - DC,Schuylkill,Cell Number,10/31/00
+(570) 295-,"Lock Haven, PA",Cellco Partnership DBA Verizon Wireless,Clinton,Cell Number,10/25/01
+(570) 296-,"Milford, PA",Verizon North Inc.-pa (quaker St),Pike,Landline,2/27/99
+(570) 297-,"Troy, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 298-,"Noxen, PA",Commonwealth Telephone Company,Wyoming,Landline,2/27/99
+(570) 299-,"Pittston, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,6/4/01
+(570) 300-,"Pittston, PA",Telcove Of Pennsylvania,Luzerne,Landline,5/10/99
+(570) 301-,"Wilkes Barre, PA",Telcove Of Pennsylvania,Luzerne,Landline,2/27/99
+(570) 302-,"Covington, PA",Level 3 Communications,Tioga,Landline,5/24/04
+(570) 303-,"Thompson, PA",Core Communications,Susquehanna,Landline,3/20/09
+(570) 304-,"Brackney, PA",Core Communications,Susquehanna,Landline,3/18/09
+(570) 305-,"Jackson, PA",Core Communications,Susquehanna,Landline,3/18/09
+(570) 306-,"Covington, PA",Core Communications,Tioga,Landline,3/18/09
+(570) 307-,"Olyphant, PA",Ctsi,Lackawanna,Landline,2/27/99
+(570) 308-,"Muncy, PA",Mci Worldcom Communications,Lycoming,Landline,7/18/08
+(570) 309-,"Scranton, PA",Sprint Spectrum L.p.,Lackawanna,Cell Number,3/6/07
+(570) 310-,"Wilkes Barre, PA",Core Communications,Luzerne,Landline,3/18/09
+(570) 312-,"Hughesville, PA",Comcast Business Communications,Lycoming,Landline,10/3/08
+(570) 313-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 314-,"Dushore, PA",Core Communications,Sullivan,Landline,3/18/09
+(570) 315-,"Scranton, PA",Usa Mobility Wireless,Lackawanna,Cell Number,5/10/99
+(570) 316-,"Bloomsburg, PA",D&e/omnipoint Wirel Joint Vent Lp DBA PCS One,Columbia,Cell Number,9/25/09
+(570) 317-,"Bloomsburg, PA",Mci Worldcom Communications,Columbia,Landline,3/27/05
+(570) 318-,"Williamsport, PA",Schuylkill Mobile Fone,Lycoming,Cell Number,5/10/99
+(570) 319-,"Clarks Summit, PA",Level 3 Communications,Lackawanna,Landline,5/17/04
+(570) 320-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 321-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 322-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 323-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 324-,"Liberty, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 325-,"Jim Thorpe, PA",Verizon Pennsylvania,Carbon,Landline,2/27/99
+(570) 326-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 327-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 328-,"Wilkes Barre, PA","Omnipoint Communications Enterprises, L.p.",Luzerne,Cell Number,2/7/01
+(570) 329-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,10/13/99
+(570) 330-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 331-,"Kingston, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 332-,"Wilkes Barre, PA",Sprint Spectrum L.p.,Luzerne,Landline,2/14/03
+(570) 333-,"Falls, PA",Commonwealth Telephone Company,Wyoming,Landline,2/27/99
+(570) 334-,"Hughesville, PA",Windstream Pennsylvania,Lycoming,Landline,7/15/11
+(570) 335-,"Scranton, PA",Mci Worldcom Communications,Lackawanna,Landline,7/19/04
+(570) 336-,"Bloomsburg, PA",Sprint Spectrum L.p.,Columbia,Cell Number,6/4/01
+(570) 337-,"Williamsport, PA",Cellco Partnership DBA Verizon Wireless,Lycoming,Cell Number,7/22/02
+(570) 338-,"Kingston, PA",Xo Communications Services Inc,Luzerne,Landline,10/13/99
+(570) 339-,"Mt Carmel, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 340-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 341-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 342-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 343-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 344-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 345-,"Pine Grove, PA",Verizon North Inc.-pa (quaker St),Schuylkill,Landline,2/27/99
+(570) 346-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 347-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 348-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 349-,"Muncy Valley, PA",Core Communications,Sullivan,Landline,3/18/09
+(570) 350-,"Stroudsburg, PA",New Cingular Wireless PCS - DC,Monroe,Cell Number,5/10/99
+(570) 351-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,3/3/01
+(570) 352-,"Honesdale, PA",Telcove Of Pennsylvania,Wayne,Landline,6/13/00
+(570) 353-,"Morris, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 355-,"Pocono Pines, PA",Commonwealth Telephone Company,Monroe,Landline,1/9/04
+(570) 356-,"Catawissa, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 357-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 358-,"Ulster, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 359-,"Sugarloaf, PA",Level 3 Communications,Luzerne,Landline,5/17/04
+(570) 360-,"Williamsport, PA",New Cingular Wireless PCS - DC,Lycoming,Cell Number,11/25/09
+(570) 361-,"Susquehanna, PA",Core Communications,Susquehanna,Landline,3/20/09
+(570) 362-,"Pittston, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,1/4/02
+(570) 363-,"New Albany, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 364-,"Granville Summit, PA",Frontier Communications Of Canton,Bradford,Landline,2/27/99
+(570) 365-,"Mount Pleasant Mills, PA",Verizon North Inc.-pa (contel),Snyder,Landline,10/31/01
+(570) 366-,"Orwigsburg, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 367-,"Lock Haven, PA",Telcove Of Pennsylvania,Clinton,Landline,6/13/00
+(570) 368-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 369-,"Stroudsburg, PA",Service Electric Telephone Company,Monroe,Landline,11/23/04
+(570) 370-,"Bloomsburg, PA",Schuylkill Mobile Fone,Columbia,Cell Number,5/10/99
+(570) 371-,"Wilkes Barre, PA",Core Communications,Luzerne,Landline,7/9/03
+(570) 372-,"Selinsgrove, PA",Verizon North Inc.-pa (contel),Snyder,Landline,2/27/99
+(570) 373-,"Kulpmont, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 374-,"Selinsgrove, PA",Verizon North Inc.-pa (contel),Snyder,Landline,2/27/99
+(570) 375-,"Barnesville, PA",Core Communications,Schuylkill,Landline,3/18/09
+(570) 376-,"Middlebury Center, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 377-,"Lock Haven, PA",Cellco Partnership DBA Verizon Wireless,Clinton,Cell Number,1/12/09
+(570) 378-,"Falls, PA",Commonwealth Telephone Company,Wyoming,Landline,2/27/99
+(570) 379-,"Wapwallopen, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 380-,"Bloomsburg, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 381-,"Lake Ariel, PA",Core Communications,Wayne,Landline,3/20/09
+(570) 382-,"Olyphant, PA",Telcove Of Pennsylvania,Lackawanna,Landline,10/13/99
+(570) 383-,"Olyphant, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 384-,"Nuremberg, PA",Commonwealth Telephone Company,Schuylkill,Landline,2/27/99
+(570) 385-,"Schuylkill Haven, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 386-,"Summit Hill, PA",Verizon North Inc.-pa (contel),Carbon,Landline,2/27/99
+(570) 387-,"Bloomsburg, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 388-,"Pittston, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 389-,"Bloomsburg, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 390-,"Hawley, PA",Telcove Of Pennsylvania,Wayne,Landline,6/13/00
+(570) 391-,"Pottsville, PA",Level 3 Communications,Schuylkill,Landline,11/19/09
+(570) 392-,"Wyoming, PA",Choice One Communications,Luzerne,Landline,8/20/00
+(570) 394-,"Bloomsburg, PA",AT&T Local,Columbia,Landline,3/3/01
+(570) 395-,"Warren Center, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 396-,"Montrose, PA",Cellco Partnership DBA Verizon Wireless,Susquehanna,Cell Number,9/10/04
+(570) 397-,"Jermyn, PA",Telcove Of Pennsylvania,Lackawanna,Landline,6/13/00
+(570) 398-,"Jersey Shore, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 399-,"Minersville, PA",Core Communications,Schuylkill,Landline,8/9/01
+(570) 400-,"Shenandoah, PA",Keystone Wireless,Schuylkill,Cell Number,4/23/01
+(570) 401-,"Hazleton, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 402-,"Saylorsburg, PA",Commonwealth Telephone Company,Monroe,Landline,2/27/99
+(570) 403-,"Mountain Top, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 404-,"Mansfield, PA",Cellco Partnership DBA Verizon Wireless,Tioga,Cell Number,8/25/04
+(570) 405-,"Wilkes Barre, PA",Usa Mobility Wireless,Luzerne,Cell Number,5/10/99
+(570) 406-,"Shavertown, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 407-,"Pittston, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 408-,"Wilkes Barre, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 409-,"Milford, PA",Verizon North Inc.-pa (quaker St),Pike,Landline,2/27/99
+(570) 410-,"Wilkes Barre, PA",Core Communications,Luzerne,Landline,3/18/09
+(570) 412-,"Milton, PA",Sprint Spectrum L.p.,Northumberland,Cell Number,6/4/01
+(570) 413-,"Jim Thorpe, PA",Telcove Of Pennsylvania,Carbon,Landline,6/13/00
+(570) 414-,"Moosic, PA",Ctsi,Lackawanna,Landline,2/27/99
+(570) 415-,"Sunbury, PA",Ctsi,Northumberland,Landline,7/22/11
+(570) 416-,"Bloomsburg, PA",Ctsi,Columbia,Landline,2/27/99
+(570) 417-,"Wilkes Barre, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Landline,3/3/01
+(570) 418-,"Tioga, PA",Cellco Partnership DBA Verizon Wireless,Tioga,Cell Number,8/25/04
+(570) 419-,"Williamsport, PA",Cellco Partnership DBA Verizon Wireless,Lycoming,Cell Number,5/10/99
+(570) 420-,"Stroudsburg, PA",Verizon Pennsylvania,Monroe,Landline,5/10/99
+(570) 421-,"Stroudsburg, PA",Verizon Pennsylvania,Monroe,Landline,5/10/99
+(570) 422-,"Stroudsburg, PA",Verizon Pennsylvania,Monroe,Landline,5/10/99
+(570) 423-,"Sayre, PA",Cellco Partnership DBA Verizon Wireless,Bradford,Cell Number,9/21/04
+(570) 424-,"Stroudsburg, PA",Verizon Pennsylvania,Monroe,Landline,5/10/99
+(570) 425-,"Klingerstown, PA",Mahanoy & Mahantongo Telephone Co.,Schuylkill,Landline,2/27/99
+(570) 426-,"Stroudsburg, PA",Verizon Pennsylvania,Monroe,Landline,10/13/99
+(570) 427-,"Weatherly, PA",Verizon Pennsylvania,Carbon,Landline,2/27/99
+(570) 428-,"Milton, PA",Verizon Pennsylvania,Northumberland,Landline,5/21/01
+(570) 429-,"Saint Clair, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 430-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 431-,"Bushkill, PA",Telcove Of Pennsylvania,Pike,Landline,6/13/00
+(570) 432-,"Montrose, PA","Time Warner Cable Information Svcs (pa), Pa",Susquehanna,Landline,4/21/08
+(570) 433-,"Loyalsockvle, PA",Verizon North Inc.-pa (quaker St),Lycoming,Landline,2/27/99
+(570) 434-,"Harford, PA",North Eastern Pennsylvania Telephone Co.,Susquehanna,Landline,2/27/99
+(570) 435-,"Loyalsockvle, PA",Verizon North Inc.-pa (quaker St),Lycoming,Landline,2/27/99
+(570) 436-,"Hazleton, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,6/13/00
+(570) 437-,"Turbotville, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 438-,"Hop Bottom, PA",Core Communications,Susquehanna,Landline,3/18/09
+(570) 439-,"Wellsboro, PA",Cellco Partnership DBA Verizon Wireless,Tioga,Cell Number,8/25/04
+(570) 440-,"Pottsville, PA",Schuylkill Mobile Fone,Schuylkill,Cell Number,5/10/99
+(570) 441-,"Bloomsburg, PA",Cellco Partnership DBA Verizon Wireless,Columbia,Cell Number,6/13/01
+(570) 442-,"Thompson, PA",Nep Cellcorp,Susquehanna,Cell Number,8/16/06
+(570) 443-,"White Haven, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 444-,"Milton, PA",Keystone Wireless,Northumberland,Cell Number,8/20/00
+(570) 445-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,5/7/09
+(570) 446-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 447-,"Williamsport, PA",Cellco Partnership DBA Verizon Wireless,Lycoming,Landline,2/27/99
+(570) 448-,"Pleasant Mount, PA",North Eastern Pennsylvania Telephone Co.,Wayne,Landline,2/27/99
+(570) 449-,"Pottsville, PA",Cellco Partnership DBA Verizon Wireless,Schuylkill,Cell Number,5/10/99
+(570) 450-,"Hazleton, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 451-,"Moosic, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 452-,"Northumberland, PA",Cellco Partnership DBA Verizon Wireless,Northumberland,Cell Number,5/10/99
+(570) 453-,"Hazleton, PA",Verizon Pennsylvania,Luzerne,Landline,10/13/99
+(570) 454-,"Hazleton, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 455-,"Hazleton, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 456-,"Moosic, PA",Xo Communications Services Inc,Lackawanna,Landline,10/13/99
+(570) 457-,"Moosic, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 458-,"Millville, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 459-,"Hazleton, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 460-,"Stroudsburg, PA",Cellco Partnership DBA Verizon Wireless,Monroe,Cell Number,5/10/99
+(570) 461-,"Starrucca, PA",Deposit Telephone Co.,Wayne,Landline,2/27/99
+(570) 462-,"Shenandoah, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 463-,"Mansfield, PA",Core Communications,Tioga,Landline,3/18/09
+(570) 464-,"Turbotville, PA",Core Communications,Northumberland,Landline,3/19/09
+(570) 465-,"New Milford, PA",North Eastern Pennsylvania Telephone Co.,Susquehanna,Landline,2/27/99
+(570) 466-,"Pittston, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 467-,"Barnesville, PA",Frontier Communications Of Lakewood,Schuylkill,Landline,2/27/99
+(570) 468-,"Scranton, PA",New Cingular Wireless PCS - DC,Lackawanna,Cell Number,11/3/09
+(570) 469-,"Laceyville, PA","Sprint Communications Company, L.p.",Bradford,Landline,8/21/09
+(570) 470-,"Honesdale, PA",New Cingular Wireless PCS - DC,Wayne,Cell Number,5/10/99
+(570) 471-,"Moosic, PA",Telcove Of Pennsylvania,Lackawanna,Landline,10/13/99
+(570) 472-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 473-,"Northumberland, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 474-,"Mountain Top, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 475-,"Mountain Top, PA",Telcove Of Pennsylvania,Luzerne,Landline,10/13/99
+(570) 476-,"Stroudsburg, PA",Verizon Pennsylvania,Monroe,Landline,5/10/99
+(570) 477-,"Sweet Valley, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 478-,"Hillsgrove, PA",Verizon North Inc.-pa (quaker St),Sullivan,Landline,2/27/99
+(570) 479-,"Pittston, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 480-,"Moosic, PA",Usa Mobility Wireless,Lackawanna,Cell Number,5/10/99
+(570) 481-,"Cresco, PA",Telcove Of Pennsylvania,Monroe,Landline,6/13/00
+(570) 482-,"Muncy Valley, PA",Commonwealth Telephone Company,Sullivan,Landline,2/27/99
+(570) 483-,"Olyphant, PA",Xo Communications Services Inc,Lackawanna,Landline,10/13/99
+(570) 484-,"Lock Haven, PA",Verizon Pennsylvania,Clinton,Landline,5/21/01
+(570) 485-,"Towanda, PA",Core Communications,Bradford,Landline,3/19/09
+(570) 486-,"Shamokin, PA",Sprint Spectrum L.p.,Northumberland,Cell Number,4/18/01
+(570) 487-,"Olyphant, PA",Verizon Pennsylvania,Lackawanna,Landline,10/13/99
+(570) 488-,"Waymart, PA",South Canaan Telephone Co.,Wayne,Landline,2/27/99
+(570) 489-,"Olyphant, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 490-,"Northumberland, PA",Cellco Partnership DBA Verizon Wireless,Northumberland,Cell Number,5/10/99
+(570) 491-,"Matamoras, PA",Verizon North Inc.-pa (quaker St),Pike,Landline,2/27/99
+(570) 492-,"Sunbury, PA",Cellco Partnership DBA Verizon Wireless,Northumberland,Cell Number,1/12/10
+(570) 493-,"Honesdale, PA",Cellco Partnership DBA Verizon Wireless,Wayne,Cell Number,5/10/99
+(570) 494-,"Williamsport, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 495-,"Sunbury, PA",Telcove Of Pennsylvania,Northumberland,Landline,6/13/00
+(570) 496-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 497-,"Hazleton, PA","Omnipoint Communications Enterprises, L.p.",Luzerne,Cell Number,4/10/02
+(570) 498-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 499-,"Scranton, PA",Sprint Spectrum L.p.,Lackawanna,Cell Number,9/17/01
+(570) 500-,"Shamokin, PA",Level 3 Communications,Northumberland,Landline,3/26/10
+(570) 501-,"Hazleton, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 502-,"Lock Haven, PA",New Cingular Wireless PCS - DC,Clinton,Cell Number,11/3/09
+(570) 503-,"Hamlin, PA",Choice One Communications,Wayne,Landline,8/20/00
+(570) 504-,"Scranton, PA",Xo Communications Services Inc,Lackawanna,Landline,2/27/99
+(570) 505-,"Williamsport, PA",Windstream D & E Systems,Lycoming,Landline,4/5/10
+(570) 506-,"Williamsport, PA",New Cingular Wireless PCS - DC,Lycoming,Landline,3/3/01
+(570) 507-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,12/2/11
+(570) 508-,"Watsontown, PA",Level 3 Communications,Northumberland,Landline,2/9/06
+(570) 509-,"Shamokin, PA",Telcove Of Pennsylvania,Northumberland,Landline,6/13/00
+(570) 510-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 512-,"Troy, PA",Americell Pa-3 Limited Partnership,Bradford,Cell Number,1/20/05
+(570) 513-,"Mansfield, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 514-,"Morris, PA",Core Communications,Tioga,Landline,3/18/09
+(570) 515-,"Montgomery, PA",Windstream Pennsylvania,Lycoming,Landline,10/3/08
+(570) 516-,"Pottsville, PA",New Cingular Wireless PCS - DC,Schuylkill,Cell Number,10/26/09
+(570) 517-,"Stroudsburg, PA",Ctsi,Monroe,Landline,2/27/99
+(570) 518-,"Mifflinburg, PA",Core Communications,Union,Landline,3/18/09
+(570) 519-,"Harveys Lake, PA",Comcast Phone Of Pennsylvania,Luzerne,Landline,10/15/08
+(570) 520-,"Berwick, PA",Telcove Of Pennsylvania,Columbia,Landline,6/13/00
+(570) 521-,"Jermyn, PA",Xo Communications Services Inc,Lackawanna,Landline,10/13/99
+(570) 522-,"Lewisburg, PA",Windstream Buffalo Valley,Union,Landline,2/27/99
+(570) 523-,"Lewisburg, PA",Windstream Buffalo Valley,Union,Landline,2/27/99
+(570) 524-,"Lewisburg, PA",Windstream Buffalo Valley,Union,Landline,2/27/99
+(570) 525-,"Muncy Valley, PA",Commonwealth Telephone Company,Sullivan,Landline,2/27/99
+(570) 526-,"Freeland, PA",Core Communications,Luzerne,Landline,3/18/09
+(570) 527-,"Pottsville, PA",Sprint Spectrum L.p.,Schuylkill,Cell Number,9/27/01
+(570) 528-,"Harford, PA",Core Communications,Susquehanna,Landline,3/18/09
+(570) 529-,"Troy, PA",Cellco Partnership DBA Verizon Wireless,Bradford,Cell Number,9/10/04
+(570) 530-,"Rome, PA",Core Communications,Bradford,Landline,3/20/09
+(570) 531-,"Renovo, PA",Telcove Of Pennsylvania,Clinton,Landline,6/13/00
+(570) 532-,"Liberty, PA",Core Communications,Tioga,Landline,3/18/09
+(570) 533-,"Montrose, PA",Core Communications,Susquehanna,Landline,3/19/09
+(570) 534-,"Stroudsburg, PA",New Cingular Wireless PCS - DC,Monroe,Cell Number,2/23/10
+(570) 535-,"Scranton, PA",Usa Mobility Wireless,Lackawanna,Cell Number,10/13/99
+(570) 536-,"Carbondale, PA",Service Electric Telephone Company,Lackawanna,Landline,2/13/12
+(570) 537-,"Millerton, PA",North Penn Telephone Co.,Tioga,Landline,2/27/99
+(570) 538-,"Watsontown, PA",Windstream Pennsylvania,Northumberland,Landline,2/27/99
+(570) 539-,"Mount Pleasant Mills, PA",Verizon North Inc.-pa (contel),Snyder,Landline,2/27/99
+(570) 540-,"Pittston, PA","Omnipoint Communications Enterprises, L.p.",Luzerne,Cell Number,11/6/01
+(570) 541-,"Middleburg, PA",New Cingular Wireless PCS - DC,Snyder,Cell Number,8/16/06
+(570) 542-,"Shickshinny, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 543-,"Taylor, PA",Xo Communications Services Inc,Lackawanna,Landline,10/13/99
+(570) 544-,"Minersville, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 545-,"Mansfield, PA","Sprint Communications Company, L.p.",Tioga,Cell Number,3/24/05
+(570) 546-,"Muncy, PA",Windstream Pennsylvania,Lycoming,Landline,2/27/99
+(570) 547-,"Montgomery, PA",Windstream Pennsylvania,Lycoming,Landline,2/27/99
+(570) 548-,"Friendsville, PA",Core Communications,Susquehanna,Landline,3/20/09
+(570) 549-,"Mainesburg, PA",North Penn Telephone Co.,Tioga,Landline,2/27/99
+(570) 550-,"Wilkes Barre, PA",Bandwidth.com Clec,Luzerne,Landline,9/1/11
+(570) 551-,"Lewisburg, PA",Windstream Buffalo Valley,Union,Landline,7/15/11
+(570) 552-,"Wilkes Barre, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 553-,"Friendsville, PA",Commonwealth Telephone Company,Susquehanna,Landline,2/27/99
+(570) 554-,"Mt Carmel, PA",Telcove Of Pennsylvania,Northumberland,Landline,6/13/00
+(570) 556-,"Sunbury, PA",Sprint Spectrum L.p.,Northumberland,Cell Number,12/14/01
+(570) 557-,"New Milford, PA",Nep Cellcorp,Susquehanna,Cell Number,8/16/06
+(570) 558-,"Scranton, PA",Ctsi,Lackawanna,Landline,10/13/99
+(570) 559-,"Shohola, PA",Verizon North Inc.-pa (quaker St),Pike,Landline,2/27/99
+(570) 560-,"Williamsport, PA",Cellco Partnership DBA Verizon Wireless,Lycoming,Cell Number,1/12/10
+(570) 561-,"Scranton, PA",Xo Communications Services Inc,Lackawanna,Landline,6/30/01
+(570) 562-,"Taylor, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 563-,"Dalton, PA",Commonwealth Telephone Company,Lackawanna,Landline,2/27/99
+(570) 564-,"Tioga, PA",Core Communications,Tioga,Landline,3/20/09
+(570) 565-,"Taylor, PA",Telcove Of Pennsylvania,Lackawanna,Landline,10/13/99
+(570) 566-,"Pleasant Mt, PA",Core Communications,Wayne,Landline,3/20/09
+(570) 567-,"Williamsport, PA",Windstream D & E Systems,Lycoming,Landline,3/3/01
+(570) 568-,"Lewisburg, PA",Windstream Buffalo Valley,Union,Landline,2/27/99
+(570) 569-,"Pittston, PA",AT&T Local,Luzerne,Landline,2/5/08
+(570) 571-,"Waymart, PA",Core Communications,Wayne,Landline,3/20/09
+(570) 573-,"Pottsville, PA",Cellco Partnership DBA Verizon Wireless,Schuylkill,Cell Number,12/12/01
+(570) 574-,"Wilkes Barre, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,7/3/02
+(570) 575-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,7/3/02
+(570) 576-,"Hawley, PA",Choice One Communications,Wayne,Landline,1/14/00
+(570) 577-,"Lewisburg, PA",Windstream Buffalo Valley,Union,Landline,2/27/99
+(570) 578-,"Hazleton, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,11/26/01
+(570) 579-,"Hazleton, PA",Choice One Communications,Luzerne,Landline,1/14/00
+(570) 580-,"Mount Pocono, PA",Us Lec Of Pennsylvania,Monroe,Landline,4/12/10
+(570) 581-,"Pottsville, PA",Telcove Of Pennsylvania,Schuylkill,Landline,6/13/00
+(570) 582-,"Hazleton, PA",Telcove Of Pennsylvania,Luzerne,Landline,1/14/00
+(570) 583-,"Stroudsburg, PA",Service Electric Telephone Company,Monroe,Landline,1/21/10
+(570) 584-,"Hughesville, PA",Windstream Pennsylvania,Lycoming,Landline,2/27/99
+(570) 585-,"Clarks Summit, PA",Commonwealth Telephone Company,Lackawanna,Landline,2/27/99
+(570) 586-,"Clarks Summit, PA",Commonwealth Telephone Company,Lackawanna,Landline,2/27/99
+(570) 587-,"Clarks Summit, PA",Commonwealth Telephone Company,Lackawanna,Landline,2/27/99
+(570) 588-,"Bushkill, PA",Verizon Pennsylvania,Pike,Landline,2/27/99
+(570) 589-,"Moosic, PA",Sprint Spectrum L.p.,Lackawanna,Cell Number,11/21/01
+(570) 590-,"Ashland, PA",New Cingular Wireless PCS - DC,Schuylkill,Cell Number,5/10/99
+(570) 591-,"Scranton, PA",Ctsi,Lackawanna,Landline,2/19/10
+(570) 592-,"Wilkes Barre, PA","Omnipoint Communications Enterprises, L.p.",Luzerne,Cell Number,2/28/02
+(570) 593-,"Schuylkill Haven, PA",Telcove Of Pennsylvania,Schuylkill,Landline,6/13/00
+(570) 594-,"Bloomsburg, PA",New Cingular Wireless PCS - DC,Columbia,Cell Number,5/10/99
+(570) 595-,"Cresco, PA",Verizon Pennsylvania,Monroe,Landline,2/27/99
+(570) 596-,"Bentley Creek, PA",North Penn Telephone Co.,Bradford,Landline,2/27/99
+(570) 597-,"Mifflinburg, PA",Idt America Corp,Union,Landline,4/9/10
+(570) 598-,"Olyphant, PA",Usa Mobility Wireless,Lackawanna,Cell Number,5/10/99
+(570) 599-,"Hazleton, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,5/16/11
+(570) 600-,"Middleburg, PA",Voxbeam Telecommunications Inc.,Snyder,Landline,5/9/13
+(570) 601-,"Williamsport, PA",Ctsi,Lycoming,Landline,2/27/99
+(570) 602-,"Pittston, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 603-,"Pittston, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 604-,"Scranton, PA","Omnipoint Communications Enterprises, L.p.",Lackawanna,Cell Number,5/10/99
+(570) 605-,"Mansfield, PA",Indigo Wireless,Tioga,Cell Number,3/2/06
+(570) 606-,"Wilkes Barre, PA",Xo Communications Services Inc,Luzerne,Landline,2/27/99
+(570) 608-,"Sweet Valley, PA",Core Communications,Luzerne,Landline,11/6/08
+(570) 609-,"Wyoming, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,11/14/06
+(570) 612-,"Shenandoah, PA",Telcove Of Pennsylvania,Schuylkill,Landline,6/13/00
+(570) 613-,"Wyoming, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 614-,"Scranton, PA",Telcove Of Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 615-,"Mount Pocono, PA",Verizon Pennsylvania,Monroe,Landline,3/24/09
+(570) 616-,"Honesdale, PA",Sprint Spectrum L.p.,Wayne,Cell Number,3/27/07
+(570) 617-,"Pottsville, PA",New Cingular Wireless PCS - DC,Schuylkill,Cell Number,5/10/99
+(570) 618-,"Milford, PA",New Cingular Wireless PCS - DC,Pike,Cell Number,5/21/07
+(570) 619-,"Tannersville, PA",Verizon Pennsylvania,Monroe,Landline,2/27/99
+(570) 620-,"Tannersville, PA",Verizon Pennsylvania,Monroe,Landline,2/27/99
+(570) 621-,"Pottsville, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 622-,"Pottsville, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 623-,"Little Meadows, PA",Citizens Telecomm Co Of Ny DBA Frontier Comm Of Ny,Susquehanna,Landline,2/27/99
+(570) 624-,"Pottsville, PA",Verizon Pennsylvania,Schuylkill,Landline,10/13/99
+(570) 625-,"Tioga, PA","Time Warner Cable Information Svcs (pa), Pa",Tioga,Landline,7/18/07
+(570) 626-,"Trevorton, PA",Service Electric Telephone Company,Northumberland,Landline,4/17/08
+(570) 627-,"Towanda, PA",Cellco Partnership DBA Verizon Wireless,Bradford,Cell Number,2/16/06
+(570) 628-,"Pottsville, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 629-,"Tannersville, PA",Verizon Pennsylvania,Monroe,Landline,2/27/99
+(570) 630-,"Lake Ariel, PA",Ctsi,Wayne,Landline,2/16/06
+(570) 631-,"Dallas, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 632-,"Friendsville, PA","Time Warner Cable Information Svcs (pa), Pa",Susquehanna,Landline,4/21/08
+(570) 633-,"Benton, PA",Core Communications,Columbia,Landline,3/18/09
+(570) 634-,"Waterville, PA",Verizon North Inc.-pa (quaker St),Lycoming,Landline,2/27/99
+(570) 635-,"Starlight, PA",Hancock Telephone Co. Ny,Wayne,Landline,2/27/99
+(570) 636-,"Freeland, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 637-,"Towanda, PA",Cellco Partnership DBA Verizon Wireless,Bradford,Cell Number,9/10/04
+(570) 638-,"Blossburg, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 639-,"Harveys Lake, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 640-,"Pottsville, PA",New Cingular Wireless PCS - DC,Schuylkill,Cell Number,5/10/99
+(570) 641-,"Pottsville, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 642-,"Pleasant Mt, PA",Nep Cellcorp,Wayne,Cell Number,8/16/06
+(570) 643-,"Pocono Lake, PA",Commonwealth Telephone Company,Monroe,Landline,2/27/99
+(570) 644-,"Shamokin, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 645-,"Lansford, PA",Windstream Pennsylvania,Carbon,Landline,2/27/99
+(570) 646-,"Pocono Lake, PA",Commonwealth Telephone Company,Monroe,Landline,2/27/99
+(570) 647-,"Honesdale, PA",Choice One Communications,Wayne,Landline,1/14/00
+(570) 648-,"Shamokin, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 649-,"Turbotville, PA",Windstream Pennsylvania,Northumberland,Landline,2/27/99
+(570) 650-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 651-,"Williamsport, PA",Telcove Of Pennsylvania,Lycoming,Landline,6/13/00
+(570) 652-,"Tremont, PA",Core Communications,Schuylkill,Landline,3/31/09
+(570) 653-,"Valley View, PA",Core Communications,Schuylkill,Landline,3/31/09
+(570) 654-,"Pittston, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 655-,"Pittston, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 656-,"Stroudsburg, PA",Sprint Spectrum L.p.,Monroe,Cell Number,8/26/02
+(570) 657-,"Jim Thorpe, PA",Sprint Spectrum L.p.,Carbon,Cell Number,8/26/02
+(570) 658-,"Beaver Spgs, PA",Verizon North Inc.-pa (contel),Snyder,Landline,2/27/99
+(570) 659-,"Covington, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 660-,"Lock Haven, PA",Cellco Partnership DBA Verizon Wireless,Clinton,Cell Number,5/10/99
+(570) 661-,"Turbotville, PA",Level 3 Communications,Northumberland,Landline,3/3/11
+(570) 662-,"Mansfield, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 663-,"Brackney, PA",Citizens Telecomm Co Of Ny DBA Frontier Comm Of Ny,Susquehanna,Landline,2/27/99
+(570) 664-,"Stroudsburg, PA",Bandwidth.com Clec,Monroe,Landline,9/1/11
+(570) 665-,"Tunkhannock, PA",New Cingular Wireless PCS - DC,Wyoming,Cell Number,11/2/11
+(570) 666-,"Williamsport, PA",Core Communications,Lycoming,Landline,6/22/12
+(570) 667-,"Hunlock Creek, PA",Core Communications,Luzerne,Landline,3/20/09
+(570) 668-,"Tamaqua, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 669-,"Nesquehoning, PA",Verizon Pennsylvania,Carbon,Landline,2/27/99
+(570) 670-,"Scranton, PA",Usa Mobility Wireless,Lackawanna,Cell Number,5/10/99
+(570) 671-,"Shenandoah, PA",AT&T Local,Schuylkill,Landline,8/8/12
+(570) 672-,"Elysburg, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 673-,"Canton, PA",Frontier Communications Of Canton,Bradford,Landline,2/27/99
+(570) 674-,"Dallas, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 675-,"Dallas, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 676-,"Newfoundland, PA",Verizon Pennsylvania,Wayne,Landline,2/27/99
+(570) 677-,"Scranton, PA","Omnipoint Communications Enterprises, L.p.",Lackawanna,Cell Number,10/13/99
+(570) 678-,"Nuangola, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 679-,"Union Dale, PA",North Eastern Pennsylvania Telephone Co.,Susquehanna,Landline,2/27/99
+(570) 680-,"Carbondale, PA",Maguire Electronics,Lackawanna,Cell Number,5/10/99
+(570) 681-,"Union Dale, PA",Core Communications,Susquehanna,Landline,3/19/09
+(570) 682-,"Valley View, PA",Commonwealth Telephone Company,Schuylkill,Landline,2/27/99
+(570) 683-,"Stillwater, PA",Commonwealth Telephone Company,Columbia,Landline,2/27/99
+(570) 684-,"Warren Center, PA",Core Communications,Bradford,Landline,3/19/09
+(570) 685-,"Lackawaxen, PA",Lackawaxen Telecommunications Services,Pike,Landline,2/27/99
+(570) 686-,"Dingmans Ferry, PA",Verizon North Inc.-pa (quaker St),Pike,Landline,2/27/99
+(570) 687-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,4/26/06
+(570) 688-,"Tannersville, PA",Verizon Pennsylvania,Monroe,Landline,2/27/99
+(570) 689-,"Hamlin, PA",Verizon Pennsylvania,Wayne,Landline,2/27/99
+(570) 690-,"Trucksville, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,2/27/99
+(570) 691-,"Pottsville, PA",New Cingular Wireless PCS - DC,Schuylkill,Landline,5/21/01
+(570) 692-,"Williamsport, PA",New Cingular Wireless PCS - DC,Lycoming,Cell Number,2/19/09
+(570) 693-,"Wyoming, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 694-,"Wyoming, PA",Xo Communications Services Inc,Luzerne,Landline,10/13/99
+(570) 695-,"Tremont, PA",Commonwealth Telephone Company,Schuylkill,Landline,2/27/99
+(570) 696-,"Trucksville, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 697-,"Wyoming, PA",Telcove Of Pennsylvania,Luzerne,Landline,10/13/99
+(570) 698-,"Lake Ariel, PA",Verizon Pennsylvania,Wayne,Landline,2/27/99
+(570) 699-,"Towanda, PA",Americell Pa-3 Limited Partnership,Bradford,Cell Number,1/20/05
+(570) 701-,"Northumberland, PA",Service Electric Telephone Company,Northumberland,Landline,6/10/05
+(570) 702-,"Scranton, PA",New Cingular Wireless PCS - DC,Lackawanna,Cell Number,3/6/06
+(570) 703-,"Scranton, PA",Ctsi,Lackawanna,Landline,4/19/13
+(570) 704-,"Wilkes Barre, PA",Choice One Communications,Luzerne,Landline,1/14/00
+(570) 705-,"Ringtown, PA",Core Communications,Schuylkill,Landline,8/20/08
+(570) 706-,"Wilkes Barre, PA",AT&T Local,Luzerne,Landline,2/27/99
+(570) 707-,"Tioga, PA",Indigo Wireless,Tioga,Cell Number,10/20/06
+(570) 708-,"Sugarloaf, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 709-,"Wilkes Barre, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,1/18/02
+(570) 710-,"Hazleton, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,3/13/12
+(570) 713-,"Milton, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 714-,"Kingston, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 715-,"Mountain Top, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 716-,"Milton, PA",Keystone Wireless,Northumberland,Cell Number,5/10/99
+(570) 718-,"Kingston, PA",Ctsi,Luzerne,Landline,6/30/01
+(570) 719-,"Plymouth, PA",Ctsi,Luzerne,Landline,2/27/99
+(570) 720-,"Ulster, PA",Core Communications,Bradford,Landline,3/19/09
+(570) 721-,"Wyalusing, PA",Cellco Partnership DBA Verizon Wireless,Bradford,Cell Number,9/10/04
+(570) 722-,"Albrightsville, PA",Verizon Pennsylvania,Carbon,Landline,2/27/99
+(570) 723-,"Wellsboro, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 724-,"Wellsboro, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 725-,"Loganton, PA",Sugar Valley Telephone Co.,Clinton,Landline,2/27/99
+(570) 726-,"Mill Hall, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Clinton,Landline,2/27/99
+(570) 727-,"Thompson, PA",North Eastern Pennsylvania Telephone Co.,Susquehanna,Landline,2/27/99
+(570) 728-,"Pottsville, PA",Sprint Spectrum L.p.,Schuylkill,Cell Number,2/21/12
+(570) 729-,"Beach Lake, PA",Verizon North Inc.-pa (quaker St),Wayne,Landline,2/27/99
+(570) 730-,"Stroudsburg, PA","Sprint Communications Company, L.p.",Monroe,Landline,6/10/05
+(570) 731-,"Sayre, PA",Bandwidth.com Clec,Bradford,Landline,12/13/04
+(570) 732-,"Jim Thorpe, PA",Choice One Communications,Carbon,Landline,1/14/00
+(570) 733-,"Nanticoke, PA",Telcove Of Pennsylvania,Luzerne,Landline,10/13/99
+(570) 734-,"Barnesville, PA",Service Electric Telephone Company,Schuylkill,Landline,5/28/08
+(570) 735-,"Nanticoke, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 736-,"Nanticoke, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 737-,"Susquehanna, PA",Level 3 Communications,Susquehanna,Landline,8/27/02
+(570) 738-,"Shamokin, PA",AT&T Local,Northumberland,Landline,8/20/08
+(570) 739-,"Cressona, PA",Verizon North Inc.-pa (quaker St),Schuylkill,Landline,2/27/99
+(570) 740-,"Nanticoke, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 741-,"Ringtown, PA",Service Electric Telephone Company,Schuylkill,Landline,5/10/07
+(570) 742-,"Milton, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 743-,"Selinsgrove, PA",Verizon North Inc.-pa (contel),Snyder,Landline,2/27/99
+(570) 744-,"Le Raysville, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 745-,"Linden, PA",Pennsylvania Telephone Co.,Lycoming,Landline,2/27/99
+(570) 746-,"Wyalusing, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 747-,"Muncy Valley, PA",Core Communications,Sullivan,Landline,3/19/09
+(570) 748-,"Lock Haven, PA",Verizon Pennsylvania,Clinton,Landline,2/27/99
+(570) 749-,"Mill Hall, PA",Core Communications,Clinton,Landline,7/10/03
+(570) 750-,"Mildred, PA",New Cingular Wireless PCS - DC,Sullivan,Cell Number,7/26/04
+(570) 751-,"Hazleton, PA",Verizon Pennsylvania,Luzerne,Landline,6/30/01
+(570) 752-,"Berwick, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 753-,"Jersey Shore, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 754-,"Auburn, PA",Verizon North Inc.-pa (quaker St),Schuylkill,Landline,2/27/99
+(570) 755-,"Mill Hall, PA",Sprint Spectrum L.p.,Clinton,Cell Number,9/23/02
+(570) 756-,"Jackson, PA",North Eastern Pennsylvania Telephone Co.,Susquehanna,Landline,2/27/99
+(570) 757-,"Muncy, PA",Core Communications,Lycoming,Landline,3/19/09
+(570) 758-,"Mandata, PA",Mahanoy & Mahantongo Telephone Co.,Northumberland,Landline,2/27/99
+(570) 759-,"Berwick, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 760-,"Wilkes Barre, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,6/13/00
+(570) 761-,"Dallas, PA",Commonwealth Telephone Company,Luzerne,Landline,7/5/12
+(570) 762-,"Wilkes Barre, PA",New Cingular Wireless PCS - DC,Luzerne,Landline,6/30/01
+(570) 763-,"Kingston, PA",Choice One Communications,Luzerne,Landline,1/14/00
+(570) 764-,"Bloomsburg, PA",New Cingular Wireless PCS - DC,Columbia,Cell Number,1/17/01
+(570) 765-,"Middleburg, PA",Cellco Partnership DBA Verizon Wireless,Snyder,Cell Number,11/19/02
+(570) 766-,"Carbondale, PA",Sprint Spectrum L.p.,Lackawanna,Cell Number,6/30/01
+(570) 767-,"Montrose, PA",Nep Cellcorp,Susquehanna,Cell Number,8/16/06
+(570) 768-,"Lewisburg, PA",Sprint Spectrum L.p.,Union,Cell Number,4/18/01
+(570) 769-,"Jersey Shore, PA",Verizon Pennsylvania,Lycoming,Landline,2/27/99
+(570) 770-,"Scranton, PA",Xo Communications Services Inc,Lackawanna,Landline,6/29/12
+(570) 771-,"Plymouth, PA",Telcove Of Pennsylvania,Luzerne,Landline,10/13/99
+(570) 772-,"Williamsport, PA",Cellco Partnership DBA Verizon Wireless,Lycoming,Cell Number,6/13/01
+(570) 773-,"Mahanoy City, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 774-,"Moosic, PA",Choice One Communications,Lackawanna,Landline,1/14/00
+(570) 775-,"Dingmans Ferry, PA",Verizon Pennsylvania,Pike,Landline,2/27/99
+(570) 776-,"Milford, PA",Sprint Spectrum L.p.,Pike,Cell Number,7/10/06
+(570) 777-,"Williamsport, PA",Keystone Wireless,Lycoming,Cell Number,3/3/01
+(570) 778-,"Tamaqua, PA",New Cingular Wireless PCS - DC,Schuylkill,Cell Number,5/10/99
+(570) 779-,"Plymouth, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 780-,"Scranton, PA",New Cingular Wireless PCS - DC,Lackawanna,Landline,10/13/05
+(570) 781-,"Blossburg, PA",Core Communications,Tioga,Landline,3/18/09
+(570) 782-,"New Milford, PA",Core Communications,Susquehanna,Landline,3/19/09
+(570) 783-,"Mahanoy City, PA",Telcove Of Pennsylvania,Schuylkill,Landline,6/13/00
+(570) 784-,"Bloomsburg, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 785-,"Forest City, PA",North Eastern Pennsylvania Telephone Co.,Susquehanna,Landline,2/27/99
+(570) 786-,"Lock Haven, PA",Sprint Spectrum L.p.,Clinton,Cell Number,4/18/01
+(570) 787-,"Wellsboro, PA",Americell Pa-3 Limited Partnership,Tioga,Cell Number,1/20/05
+(570) 788-,"Sugarloaf, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 789-,"Pottsville, PA",Sprint Spectrum L.p.,Schuylkill,Cell Number,3/14/01
+(570) 790-,"Hazleton, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,3/12/14
+(570) 791-,"Wapwallopen, PA",Core Communications,Luzerne,Landline,3/19/09
+(570) 792-,"Jersey Shore, PA",Core Communications,Lycoming,Landline,3/20/09
+(570) 793-,"Wilkes Barre, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,6/30/01
+(570) 794-,"Frackville, PA",Telcove Of Pennsylvania,Schuylkill,Landline,6/13/00
+(570) 795-,"Moscow, PA",Choice One Communications,Lackawanna,Landline,1/14/00
+(570) 796-,"Scranton, PA",Telcove Of Pennsylvania,Lackawanna,Landline,2/4/04
+(570) 797-,"Trevorton, PA",Mahanoy & Mahantongo Telephone Co.,Northumberland,Landline,2/27/99
+(570) 798-,"Lake Como, PA",Verizon Pennsylvania,Wayne,Landline,2/27/99
+(570) 799-,"Wilburton, PA",Verizon Pennsylvania,Columbia,Landline,2/27/99
+(570) 800-,"Scranton, PA",Voxbeam Telecommunications Inc.,Lackawanna,Landline,3/28/13
+(570) 801-,"Sciota, PA","Omnipoint Communications Enterprises, L.p.",Monroe,Cell Number,5/10/99
+(570) 802-,"Berwick, PA",Ctsi,Columbia,Landline,2/27/99
+(570) 803-,"Jermyn, PA",Ctsi,Lackawanna,Landline,2/27/99
+(570) 804-,"Scranton, PA",Usa Mobility Wireless,Lackawanna,Cell Number,5/10/99
+(570) 805-,"Lansford, PA","Sprint Communications Company, L.p.",Carbon,Landline,9/4/07
+(570) 806-,"Union Dale, PA",Nep Cellcorp,Susquehanna,Cell Number,9/7/06
+(570) 807-,"Stroudsburg, PA",Cellco Partnership DBA Verizon Wireless,Monroe,Cell Number,5/10/99
+(570) 808-,"Wilkes Barre, PA",Ctsi,Luzerne,Landline,6/27/06
+(570) 809-,"Sunbury, PA",New Cingular Wireless PCS - DC,Northumberland,Cell Number,5/10/99
+(570) 810-,"Tamaqua, PA",New Cingular Wireless PCS - DC,Schuylkill,Cell Number,7/23/12
+(570) 812-,"Nanticoke, PA",Choice One Communications,Luzerne,Landline,1/14/00
+(570) 813-,"Le Raysville, PA",Core Communications,Bradford,Landline,3/18/09
+(570) 814-,"Wilkes Barre, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 815-,"Scranton, PA",Sprint Spectrum L.p.,Lackawanna,Cell Number,6/30/01
+(570) 816-,"Mifflinburg, PA",Service Electric Telephone Company,Union,Landline,5/10/07
+(570) 817-,"Wilkes Barre, PA","Omnipoint Communications Enterprises, L.p.",Luzerne,Cell Number,5/10/99
+(570) 818-,"Andreas, PA","Sprint Communications Company, L.p.",Schuylkill,Landline,6/30/05
+(570) 819-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 820-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 821-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 822-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 823-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 824-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 825-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 826-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 827-,"Lawrenceville, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 828-,"Dingmans Ferry, PA",Verizon North Inc.-pa (quaker St),Pike,Landline,2/27/99
+(570) 829-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 830-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 831-,"Wilkes Barre, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 832-,"Milford, PA",Cellco Partnership DBA Verizon Wireless,Pike,Cell Number,9/30/04
+(570) 833-,"Mehoopany, PA",Commonwealth Telephone Company,Wyoming,Landline,2/27/99
+(570) 834-,"Valley View, PA",Service Electric Telephone Company,Schuylkill,Landline,11/8/07
+(570) 835-,"Tioga, PA",Commonwealth Telephone Company,Tioga,Landline,2/27/99
+(570) 836-,"Tunkhannock, PA",Commonwealth Telephone Company,Wyoming,Landline,2/27/99
+(570) 837-,"Middleburg, PA",Verizon North Inc.-pa (contel),Snyder,Landline,2/27/99
+(570) 838-,"Watsontown, PA",Core Communications,Northumberland,Landline,3/19/09
+(570) 839-,"Mount Pocono, PA",Verizon Pennsylvania,Monroe,Landline,2/27/99
+(570) 840-,"Scranton, PA",Sprint Spectrum L.p.,Lackawanna,Cell Number,6/13/00
+(570) 841-,"Shickshinny, PA",Idt America Corp,Luzerne,Landline,8/26/08
+(570) 842-,"Moscow, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 843-,"Moscow, PA",Xo Communications Services Inc,Lackawanna,Landline,10/13/99
+(570) 844-,"Bushkill, PA",Bandwidth.com Clec,Pike,Landline,3/3/14
+(570) 846-,"Wilkes Barre, PA",Teleport Communications America,Luzerne,Landline,12/24/12
+(570) 847-,"Sunbury, PA",New Cingular Wireless PCS - DC,Northumberland,Cell Number,5/10/99
+(570) 848-,"Moscow, PA",Verizon Pennsylvania,Lackawanna,Landline,10/13/99
+(570) 849-,"Danville, PA",Telcove Of Pennsylvania,Montour,Landline,6/13/00
+(570) 850-,"Sunbury, PA",New Cingular Wireless PCS - DC,Northumberland,Cell Number,5/10/99
+(570) 851-,"Scranton, PA",Ymax Communications Corp.,Lackawanna,Landline,1/2/08
+(570) 852-,"Kingston, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,6/30/01
+(570) 853-,"Susquehanna, PA",Commonwealth Telephone Company,Susquehanna,Landline,2/27/99
+(570) 854-,"Bloomsburg, PA",Cellco Partnership DBA Verizon Wireless,Columbia,Cell Number,8/13/02
+(570) 855-,"Wilkes Barre, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,7/13/07
+(570) 856-,"Stroudsburg, PA",Cellco Partnership DBA Verizon Wireless,Monroe,Cell Number,8/13/02
+(570) 857-,"Greentown, PA",Verizon Pennsylvania,Pike,Landline,2/27/99
+(570) 858-,"Lock Haven, PA",Americell Pa-3 Limited Partnership,Clinton,Cell Number,5/10/99
+(570) 859-,"Shenandoah, PA",Service Electric Telephone Company,Schuylkill,Landline,10/21/08
+(570) 860-,"Hallstead, PA","Time Warner Cable Information Svcs (pa), Pa",Susquehanna,Landline,2/4/09
+(570) 861-,"Hazleton, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Landline,11/6/08
+(570) 862-,"Scranton, PA",New Cingular Wireless PCS - DC,Lackawanna,Cell Number,4/26/06
+(570) 863-,"Sunbury, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 864-,"Huntington Mills, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 865-,"Jersey Shore, PA",Telcove Of Pennsylvania,Lycoming,Landline,6/13/00
+(570) 867-,"Sayre, PA",New Cingular Wireless PCS - DC,Bradford,Cell Number,9/28/04
+(570) 868-,"Nuangola, PA",Commonwealth Telephone Company,Luzerne,Landline,2/27/99
+(570) 869-,"Laceyville, PA",Commonwealth Telephone Company,Bradford,Landline,2/27/99
+(570) 870-,"Troy, PA",Core Communications,Bradford,Landline,3/19/09
+(570) 871-,"Scranton, PA",Bandwidth.com Clec,Lackawanna,Landline,6/24/08
+(570) 872-,"Stroudsburg, PA",Sprint Spectrum L.p.,Monroe,Landline,6/18/01
+(570) 873-,"Jersey Shore, PA",Telcove Of Pennsylvania,Lycoming,Landline,6/13/00
+(570) 874-,"Frackville, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 875-,"Ashland, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 876-,"Jermyn, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 877-,"Scranton, PA",New Cingular Wireless PCS - DC,Lackawanna,Cell Number,2/25/05
+(570) 878-,"Scranton, PA",New Cingular Wireless PCS - DC,Lackawanna,Cell Number,1/27/04
+(570) 879-,"Hallstead, PA",Commonwealth Telephone Company,Susquehanna,Landline,2/27/99
+(570) 880-,"Scranton, PA",Bandwidth.com Clec,Lackawanna,Landline,2/6/13
+(570) 881-,"Pittston, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 882-,"Sayre, PA",Verizon North Inc.-pa,Bradford,Landline,2/27/99
+(570) 883-,"Pittston, PA",Verizon Pennsylvania,Luzerne,Landline,2/27/99
+(570) 884-,"Selinsgrove, PA",Verizon North Inc.-pa (contel),Snyder,Landline,2/27/99
+(570) 885-,"Pittston, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 886-,"Sayre, PA",Verizon North Inc.-pa,Bradford,Landline,1/14/00
+(570) 887-,"Sayre, PA",Verizon North Inc.-pa,Bradford,Landline,6/24/08
+(570) 888-,"Sayre, PA",Verizon North Inc.-pa,Bradford,Landline,2/27/99
+(570) 889-,"Ringtown, PA",Commonwealth Telephone Company,Schuylkill,Landline,2/27/99
+(570) 891-,"Pittston, PA",Choice One Communications,Luzerne,Landline,1/14/00
+(570) 892-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,10/22/12
+(570) 893-,"Lock Haven, PA",Verizon Pennsylvania,Clinton,Landline,2/27/99
+(570) 894-,"Mount Pocono, PA",Verizon Pennsylvania,Monroe,Landline,2/27/99
+(570) 895-,"Mount Pocono, PA",Verizon Pennsylvania,Monroe,Landline,2/27/99
+(570) 896-,"Forksville, PA",Core Communications,Sullivan,Landline,3/18/09
+(570) 897-,"Mount Bethel, PA",Commonwealth Telephone Company,Northampton,Landline,2/27/99
+(570) 898-,"Sunbury, PA",Cellco Partnership DBA Verizon Wireless,Northumberland,Cell Number,10/13/99
+(570) 899-,"Wilkes Barre, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,9/5/08
+(570) 900-,"Ashland, PA",Voxbeam Telecommunications Inc.,Schuylkill,Landline,5/9/13
+(570) 901-,"Trucksville, PA",Comcast Phone Of Pennsylvania,Luzerne,Landline,8/26/08
+(570) 902-,"Nanticoke, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,6/30/01
+(570) 903-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,9/17/07
+(570) 904-,"Scranton, PA",Cellco Partnership DBA Verizon Wireless,Lackawanna,Cell Number,10/22/12
+(570) 905-,"Pittston, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 906-,"Scranton, PA",AT&T Local,Lackawanna,Landline,2/27/99
+(570) 907-,"Beech Creek, PA",Comcast Phone Of Pennsylvania,Clinton,Landline,9/11/07
+(570) 908-,"Pittston, PA",Xo Communications Services Inc,Luzerne,Landline,7/22/99
+(570) 909-,"Scranton, PA",Spotlight Media Corporation,Lackawanna,Cell Number,8/9/07
+(570) 910-,"Factoryville, PA",Comcast Phone Of Pennsylvania,Wyoming,Landline,10/15/08
+(570) 912-,"Bloomsburg, PA",Telcove Of Pennsylvania,Columbia,Landline,6/13/00
+(570) 913-,"New Albany, PA",Core Communications,Bradford,Landline,3/19/09
+(570) 914-,"Scranton, PA",365 Wireless,Lackawanna,Cell Number,3/6/13
+(570) 915-,"Pine Grove, PA",Ctsi,Schuylkill,Landline,10/26/06
+(570) 916-,"Williamsport, PA",New Cingular Wireless PCS - DC,Lycoming,Cell Number,5/10/99
+(570) 918-,"Brackney, PA","Time Warner Cable Information Svcs (pa), Pa",Susquehanna,Landline,10/6/08
+(570) 919-,"Beech Creek, PA",Core Communications,Clinton,Landline,3/18/09
+(570) 920-,"Mandata, PA",Service Electric Telephone Company,Northumberland,Landline,4/17/08
+(570) 922-,"Millmont, PA",Windstream Buffalo Valley,Union,Landline,2/27/99
+(570) 923-,"Renovo, PA",Verizon Pennsylvania,Clinton,Landline,2/27/99
+(570) 924-,"Forksville, PA",Commonwealth Telephone Company,Sullivan,Landline,2/27/99
+(570) 925-,"Benton, PA",Commonwealth Telephone Company,Columbia,Landline,2/27/99
+(570) 926-,"Hazleton, PA",Sprint Spectrum L.p.,Luzerne,Cell Number,3/14/01
+(570) 928-,"Dushore, PA",Commonwealth Telephone Company,Sullivan,Landline,2/27/99
+(570) 929-,"Mcadoo, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 930-,"Hallstead, PA",Nep Cellcorp,Susquehanna,Cell Number,8/16/06
+(570) 932-,"Williamsport, PA",Cellco Partnership DBA Verizon Wireless,Lycoming,Cell Number,3/10/09
+(570) 933-,"Ashland, PA",Cellco Partnership DBA Verizon Wireless,Schuylkill,Cell Number,5/19/06
+(570) 934-,"Lawton, PA",Commonwealth Telephone Company,Susquehanna,Landline,2/27/99
+(570) 935-,"Muncy, PA",Comcast Phone Of Pennsylvania,Lycoming,Landline,10/3/08
+(570) 937-,"Lake Ariel, PA",South Canaan Telephone Co.,Wayne,Landline,2/27/99
+(570) 938-,"Plymouth, PA",Choice One Communications,Luzerne,Landline,1/14/00
+(570) 939-,"Lewisburg, PA",New Cingular Wireless PCS - DC,Union,Cell Number,10/22/07
+(570) 940-,"Muncy, PA",Windstream Pennsylvania,Lycoming,Landline,10/24/07
+(570) 941-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 942-,"Nicholson, PA",Commonwealth Telephone Company,Wyoming,Landline,2/27/99
+(570) 943-,"Orwigsburg, PA",Verizon North Inc.-pa (contel),Schuylkill,Landline,2/27/99
+(570) 944-,"Lawrenceville, PA","Time Warner Cable Information Svcs (pa), Pa",Tioga,Landline,7/18/07
+(570) 945-,"Factoryville, PA",Commonwealth Telephone Company,Wyoming,Landline,2/27/99
+(570) 946-,"Mildred, PA",Commonwealth Telephone Company,Sullivan,Landline,2/27/99
+(570) 947-,"Pittston, PA",New Cingular Wireless PCS - DC,Luzerne,Cell Number,5/10/99
+(570) 948-,"Wellsboro, PA",Core Communications,Tioga,Landline,3/20/09
+(570) 949-,"Lackawaxen, PA","Sprint Communications Company, L.p.",Pike,Landline,9/4/07
+(570) 951-,"Bloomsburg, PA",Sprint Spectrum L.p.,Columbia,Cell Number,3/20/01
+(570) 952-,"Tamaqua, PA",Verizon Pennsylvania,Schuylkill,Landline,2/27/99
+(570) 953-,"Danville, PA",Ctsi,Montour,Landline,2/27/99
+(570) 954-,"Pittston, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 955-,"Scranton, PA",Comcast Phone Of Pennsylvania,Lackawanna,Landline,4/2/07
+(570) 956-,"Hazleton, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,5/10/99
+(570) 957-,"Mount Pocono, PA",Verizon Pennsylvania,Monroe,Landline,10/24/07
+(570) 960-,"Forest City, PA",Nep Cellcorp,Susquehanna,Cell Number,9/7/06
+(570) 961-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 962-,"Beech Creek, PA",United Tel Co. Of Pennsylvania DBA Centurylink,Clinton,Landline,2/27/99
+(570) 963-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 965-,"Springville, PA",Commonwealth Telephone Company,Susquehanna,Landline,2/27/99
+(570) 966-,"Mifflinburg, PA",Windstream Buffalo Valley,Union,Landline,2/27/99
+(570) 967-,"Hallstead, PA",Commonwealth Telephone Company,Susquehanna,Landline,2/27/99
+(570) 968-,"Orwigsburg, PA",Ctsi,Schuylkill,Landline,10/26/06
+(570) 969-,"Scranton, PA",Verizon Pennsylvania,Lackawanna,Landline,2/27/99
+(570) 970-,"Wilkes Barre, PA",Ctsi,Luzerne,Landline,5/10/99
+(570) 971-,"Williamsport, PA",New Cingular Wireless PCS - DC,Lycoming,Cell Number,5/10/99
+(570) 972-,"Mount Pocono, PA",New Cingular Wireless PCS - DC,Monroe,Cell Number,1/27/04
+(570) 973-,"Wilkes Barre, PA",Schuylkill Mobile Fone,Luzerne,Cell Number,5/10/99
+(570) 974-,"Williamsport, PA",Sprint Spectrum L.p.,Lycoming,Cell Number,4/18/01
+(570) 975-,"Sunbury, PA",Ctsi,Northumberland,Landline,1/14/00
+(570) 977-,"Stroudsburg, PA",New Cingular Wireless PCS - DC,Monroe,Cell Number,10/13/99
+(570) 978-,"Wilkes Barre, PA",Usa Mobility Wireless,Luzerne,Cell Number,5/10/99
+(570) 980-,"Williamsport, PA",Level 3 Communications,Lycoming,Landline,9/30/13
+(570) 981-,"Wyalusing, PA",Core Communications,Bradford,Landline,3/19/09
+(570) 982-,"Stroudsburg, PA",Sprint Spectrum L.p.,Monroe,Cell Number,6/30/01
+(570) 983-,"Scranton, PA",Choice One Communications,Lackawanna,Landline,1/14/00
+(570) 985-,"Ashland, PA",Telcove Of Pennsylvania,Schuylkill,Landline,6/13/00
+(570) 986-,"Taylor, PA",Choice One Communications,Lackawanna,Landline,1/14/00
+(570) 987-,"Nuremberg, PA",Service Electric Telephone Company,Schuylkill,Landline,5/10/07
+(570) 988-,"Sunbury, PA",Verizon Pennsylvania,Northumberland,Landline,2/27/99
+(570) 991-,"Wilkes Barre, PA",Cellco Partnership DBA Verizon Wireless,Luzerne,Cell Number,9/18/06
+(570) 992-,"Saylorsburg, PA",Commonwealth Telephone Company,Monroe,Landline,2/27/99
+(570) 993-,"Bloomsburg, PA",Idt America Corp,Columbia,Landline,7/17/07
+(570) 994-,"Stroudsburg, PA",Us Lec Of Pennsylvania,Monroe,Landline,11/14/03
+(570) 995-,"Trout Run, PA",Verizon North Inc.-pa (quaker St),Lycoming,Landline,2/27/99
+(570) 996-,"Tunkhannock, PA",Commonwealth Telephone Company,Wyoming,Landline,5/10/99
+(570) 997-,"Wilkes Barre, PA",Usa Mobility Wireless,Luzerne,Cell Number,5/10/99
+(570) 998-,"Trout Run, PA",Verizon North Inc.-pa (quaker St),Lycoming,Landline,2/27/99
+(570) 999-,"Forest City, PA",Service Electric Telephone Company,Susquehanna,Landline,9/5/12
