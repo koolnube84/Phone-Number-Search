@@ -1,0 +1,475 @@
+Apache County
+Chinle High School, Chinle
+Ganado High School, Ganado
+Many Farms High School, Many Farms
+New Visions Academy (St. Johns campus), St. Johns
+Red Mesa High School, Teec Nos Pos
+Red Valley/Cove High School, Red Valley
+Rock Point Community School, Rock Point
+Rough Rock Community School, Chinle
+Round Valley High School, Eagar
+St. Johns High School, St. Johns
+St. Michael High School, St. Michaels
+Valley High School, Sanders
+Window Rock High School, Fort Defiance
+Cochise County
+Benson High School, Benson
+Bisbee High School, Bisbee
+Bowie High School, Bowie
+Buena High School, Sierra Vista
+Douglas High School, Douglas
+St. David High School, St. David
+San Simon High School, San Simon
+Tombstone High School, Tombstone
+Valley Union High School, Elfrida
+Willcox High School, Willcox
+Coconino County
+Flagstaff
+Coconino High School
+Flagstaff Arts and Leadership Academy
+Flagstaff High School
+New Horizon Christian Academy
+Northland Preparatory Academy
+Ponderosa High School
+Elsewhere in county
+Fredonia High School, Fredonia
+Grand Canyon High School, Grand Canyon
+Greyhills Academy High School, Tuba City
+Page High School, Page
+Tuba City High School, Tuba City
+Williams High School, Williams
+Tse Yaato High School, Page
+Gila County
+Globe High School, Globe
+Hayden High School, Winkelman
+Liberty High School, Globe
+Miami High School, Miami
+New Visions Academy (Star Valley campus), Star Valley
+Payson High School, Payson
+San Carlos High School, San Carlos
+Young Public School, Young
+Graham County
+Fort Thomas High School, Fort Thomas
+Mount Graham High School, Safford
+Pima High School, Pima
+Safford High School, Safford
+Thatcher High School, Thatcher
+Greenlee County
+Duncan High School, Duncan
+Morenci Junior/Senior High School, Morenci
+La Paz County
+Parker High School, Parker
+Salome High School, Salome
+Maricopa County
+Anthem
+Anthem Preparatory Academy
+Boulder Creek High School
+Avondale
+Agua Fria High School
+Desert Edge High School
+Estrella High School
+La Joya Community High School
+North Star Charter School
+Westview High School
+Buckeye
+Buckeye Union High School
+The Odyssey Institute for Advanced and International Studies
+Verrado High School
+Youngker High School
+Chandler
+Arizona College Preparatory
+AZ Compass Prep
+Basha High School
+Chandler High School
+Chandler Preparatory Academy
+El Dorado High School
+Hamilton High School
+Paragon Science Academy
+Primavera Online High School
+Seton Catholic Preparatory High School
+Tri-City Christian Academy
+Valley Christian High School
+Glendale
+Apollo High School
+Cactus High School
+Copper Canyon High School
+Deer Valley High School
+Glendale High School
+Glendale Preparatory Academy
+Independence High School
+Ironwood High School
+Joy Christian School
+Mountain Ridge High School
+Raymond S. Kellis High School
+Sandra Day O'Connor High School
+Gilbert
+Campo Verde High School
+Desert Hills High School
+Gilbert High School
+Gilbert Christian High School
+Gilbert Classical Academy
+Highland High School
+Higley High School
+Mesquite High School
+Perry High School
+Williams Field High School
+Mesa
+Arete Preparatory Academy
+Desert Ridge High School
+Dobson High School
+East Valley Academy
+Heritage Academy
+Mesa High School
+Mountain View High School
+Pinnacle High School
+Red Mountain High School
+Riverview High School
+Sequoia Charter School
+Skyline High School
+Sun Valley High School
+Superstition High School
+Westwood High School
+Peoria
+Centennial High School
+Liberty High School
+Peoria High School
+Peoria Accelerated High School
+Skyline West Prep
+Sunrise Mountain High School
+Phoenix
+Adobe Mountain School
+Alhambra High School
+Arcadia High School
+Arizona Cultural Academy
+Arizona Lutheran Academy
+Arizona Preparatory Academy
+Arizona School for the Arts
+Barry Goldwater High School
+Bioscience High School
+Bostrom High School
+Bourgade Catholic High School
+Brophy College Preparatory
+Camelback High School
+Carl Hayden Community High School
+Central High School
+Cortez High School
+Crestview College Preparatory High School
+Cyber High School
+Deer Valley Academy
+Desert Vista High School
+Desiderata Program
+Excel Prep Academy
+Franklin Police and Fire High School
+GateWay Early College High School
+Girls Leadership Academy of Arizona
+Glenview Adventist Academy
+Greenway High School
+Horizon Community Learning Center (aka Horizon Honors HS)
+Maryvale High School
+Maya High School
+Metro Tech High School
+Metrocenter Academy
+Metropolitan Arts Institute
+Midtown High School
+Mission Academy High School
+Moon Valley High School
+Mountain Pointe High School
+NFL YET
+North Canyon High School
+North High School
+North Pointe Preparatory
+Northwest Christian High School
+Paradise Valley High School
+Phoenix Christian High School
+Phoenix Country Day School
+Phoenix College Preparatory Academy
+Pinnacle High School
+Polaris High School
+Precision Academy
+Premier High School
+RCB High School Phoenix
+Roadrunner School
+Sierra Linda High School
+St. Mary's High School
+James Sandoval Preparatory High School
+School for Integrated Academics and Technologies
+Scottsdale Christian Academy
+Shadow Mountain High School
+Skyline Technical High School
+Sonoran Science Academy (Phoenix)
+South Mountain High School
+South Pointe High School
+South Ridge High School
+Summit High School
+Sunnyslope High School
+Suns-Diamondbacks Education Academy
+Tesseract School
+Trevor G. Browne High School
+Thunderbird High School
+Valley Lutheran High School
+Veritas Preparatory Academy
+Washington High School
+West Phoenix High School
+Westwind Preparatory Academy
+Xavier College Preparatory (Arizona)
+Scottsdale
+BASIS Scottsdale
+Bella Vista Private School
+Chaparral High School
+Coronado High School
+Desert Mountain High School
+Foothills Academy
+Gateway Academy
+Horizon High School
+Notre Dame Preparatory High School
+Rancho Solano Preparatory High School
+Saguaro High School
+Salt River High School (Salt River Pima-Maricopa Indian Community)
+Scottsdale Preparatory Academy
+Thunderbird Adventist Academy
+Ville de Marie Academy
+Surprise
+Arizona Charter Academy
+Imagine Prep at Surprise
+Paradise Honors High School
+Shadow Ridge High School
+Valley Vista High School
+Willow Canyon High School
+Tempe
+Compadre Academy
+Corona del Sol High School
+Grand Canyon Preparatory Academy
+James Madison Preparatory School
+Marcos de Niza High School
+McClintock High School
+The New School for the Arts and Academics
+Pinnacle High School
+Student Choice High School
+Tempe Accelerated High School
+Tempe High School
+Tempe Preparatory Academy
+Elsewhere in county
+Arizona Agribusiness and Equine Center, multiple locations
+Betty H. Fairfax High School, Laveen
+Cactus Shadows High School, Cave Creek
+César Chávez High School, Laveen
+Desert Edge High School, Goodyear
+Dysart High School, El Mirage
+e-Institute, multiple locations
+Estrella Foothills High School, Goodyear
+Fountain Hills High School, Fountain Hills
+Gila Bend High School, Gila Bend
+Heritage Academy (Laveen, Arizona), Laveen
+Heritage Academy (Queen Creek, Arizona), Queen Creek
+Millennium High School, Goodyear
+Phoenix Country Day School, Paradise Valley
+Sonoran Desert School, Gold Canyon
+Tolleson Union High School, Tolleson
+Tonopah Valley High School, Tonopah
+Wickenburg High School, Wickenburg
+Mohave County
+Beaver Dam High School, Beaver Dam
+El Capitan, Colorado City
+Kingman Academy of Learning, Kingman
+Kingman High School, Kingman
+Lake Havasu High School, Lake Havasu City
+Lee Williams High School, Kingman
+Mohave Accelerated Learning Center, Bullhead City
+Mohave High School, Bullhead City
+Mount Tipton School, Dolan Springs
+River Valley High School, Mohave Valley
+Navajo County
+Alchesay High School, Whiteriver
+Blue Ridge High School, Lakeside
+Cibecue Community School (Dishchii'bikoh), Cibecue
+Holbrook High School, Holbrook
+Hopi Junior/Senior High School, Keams Canyon
+Jefferson Academy, Show Low
+Joseph City High School, Joseph City
+Mogollon High School, Heber
+Monument Valley High School, Kayenta
+Piñon Community School, Piñon
+Pinon High School, Piñon
+Shonto Preparatory Technology High School, Shonto
+Show Low High School, Show Low
+Snowflake High School, Snowflake
+Winslow High School, Winslow
+Pima County
+Marana
+Marana High School
+Mountain View High School
+Oro Valley
+Canyon del Oro High School
+Immaculate Heart High School
+Ironwood Ridge High School
+Pusch Ridge Christian Academy
+Sahuarita
+Edge High School (Sahuarita campus)
+Sahuarita High School
+Walden Grove High School
+Sells
+Baboquivari High School
+Tohono O'odham High School
+Tucson
+Academy of Tucson
+ACE Charter High School
+Amphitheater High School
+Alta Vista High School
+Aztec Middle College
+Canyon Rose Academy
+Catalina Foothills High School
+Catalina Magnet High School
+Cholla High Magnet School
+City High School
+Compass High School
+Desert Christian High School
+Desert Rose Academy Charter School
+Desert View High School
+Eastpointe High School
+Edge High School (Himmel Park and Northwest campuses)
+Fenster School
+Flowing Wells High School
+Hiaki High School
+Luz-Guerrero Early College High School
+Mountain Rose Academy
+Nosotros Academy
+Palo Verde High School
+Pima Rose Academy
+Pima Vocational High School
+Pueblo Magnet High School
+Rincon High School
+The Gregory School
+Sabino High School
+Sahuaro High School
+Salpointe Catholic High School
+San Miguel High School
+Santa Rita High School
+School for Integrated Academics and Technologies
+Skyview High School
+Sonoran Science Academy (Tucson, Davis-Monthan)
+Southern Arizona Community Academy
+Sunnyside High School
+St. Augustine Catholic High School
+Tanque Verde High School
+Toltecalli High School
+Tucson High Magnet School
+Tucson Preparatory School
+University High School
+Vail
+Andrada Polytechnic High School
+Cienega High School
+Empire High School
+Pantano High School
+Vail Academy and High School
+Elsewhere in county
+Ajo High School, Ajo
+Pinal County
+Casa Grande
+Casa Grande Union High School
+Casa Verde High School
+Desert Winds High School
+Mission Heights Preparatory High School
+Pinnacle High School
+Vista Grande High School
+Coolidge
+Coolidge High School
+Imagine Prep at Coolidge
+Queen Creek
+American Leadership Academy
+Canyon State Academy
+Queen Creek High School
+Casteel High School
+San Tan Valley
+Combs High School
+Poston Butte High School
+San Tan Foothills High School
+Elsewhere in county
+Apache Junction High School
+Apache Trail High School, Apache Junction
+Florence High School, Florence
+Maricopa High School, Maricopa
+Ray High School, Kearny
+San Manuel Junior/Senior High School, San Manuel
+Santa Cruz Valley Union High School, Eloy
+Superior Junior/Senior High School, Superior
+Santa Cruz County
+Lourdes Catholic School, Nogales
+Nogales High School, Nogales
+Patagonia Union High School, Patagonia
+Pierson Vocational High School, Nogales
+Rio Rico High School, Rio Rico
+Yavapai County
+Arizona Agribusiness and Equine Center (Prescott Valley branch)
+Ash Fork High School, Ash Fork
+Bagdad High School, Bagdad
+Bradshaw Mountain High School, Prescott Valley
+Camp Verde High School, Camp Verde
+Canyon View Preparatory Academy, Prescott Valley
+Chino Valley High School, Chino Valley
+Sedona Sky Academy, Rimrock
+Kestrel High School, Prescott
+Mayer High School, Mayer
+Mingus Mountain Academy, Prescott Valley
+Mingus Union High School, Cottonwood
+Oak Creek Ranch School, Cornville
+The Orme School, Orme
+Prescott High School, Prescott
+Rimrock Public High School, Rimrock
+Sedona Red Rock High School, Sedona
+Seligman High School, Seligman
+Southwestern Academy, Rimrock
+Spring Ridge Academy, Spring Valley
+Tri-City College Prep High School, Prescott
+Verde Valley School, Sedona
+Yavapai County High School, Prescott Valley
+Yuma County
+Antelope Union High School, Wellton
+Aztec High School, Yuma
+Carpe Diem e-Learning Community, Yuma
+Cibola High School, Yuma
+Gila Ridge High School, Yuma
+Kofa High School, Yuma
+San Luis High School, San Luis
+Vista Alternative High School, Yuma
+Yuma Catholic High School, Yuma
+Yuma High School, Yuma
+Defunct schools
+Schools in this section are listed with their years of closure in parentheses.
+
+Alhambra College Preparatory High School, Phoenix (2011)
+Calli Ollin High School, Tucson (2010)
+Carver High School (also known as Phoenix Union Colored High School), Phoenix (Black; 1954)
+Catalina Mountain School, Tucson (2011)
+Clarkdale High School, Clarkdale (1951)
+Clifton High School, Clifton (2012)
+Cottonwood High School, Cottonwood (1958; consolidated into Mingus Union High School)
+East High School, Phoenix (1985)
+Gerard Catholic High School, Phoenix (1989)
+Gila Preparatory Academy, Safford (2011)
+Guadalupe Regional High School (also known as Guadalupe Satellite at Compadre High School), Guadalupe (2007)
+Jerome High School, Jerome (1951)
+Jess Schwartz Jewish Community High School, Phoenix (2011)
+Jokake School for Girls, Scottsdale (1945)
+Judson School, Scottsdale (2000)
+Litchfield Park High School, Litchfield Park (1956; moved to Avondale and became Agua Fria High School)
+McNary High School, McNary (1980)
+Mesa Central High School/Mesa Vo-Tech High School, Mesa (1991)
+Mesa Ranch School, Mesa (1943)
+Music Mountain Junior/Senior High School, Peach Springs
+Northern Yuma County Union High School, Parker/Salome (circa mid-1950s; split into two schools)
+Palo Verde Christian High School, Tucson (2000; acquired and renamed Pusch Ridge Christian Academy)
+Phoenix Indian School, Phoenix (1990)
+Phoenix Technical School, Phoenix (1955; folded back into Phoenix Union)
+Phoenix Union High School, Phoenix (1982)
+Phoenix Union Cyber High School, Phoenix (2010; folded into Camelback High School)
+Scottsdale High School, Scottsdale (1983)
+Sierra Summit Academy, Hereford (2011)
+Sinagua High School, Flagstaff (2010)
+Southwest Indian School, Peoria (1982)
+St. Johns Indian School, Laveen/Komatke (1976)
+St. Paul's Preparatory Academy, Phoenix (December 2009)
+Suffolk Hills Catholic High School, Tucson (1971–90; reverted to the Immaculate Heart High School name)
+Vicki A. Romero High School, Phoenix (2012)
+West High School, Phoenix (1983, reopened 1985 as Metro Tech High School)
+Western Christian High School, Phoenix (1988)
+White Cone High School, Keams Canyon (2012)

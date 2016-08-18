@@ -1,0 +1,436 @@
+Adams County
+Adams County Christian School, Natchez
+Cathedral High School, Natchez
+Natchez High School, Natchez
+Trinity Episcopal Day School, Natchez
+Alcorn County
+Alcorn Central High School, Glen
+Biggersville High School, Corinth
+Corinth High School, Corinth
+Kossuth High School, Kossuth
+Amite County
+Amite County High School, Liberty
+Amite School Center, Liberty
+Pine Hills Academy, Gloster
+Attala County
+Ethel Attendance Center, Ethel
+Kosciusko High School, Kosciusko
+McAdams Attendance Center, McAdams
+Old Dominion Christian School, Kosciusko
+Benton County
+Ashland High School, Ashland
+Hickory Flat High School, Hickory Flat
+Bolivar County
+Bayou Academy, Cleveland
+Benton Academy, Benton
+Broad Street High School, Shelby
+Cleveland High School, Cleveland
+East Side High School, Cleveland
+John F. Kennedy Memorial High School, Mound Bayou
+Ray Brooks School, Benoit
+Shaw High School, Shaw
+West Bolivar District High School, Rosedale
+Calhoun County
+Bruce High School, Bruce
+Calhoun Academy, Calhoun City
+Calhoun City High School, Calhoun City
+Vardaman High School, Vardaman
+Carroll County
+Carroll Academy, Carrollton
+J Z George High School, North Carrollton
+Chickasaw County
+Houlka High School, Houlka
+Houston High School, Houston
+Okolona High School, Okolona
+Choctaw County
+Choctaw County High School, Ackerman (formerly Ackerman HS)
+French Camp Academy, French Camp
+Claiborne County
+Chamberlain-Hunt Academy, Port Gibson
+Port Gibson High School, Port Gibson
+Clarke County
+Enterprise High School, Enterprise
+Quitman High School, Quitman
+Clay County
+Hebron Christian School, Pheba
+Oak Hill Academy, West Point
+West Point High School, West Point
+Coahoma County
+Clarksdale High School, Clarksdale
+Coahoma Agricultural High School, Clarksdale
+Coahoma County High School, Clarksdale
+Lee Academy, Clarksdale
+Copiah County
+Copiah Academy, Gallman
+Crystal Springs High School, Crystal Springs
+Hazlehurst High School, Hazlehurst
+Union Academy, Georgetown
+Wesson Attendance Center, Wesson
+Covington County
+Collins High School, Collins
+Mount Olive High School, Mount Olive
+Seminary High School, Seminary
+DeSoto County
+Center Hill High School, Olive Branch
+DeSoto Central High School, Southaven
+Hernando High School, Hernando
+Horn Lake High School, Horn Lake
+Lake Cormorant High School, Lake Cormorant
+Lewisburg High School, Olive Branch
+Olive Branch High School, Olive Branch
+Southaven High School, Southaven
+Forrest County
+Blair Center Hattiesburg High, Hattiesburg
+Forrest County Agricultural High School, Brooklyn
+North Forrest High School, Hattiesburg
+Petal High School, Petal
+Presbyterian Christian High School, Hattiesburg
+Sacred Heart School, Hattiesburg
+Franklin County
+Franklin County High School, Meadville
+George County
+George County High School, Lucedale
+Greene County
+Greene County High School, Leakesville
+Grenada County
+Grenada High School, Grenada
+Kirk Academy, Grenada
+Hancock County
+Bay High School, Bay St. Louis
+Hancock High School, Kiln
+Our Lady Academy, Bay St. Louis
+Saint Stanislaus College, Bay St. Louis
+Harrison County
+Biloxi High School, Biloxi
+Christian Collegiate Academy, Gulfport
+D'Iberville High School, D'Iberville
+Gulfport High School, Gulfport
+Harrison Central High School, Gulfport
+Long Beach Senior High School, Long Beach
+Pass Christian High School, Pass Christian
+St. Patrick High School, Biloxi
+Temple Christian Academy
+West Harrison High School, Gulfport
+Hinds County
+Bailey Magnet High School, Jackson
+Callaway High School, Jackson
+Central Hinds Academy, Raymond
+Christ Missionary and Industrial School, Jackson
+Clinton High School, Clinton
+Forest Hill High School, Jackson
+Hillcrest Christian School, Jackson
+Hinds County Agricultural High School, Utica
+Jackson Academy, Jackson
+Jim Hill High School, Jackson
+Lanier High School, Jackson
+Mississippi School for the Blind, Jackson
+Mississippi School for the Deaf, Jackson
+Mount Salus Christian School, Clinton
+Murrah High School, Jackson
+Provine High School, Jackson
+Raymond High School, Raymond
+Rebul Academy, Learned
+Terry High School, Terry
+Wingfield High School, Jackson
+Holmes County
+Central Holmes Christian School, Lexington
+Durant High School, Durant
+Marshall High School, Tchula
+McClain High School, Lexington
+Saints Academy, Lexington
+Williams-Sullivan High School, Durant
+Humphreys County
+Humphreys Academy, Belzoni
+Humphreys County High School, Belzoni
+Issaquena County
+none
+Itawamba County
+Itawamba Agricultural High School, Fulton
+Mantachie High School, Mantachie
+Tremont High School, Tremont
+Jackson County
+East Central High School, Hurley
+Gautier High School, Gautier
+Mississippi Division of Independent Study, Ocean Springs
+Moss Point High School, Moss Point
+Ocean Springs High School, Ocean Springs
+Pascagoula High School, Pascagoula
+Resurrection Catholic School, Pascagoula
+St. Martin High School, Ocean Springs
+Vancleave High School, Vancleave
+Jasper County
+Bay Springs High School, Bay Springs
+Heidelberg Academy, Heidelberg
+Heidelberg High School, Heidelberg
+Stringer Attendance Center, Stringer
+Sylva Bay Academy, Bay Springs
+Jefferson County
+Jefferson County High School, Fayette
+Jefferson Davis County
+Bassfield High School, Bassfield
+Prentiss Christian School, Prentiss
+Prentiss High School, Prentiss
+Jones County
+Laurel Christian High School, Laurel
+Laurel High School, Laurel
+Northeast Jones High School, Laurel
+South Jones High School, Ellisville
+West Jones High School, Laurel
+Kemper County
+East Kemper Attendance Center, Scooba
+Kemper Academy, DeKalb
+Kemper County High School, DeKalb
+West Kemper Elementary School, DeKalb
+Lafayette County
+Lafayette High School, Oxford
+Oxford High School, Oxford
+Lamar County
+Bass Memorial Academy, Lumberton
+Lamar Christian School, Purvis
+Lumberton High School, Lumberton
+Oak Grove High School, Hattiesburg
+Purvis High School, Purvis
+Sumrall High School, Sumrall
+Lauderdale County
+Clarkdale Attendance Center (K-12), Meridian
+Lamar School, Meridian
+Meridian High School, Meridian
+Northeast Lauderdale High School, Meridian
+Southeast Lauderdale High School, Meridian
+West Lauderdale High School, Collinsville
+Lawrence County
+Lawrence County High School, Monticello
+Leake County
+Leake Academy, Madden
+Leake Central High School, Carthage (formerly Carthage HS)
+Leake County High School, Walnut Grove (formerly South Leake HS)
+Lee County
+Faith Christian School, Guntown
+Mooreville High School, Mooreville
+Nettleton High School, Nettleton
+Saltillo High School, Saltillo
+Shannon High School, Shannon
+Tupelo Christian Academy, Tupelo
+Tupelo Christian Preparatory School, Belden
+Tupelo High School, Tupelo
+LeFlore County
+Greenwood High School, Greenwood
+Leflore County High School, Itta Bena
+Pillow Academy, Greenwood
+Lincoln County
+Alexander High School, Brookhaven (defunct)[1]
+Bogue Chitto Attendance Center, Bogue Chitto
+Brookhaven Academy, Brookhaven
+Brookhaven High School, Brookhaven
+Enterprise Attendance Center, Brookhaven
+Loyd Star, Brookhaven
+Mississippi School of the Arts, Brookhaven
+West Lincoln Attendance Center, Brookhaven
+Lowndes County
+Caledonia High School, Caledonia
+Columbus High School, Columbus
+Heritage Academy, Columbus
+Immanuel Center for Christian Education, Steens
+Mississippi School for Mathematics and Science, Columbus
+New Hope High School, Columbus
+Victory Christian Academy, Columbus
+West Lowndes High School, Columbus
+Madison County
+Canton Academy, Canton
+Canton Public High School, Canton
+Germantown High School, Madison
+Madison Central High School, Madison
+Madison-Ridgeland Academy, Madison
+Ridgeland High School, Ridgeland
+Rosa Scott High School, Madison
+St. Andrew's Episcopal School, Ridgeland
+St. Joseph Catholic School, Madison
+Tri County Academy, Flora
+Velma Jackson High School, Camden
+The Veritas School, Ridgeland
+Marion County
+Columbia Academy,Columbia
+Columbia High School, Columbia
+East Marion Eagles,Columbia
+West Marion High School, Foxworth
+Marshall County
+Bethlehem Christian School, Potts Camp
+Byers Attendance Center, Holly Springs
+Byhalia High School, Byhalia
+Holly Springs High School, Holly Springs
+Marshall Academy, Holly Springs
+Potts Camp High School, Potts Camp
+Monroe County
+Aberdeen High School, Aberdeen
+Amory Christian Academy, Amory
+Amory High School, Amory
+Hamilton High School, Hamilton
+Hatley High School, Hatley
+Smithville High School, Smithville
+Montgomery County
+Montgomery County High School, Kilmichael
+Winona Christian School, Winona
+Winona Secondary School, Winona
+Neshoba County
+Choctaw Central High School, Choctaw
+Neshoba Central High School, Philadelphia
+Philadelphia High School, Philadelphia
+Newton County
+Newton County Academy, Decatur
+Newton County High School, Decatur
+Newton High School, Newton
+Union High School, Union
+Noxubee County
+Central Academy, Macon
+Noxubee County High School, Macon
+Oktibbeha County
+East Oktibbeha County High School, Crawford
+Starkville Academy, Starkville
+Starkville High School, Starkville
+West Oktibbeha County High School, Maben
+Panola County
+North Delta High School, Batesville
+North Panola High School, Sardis
+Pope School, Pope
+South Panola High School, Batesville
+Pearl River County
+Pearl River Central High School, Carriere
+Picayune Memorial High School, Picayune
+Poplarville Junior Senior High School, Poplarville
+Perry County
+Perry Central High School, New Augusta
+Richton High School, Richton
+Pike County
+McComb High School, McComb
+North Pike Senior High School, Summit
+Parklane Academy, McComb
+South Pike High School, Magnolia
+Pontotoc County
+North Pontotoc High School, Ecru
+Pontotoc High School, Pontotoc
+South Pontotoc High School, Pontotoc
+Prentiss County
+Baldwyn High School, Baldwyn
+Booneville High School, Booneville
+Jumpertown High School, Booneville
+New Site High School, New Site
+Thrasher High School, Booneville
+Wheeler High School, Wheeler
+Quitman County
+Delta Academy, Marks
+M. S. Palmer High School, Marks
+Rankin County
+Brandon High School, Brandon
+East Rankin Academy, Pelahatchie
+Florence High School, Florence
+Jackson Preparatory School, Flowood
+McLaurin Attendance Center, Florence[2]
+Northwest Rankin High School, Flowood
+Pearl High School, Pearl
+Pelahatchie Attendance Center, Pelahatchie
+Piney Woods Country Life School, Piney Woods
+Pisgah High School, Sandhill
+Puckett Attendance Center, Puckett
+Richland High School, Richland
+University Christian School, Flowood
+Scott County
+Forest High School, Forest
+Lake High School, Lake
+Morton High School, Morton
+Scott Central High School, Forest
+Sebastopol High School, Sebastopol
+Sharkey County
+Sharkey-Issaquena Academy, Rolling Fork
+South Delta High School, Rolling Fork
+Simpson County
+Magee High School, Magee
+Mendenhall High School, Mendenhall
+Simpson County Academy, Mendenhall
+Smith County
+Mize High School, Mize
+Raleigh High School, Raleigh
+Taylorsville High School, Taylorsville
+Stone County
+Stone High School, Wiggins
+Sunflower County
+Drew High School, Drew
+Gentry High School, Indianola
+Indianola Academy, Indianola
+North Sunflower Academy, Drew
+Ruleville Central High School, Ruleville
+Tallahatchie County
+Charleston High School, Charleston
+Strider Academy, Charleston
+West Tallahatchie High School, Webb
+Tate County
+Coldwater High School, Coldwater
+Independence High School, Independence
+Magnolia Heights School, Senatobia
+Senatobia Junior Senior High School, Senatobia
+Strayhorn High School, Sarah
+Tippah County
+Blue Mountain High School, Blue Mountain
+Falkner High School, Falkner
+Pine Grove High School, Pine Grove
+Ripley High School, Ripley
+Walnut Attendance Center, Walnut
+Tishomingo County
+Belmont High School, Belmont
+Tishomingo County High School, Iuka
+Tunica County
+Rosa Fort High School, Tunica
+Tunica Academy, Tunica
+Union County
+East Union Attendance Center, Blue Springs
+Ingomar Attendance Center, New Albany
+New Albany High School, New Albany
+Myrtle Attendance Center, Myrtle
+Victory Christian Academy, New Albany
+West Union Attendance Center, Myrtle
+Walthall County
+Dexter Attendance Center, Tylertown
+Salem Attendance Center, Tylertown
+Tylertown High School, Tylertown
+Warren County
+All Saints' Episcopal School, Vicksburg
+Campus Preparatory Christian School, Vicksburg
+Porter's Chapel Academy, Vicksburg
+St. Aloysius High School, Vicksburg
+Vicksburg High School, Vicksburg
+Warren Central High School, Vicksburg
+Washington County
+Deer Creek School, Arcola
+Greenville Christian School, Greenville
+Greenville Weston High School, Greenville
+Greenville High School, Greenville (ended 2001), became Greenville Campus for Greenville-Weston High School
+T.L. Weston High School, South Greenville (ended 2001), became Weston Campus for Greenville-Weston High School
+Leland High School, Leland
+O'Bannon High School, Greenville
+Riverside High School, Avon
+Saint Joseph High School, Greenville
+Simmons High School, Hollandale
+Washington School, Greenville
+Wayne County
+Wayne Academy, Waynesboro
+Wayne County High School, Waynesboro
+Webster County
+East Webster High School, Maben[3]
+Eupora High School,[4] Eupora
+Wilkinson County
+Centreville Academy, Centreville
+Wilkinson County Christian Academy, Woodville
+Wilkinson County High School, Woodville
+Winston County
+Grace Christian School, Louisville
+Louisville High School, Louisville
+Nanih Waiya High School, Louisville
+Noxapater High School, Noxapater
+Winston Academy, Louisville
+Yalobusha County
+Coffeeville High School, Coffeeville
+Water Valley High School, Water Valley
+Yazoo County
+Benton Academy, Benton
+Manchester Academy, Yazoo City
+Yazoo City High School, Yazoo City
+Yazoo County High School, Yazoo City

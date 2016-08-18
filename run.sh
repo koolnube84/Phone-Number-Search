@@ -11,6 +11,7 @@ function startup {
 	read MIDDLETHREE
 	echo "What are the last four numbers? "
 	read LASTFOUR
+	FULLPHONENUMBER="$FIRSTTHREE-$MIDDLETHREE-$LASTFOUR"
 	echo "$(tput setaf 3)Phone number entered was $FIRSTTHREE-$MIDDLETHREE-$LASTFOUR$(tput sgr0)"
 }
 function getinfo {
@@ -59,6 +60,38 @@ function capital {
 	rm -r tmp.csv
 
 }
+function school {
+	echo "School search is in beta would you like to still run it? (y/n) "
+	read SCHOOLYESNO
+	#Get user input from prompt
+	if [ "$SCHOOLYESNO" = "y" ]; then
+		echo "will check schools"
+		cd ../schools
+		#Changes $ABB to lower case (WI to wi)
+		LOWER=$(echo "$ABB" | perl -ne 'print lc')
+		#makes a list of all the lines that contain the word county and puts the line numbers
+		LIST=$(grep -n "County" $LOWER.txt)
+		#writes the list to a file called tmp.txt
+		echo "$LIST" >> tmp.txt
+		#searches the tmp.txt file for the name of the county found before
+		LISTTWO=$(grep -n "$COUNTY" "tmp.txt")
+		#Gets the line number from the county found before
+		NUMBERONE=$(echo "$LISTTWO" | awk -F ":" '{print $1}')
+		#gets the line number for the $LOWER.txt file
+		STARTNUMBER=$(echo "$LISTTWO" | awk -F ":" '{print $2}')
+		STARTNUMBERONE=$(echo "scale=2;$STARTNUMBER-1" | bc)
+		#gets the next county name in tmp.txt
+		NUMBERTWO=$(echo "scale=2;$NUMBERONE+1" | bc)
+		#gets the line number for the next county name
+		NUMBERTWOTWO=$(sed ''$NUMBERTWO'!d' tmp.txt)
+		ENDNUMBER=$(echo "$NUMBERTWOTWO" | awk -F ":" '{print $1}')
+		SCHOOLS=$(tail -n +"$STARTNUMBERONE" "$LOWER.txt" | head -n $((ENDNUMBER-STARTNUMBERONE)))
+		rm -r tmp.txt
+
+	else
+		echo "skipping schools"
+	fi
+}
 function lastcheck {
 	if [ -z "$COMPANY" ]; then
 		COMPANY=$(echo "$(tput setaf 1)Not Found$(tput sgr0)")
@@ -73,29 +106,40 @@ function lastcheck {
 
 }
 function show {
-	echo " "
-	echo " "
-	echo "    Phone Information"
-	echo "*************************"
-	echo "Carrier = $COMPANY"
-	echo "Date introduced = $DATE"
-	echo "Useage = $USEAGE"
-	echo "*************************"
-	echo " "
-	echo " "
-	echo "     Call Geography"
-	echo "*************************"
-	echo "Country = $COUNTRY"
-	echo "State = $STATE"
-	echo "Abbreviation = $ABB"
-	echo "Capital = $CAPITAL"
-	echo "County = $COUNTY"
-	echo "City = $CITY"
-	echo "Zipcode = $ZIP"
-	echo "*************************"
+	cd ..
+		echo " "
+		echo " "
+		echo "    Phone Information"
+		echo "*************************"
+		echo "Carrier = $COMPANY"
+		echo "Date introduced = $DATE"
+		echo "Useage = $USEAGE"
+		echo "*************************"
+		echo " "
+		echo " "
+		echo "     Call Geography"
+		echo "*************************"
+		echo "Country = $COUNTRY"
+		echo "State = $STATE"
+		echo "Abbreviation = $ABB"
+		echo "Capital = $CAPITAL"
+		echo "County = $COUNTY"
+		echo "City = $CITY"
+		echo "Zipcode = $ZIP"
+		echo "*************************"
+		echo " "
+		echo " "
+		echo "       BETA INFO"
+		echo "*************************"
+		echo "Possible High Schools and their cities"
+		echo "*************************"
+		echo "$SCHOOLS"
+		echo "*************************"
+
 }
 startup
 getinfo
 capital
+school
 lastcheck
 show

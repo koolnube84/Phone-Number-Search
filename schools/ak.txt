@@ -1,0 +1,435 @@
+Aleutians East Borough
+Aleutians East Borough School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Akutan School	Akutan	P–12	1A	6
+Cold Bay School	Cold Bay	P–12	1A	0
+False Pass School	False Pass	P–12	—	4
+King Cove School	King Cove	P–12	1A	22
+Sand Point School	Sand Point	P–12	1A	32
+Total grades 9–12 for district	64
+Aleutians West Census Area
+Aleutian Region School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Adak School	Adak	P–12	—	5
+Yakov E. Netsvetov School	Atka	K–12	—	3
+Total grades 9–12 for district	8
+Unalaska School, Unalaska (3A)
+Municipality of Anchorage
+Anchorage School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Alaska State School for the Deaf and Hard of Hearing	Anchorage	P–12	—	11
+Avail School	Anchorage	6–12	—	61
+Bartlett High School	Anchorage	9–12	4A	1,491
+Benson Secondary/S.E.A.R.C.H.	Anchorage	7–12	—	247
+Chugiak High School	Chugiak	9–12	4A	1,086
+Crossroads School	Anchorage	7–12	—	30
+Dimond High School	Anchorage	9–12	4A	1,698
+Eagle River High School	Eagle River	9–12	4A	831
+East Anchorage High School	Anchorage	9–12	4A	2,161
+Family Partnership Charter School	Anchorage	K–12	—	271
+Frontier Charter School	Anchorage	K–12	—	173
+Highland Tech High Charter School	Anchorage	6–12	—	121
+McLaughlin Secondary School	Anchorage	7–12	—	91
+Polaris K-12 School	Anchorage	K–12	—	134
+S.A.V.E. High School	Anchorage	9–12	—	185
+Service High School	Anchorage	9–12	4A	1,772
+South Anchorage High School	Anchorage	9–12	4A	1,448
+Steller Secondary School	Anchorage	7–12	—	177
+The New Path High School	Anchorage	7–12	—	29
+West Anchorage High School	Anchorage	9–12	4A	1,901
+Whaley School	Anchorage	P–12	—	273
+Total grades 9–12 for district	14,191
+Alternative Career Education School, Anchorage
+Anchorage Junior Academy, Anchorage
+Anchorage Outreach/Private School, Anchorage
+Atheneum School, Anchorage
+Anchorage Christian Schools(ACS), Anchorage
+Birchwood Christian School, Chugiak
+Eagle Crest Academy, Anchorage
+Grace Christian School, Anchorage (3A)
+Heritage Christian School, Anchorage (3A)
+Holy Rosary Academy, Anchorage (1A)
+iGrad~Alaska, Anchorage
+Interior Distance Education of Alaska (IDEA), Anchorage
+Lumen Christi Junior/Senior High School, Anchorage (1A)
+McKinley Heights School, Eagle River
+Pacific Northern Academy, Anchorage (1A)
+Bethel Census Area
+Akiak Memorial School, Kasigluk
+Akula Elitnaurvik School, Kasigluk
+Aniak High School, Aniak (1A)
+Anna Tobeluk Memorial School, Nunapitchuk
+Ayaprun School, Newtok
+Chaptnguak School, Chefornak
+Chief Paul Memorial, Kipnuk
+Crow Village Sam School, Chuathbaluk
+Dick R. Kiunya Memorial School, Kongiganak
+Eek School, Eek
+George Morgan Junior/Senior High School, Upper Kalskag (1A)
+JoAnn Alexie School, Atmautluak
+Ket'acik-Aapalluk Memorial School, Kwethluk
+Kuinerrarmiut Elitnaurviat School, Quinhagak
+Kwigillingok School, Kwigillingok
+Lewis Angapak Memorial School, Tuntutuliak
+Lower Kuskokwim School District
+Bethel Alternative Boarding School, Bethel
+Bethel Regional High School, Bethel (3A)
+Moses Peter School, Akiachak
+Nelson Island School, Toksook Bay
+Nightmute School, Nightmute
+Nuniwarmiut School, Mekoryuk
+Paul T. Albert Memorial School, Tununak
+QuQuum School, Oscarville
+Rocky Mountain School, Goodnews Bay
+Tuluksak School, Tuluksak
+William Miller Memorial School, Napakiak
+Z. John Williams Memorial School, Napaskiak
+Bristol Bay Borough
+Bristol Bay Borough School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Bristol Bay Correspondence	Naknek	K–12		4
+Bristol Bay Middle/High School	Naknek	7–12	2A	43
+Total grades 9–12 for district	47
+Denali Borough
+Denali Borough School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Anderson School	Anderson	K–12	1A	10
+Cantwell School	Cantwell	K–12	1A	7
+Denali PEAK	Healy	P–12	—	157
+Tri-Valley School	Healy	P–12	2A	59
+Total grades 9–12 for district	233
+Dillingham Census Area
+Dillingham City School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Dillingham Correspondence School	Dillingham	K–12	—	3
+Dillingham Middle/High School	Dillingham	6–12	2A	150
+Total grades 9–12 for district	153
+Chief Ivan Blunka School, New Stuyahok
+Koliganek School, Koliganek
+Manokotak School, Manokotak
+Togiak School, Togiak
+Fairbanks North Star Borough
+Fairbanks North Star Borough School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Alternative Learning Systems	Fairbanks	P–12	—	78
+Ben Eielson Jr/Sr High School	Eielson AFB	7–12	3A	260
+Effie Kokrine Charter School	Fairbanks	7–12	2A	86
+Fairbanks B.E.S.T.	Fairbanks	K–12	—	159
+Fairbanks Youth Facility	Fairbanks	5–12	—	18
+Hutchison High School	Fairbanks	9–12	3A	372
+Lathrop High School	Fairbanks	9–12	4A	1,113
+North Pole High School	North Pole	9–12	4A	733
+Star of the North Secondary School	North Pole	7–12	—	164
+West Valley High School	Fairbanks	9–12	4A	1,024
+Total grades 9–12 for district	4,007
+iGrad~Alaska, Fairbanks
+Interior Distance Education of Alaska (IDEA), Fairbanks
+Monroe Catholic High School, Fairbanks (3A)
+Career Education Center, Fairbanks
+North Pole Academy, North Pole
+Haines Borough
+Haines Borough School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Haines High School	Haines	9–12	2A	99
+Haines Home School	Haines	K–12	—	1
+Total grades 9–12 for district	100
+Hoonah-Angoon Census Area
+Chatham School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Angoon (Eli Katonook Memorial) School	Angoon	P–12	1A	19
+Chatham Correspondence	Angoon	K–12	—	0
+Gustavus School	Gustavus	K–12	1A	7
+Klukwan School	Klukwan	K–12	1A	4
+Tenakee Springs School	Tenakee Springs	K–12	1A	2
+Total grades 9–12 for district	32
+Hoonah City School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Hoonah Jr/Sr High School	Hoonah	7–12	1A	30
+City and Borough of Juneau
+Juneau Borough School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+HomeBRIDGE	Juneau	P–12	—	37
+Johnson Youth Center	Juneau	5–12	—	8
+Juneau-Douglas High School	Juneau	9–12	4A	680
+Thunder Mountain High School	Juneau	9–12	4A	717
+Yaakoosge Daakahidi Alt. H.S.	Juneau	9–12	—	140
+Total grades 9–12 for district	1,582
+iGrad~Alaska, Juneau
+Interior Distance Education of Alaska (IDEA), Juneau
+Kenai Peninsula Borough
+Kenai Peninsula Borough School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Connections	Soldotna	K–12	—	336
+Cooper Landing School	Cooper Landing	K–12	—	1
+Homer Flex School	Homer	9–12	—	26
+Homer High School	Homer	9–12	3A	437
+Hope School	Hope	P–12	1A	7
+Kachemak Selo School	Fritz Creek	P–12	1A	17
+Kenai Alternative High School	Kenai	9–12	—	71
+Kenai Central High School	Kenai	9–12	4A	534
+Marathon School	Kenai	7–12	—	3
+Nanwalek School	Nanwalek	P–12	1A	20
+Nikiski Middle/Senior High School	Nikiski	6–12	3A	230
+Nikolaevsk School	Nikolaevsk	P–12	1A	22
+Ninilchik School	Ninilchik	P–12	1A	50
+Port Graham School	Port Graham	P–12	1A	5
+Razdolna School	Homer	P–12	—	14
+River City Academy	Soldotna	7–12	—	45
+Seward High School	Seward	9–12	3A	184
+Skyview High School	Soldotna	9–12	3A	340
+Soldotna High School	Soldotna	9–12	4A	505
+Susan B English School	Seldovia	P–12	1A	18
+Tebughna School	Tyonek	P–12	1A	6
+Voznesenka School	Fritz Creek	P–12	1A	40
+Total grades 9–12 for district	2,911
+Cook Inlet Academy, Soldotna (2A)
+iGrad~Alaska, Kenai
+Interior Distance Education of Alaska (IDEA), Kenai
+Ketchikan Gateway Borough
+Ketchikan Gateway Borough School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Fast Track	Ketchikan	K–12	—	36
+Ketchikan High School	Ketchikan	9–12	4A	572
+Ketchikan Regional Youth Facility	Ketchikan	5–12	—	1
+Revilla Jr/Sr High School	Ketchikan	7–12	—	126
+Total grades 9–12 for district	735
+Kodiak Island Borough
+Akhiok School, Akhiok
+Chiniak School, Chiniak
+Karluk School, Karluk
+Kodiak High School, Kodiak (4A)[1]
+Larsen Bay School, Larsen Bay
+Old Harbor School, Old Harbor
+Ouzinkie School, Ouzinkie
+Port Lions School, Port Lions
+Lake and Peninsula Borough
+Chignik Bay School, Chignik
+Chignik Lake School, Chignik Lake
+Kokhanok School, Kokhanok
+Meshik School, Port Heiden
+Newhalen School, Newhalen
+Nondalton School, Nondalton
+Perryville School, Perryville
+Tanalian School, Port Alsworth
+Kusilvak Census Area
+Kashunamiut School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Chevak School	Chevak	P–12	2A	79
+Alakanuk School, Alakanuk
+Andreafski School, St. Mary's
+Emmonak School, Emmonak
+Hooper Bay High School, Hooper Bay
+Ignatius Beans School, Mountain Village
+Kotlik School, Kotlik
+Marshall School, Marshall
+Pilot Station School, Pilot Station
+Pitkas Point School, Pitkas Point
+Russian Mission School, Russian Mission
+Scammon Bay School, Scammon Bay
+Sheldon Point School, Nunam Iqua
+Matanuska-Susitna Borough
+iGrad~Alaska, MatSu
+Interior Distance Education of Alaska (IDEA), MatSu
+Matanuska-Susitna Borough School District
+Burchell High School, Wasilla
+Colony High School, Palmer (4A)
+Glacier View School, Sutton
+Houston High School, Big Lake (4A)
+Mat-Su Career & Technical High School, Wasilla
+Palmer High School, Palmer (4A)
+Redington Jr./Sr. High School, Wasilla
+Susitna Valley High School, Talkeetna (3A)
+Twindly Bridge Charter School, Wasilla
+Valley Pathways High School, Palmer
+Wasilla High School, Wasilla (4A)
+Wasilla Lake Christian School, Wasilla
+Nome Census Area
+Bering Strait School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Aniguiin School	Elim	P–12	1A	21
+Anthony A. Andrews School	St. Michael	P–12	1A	38
+Brevig Mission School	Brevig Mission	P–12	1A	25
+Diomede School	Diomede	P–12	1A	4
+Gambell (Apangalook) School	Gambell	P–12	1A	42
+Hogarth Kingeekuk Sr. Memorial (Savoonga) School	Savoonga	P–12	1A	49
+James C. Isabell School	Teller	P–12	1A	23
+Koyuk-Malimiut School	Koyuk	P–12	1A	21
+Martin L. Olson School	Golovin	P–12	1A	11
+Shaktoolik School	Shaktoolik	P–12	1A	14
+Shishmaref School	Shishmaref	P–12	1A	44
+Tukurngailnguq (Stebbins) School	Stebbins	P–12	1A	44
+Unalakleet (Frank A. Degnan) School	Unalakleet	P–12	2A	39
+Wales (Kingikmiut) School	Wales	P–12	1A	6
+White Mountain School	White Mountain	P–12	1A	11
+Total grades 9–12 for district	392
+Nome-Beltz Junior/Senior High School, Nome (3A)
+North Slope Borough
+Alak School, Wainwright (1A)
+Barrow High School, Barrow (3A)
+Harold Kaveolook School, Kaktovik (1A)
+Kali School, Point Lay
+Meade River School, Atqasuk (1A)
+Nuiqsut Trapper School, Nuiqsut (1A)
+Nunamiut School, Anaktuvuk Pass (1A)
+Tikgaq School, Point Hope (1A)
+Northwest Arctic Borough
+Aqqaluk School, Noorvik (1A)
+Buckland School, Buckland (1A)
+Davis-Ramoth School, Selawik
+Deering School, Deering
+Ikiaiaglig School, Ambler
+Kiana School, Kiana
+Kotzebue High School, Kotzebue
+McQueen School, Kivalina
+Napaaqtugmiut School, Noatak
+Shungnak School, Shungnak
+Petersburg Census Area
+Kake City School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Kake Elementary and High School	Kake	P–12	1A	30
+Petersburg High School, Petersburg (3A)
+Prince of Wales-Hyder Census Area
+Annette Island School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Metlakatla High School	Metlakatla	9–12	2A	86
+Craig City School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Craig Alternative High School	Craig	9–12	—	5
+Craig High School	Craig	9–12	2A	91
+PACE Correspondence	Craig	K–12	—	39
+Total grades 9–12 for district	135
+Hydaburg City School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Hydaburg School	Hydaburg	P–12	1A	15
+Klawock School, Klawock
+Southeast Islands School, Thorne Bay
+Thorne Bay School, Thorne Bay
+City and Borough of Sitka
+Mount Edgecumbe High School, Sitka (3A)
+Pacific High School (Sitka, Alaska), Sitka
+Sitka High School, Sitka (3A)
+Municipality of Skagway
+Skagway High School, Skagway
+Southeast Fairbanks Census Area
+Alaska Gateway School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Alaska REACH Academy	Tok	P–12	—	31
+Dot Lake School	Dot Lake	P–12	1A	5
+Eagle Community School	Eagle	P–12	1A	2
+Mentasta Lake School	Mentasta Lake	P–12	1A	6
+Tetlin School	Tetlin	P–12	1A	5
+Tok School	Tok	P–12	2A	34
+Walter Northway School	Northway	P–12	2A	9
+Total grades 9–12 for district	92
+Delta-Greely School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Delta High School	Delta Junction	9–12	3A	175
+Delta/Greely Homeschool	Delta Junction	P–12	—	24
+New Horizons High School	Delta Junction	9–12	—	15
+Total grades 9–12 for district	214
+Valdez–Cordova Census Area
+Chugach School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Chenega Bay School	Chenega Bay	P–12	1A	4
+FOCUS Homeschool	Anchorage	P–12	—	50
+Tatitlek Community School	Tatitlek	P–12	—	9
+Whittier Community School	Whittier	P–12	—	5
+Total grades 9–12 for district	68
+Copper River School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Glennallen Jr/Sr High School	Glennallen	7–12	2A	98
+Kenny Lake School	Copper Center	P–12	1A	25
+Slana School	Slana	P–12	—	3
+Upstream Learning Correspondence	Glennallen	K–12	—	10
+Total grades 9–12 for district	136
+Cordova City School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Cordova Jr/Sr High School	Cordova	7–12	3A	108
+Valdez High School, Valdez
+City and Borough of Wrangell
+Wrangell High School, Wrangell (3A)
+City and Borough of Yakutat
+Yakutat School, Yakutat
+Yukon-Koyukuk Census Area
+Galena City School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Galena Interior Learning Academy (GILA)	Galena	9–12	—	217
+Interior Distance Education of Alaska (IDEA)	Fairbanks	P–12	—	915
+Sidney C. Huntington Jr/Sr High School	Galena	7–12	3A	34
+Total grades 9–12 for district	1,166
+Iditarod Area School District
+School name	Location	Grade
+range	ASAA	2014 en-
+rollment
+Blackwell School	Anvik	P–12	1A	1
+David Louis Memorial School	Grayling	P–12	1A	6
+Distance Learning/Corresp. Ctr.	Eagle River	K–12	—	16
+Holy Cross School	Holy Cross	K–12	1A	5
+Innoko River School	Shageluk	P–12	1A	2
+McGrath School	McGrath	P–12	1A	13
+Takotna Community School	Takotna	P–12	1A	2
+Top of the Kuskokwim School	Nikolai	P–12	1A	1
+Total grades 9–12 for district	46
+Allakaket School, Allakaket (1A)
+Andrew K. Demoski School, Nulato
+Fort Yukon School, Fort Yukon (1A)
+iGrad~Alaska, Galena
+Interior Distance Education of Alaska (IDEA), Galena
+Jimmy Huntington School, Huslia (1A)
+Johnny Oldman School, Hughes (1A)
+Kaltag School, Kaltag
+Maudrey J. Sommer School, Tanana (1A)
+Merriline A. Kangas School, Ruby
+Minto School, Minto (1A)
+Nenana High School, Nenana (2A)
+Project Education Residential School, Galena

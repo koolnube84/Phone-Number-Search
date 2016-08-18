@@ -1,0 +1,215 @@
+Schools by County
+Ada County
+Bishop Kelly High School, Boise
+Boise High School, Boise
+Borah High School, Boise
+Capital High School, Boise
+Centennial High School, Boise
+Cole Valley Christian High School, Meridian
+Compass Public Charter School, Meridian
+Eagle Academy, Eagle
+Eagle High School, Eagle
+Initial Point High School, Kuna
+Kuna High School, Kuna
+Meridian Academy, Meridian
+Meridian High School, Meridian
+Meridian Medical Arts Charter High School, Meridian
+Meridian Technical Charter High School, Meridian
+Mountain Cove High School, Boise
+Mountain View High School, Meridian
+North Star Charter School, Eagle
+Renaissance High School (ID), Meridian
+Riverstone International School, Boise
+Rocky Mountain High School, Meridian
+Sage International School, Boise
+The Ambrose School, Meridian
+Timberline High School, Boise
+Adams County
+Council High School, Council
+Meadows Valley Junior/Senior High School, New Meadows
+Bannock County
+Century High School, Pocatello
+Highland High School, Pocatello
+Marsh Valley High School, Arimo
+Pocatello High School, Pocatello
+Bear Lake County
+Bear Lake High School, Montpelier
+Benewah County
+Lakeside High School, Plummer
+St. Maries High School, St. Maries
+Bingham County
+Aberdeen High School, Aberdeen
+Blackfoot High School, Blackfoot
+Firth High School, Firth
+Idaho Leadership Academy, Blackfoot
+Shelley High School, Shelley
+Sho-Ban School, Fort Hall
+Snake River High School, Blackfoot
+Blaine County
+Carey High School, Carey
+Community School, Sun Valley
+Wood River High School, Hailey
+Boise County
+Garden Valley High School, Garden Valley
+Horseshoe Bend High School, Horseshoe Bend
+Idaho City High School, Idaho City
+Bonner County
+Clark Fork Junior/Senior High School, Clark Fork
+Priest River Lamanna High School, Priest River
+Sandpoint High School, Sandpoint
+Bonneville County
+Bonneville High School, Idaho Falls
+Compass Academy, Idaho Falls
+Hillcrest High School, Ammon
+Idaho Falls High School, Idaho Falls
+Skyline High School, Idaho Falls
+Taylor's Crossing Public Charter School, Idaho Falls
+Boundary County
+Bonners Ferry High School, Bonners Ferry
+Butte County
+Butte County High School, Arco
+Camas County
+Camas County High School, Fairfield
+Canyon County
+Caldwell High School, Caldwell
+Canyon Springs High School, Caldwell
+Columbia High School, Nampa
+Gem State Adventist Academy, Caldwell
+Greenleaf Friends Academy, Greenleaf
+Idaho Arts Charter School, Nampa
+Liberty Charter High School, Nampa
+Melba High School, Melba
+Middleton High School, Middleton
+Nampa High School, Nampa
+Nampa Christian School, Nampa
+Notus High School, Notus
+Parma High School, Parma
+Skyview High School, Nampa
+Vallivue High School, Caldwell
+Victory Charter School, Nampa
+Wilder High School, Wilder
+Caribou County
+Grace High School, Grace
+North Gem High School, Bancroft
+Soda Springs High School, Soda Springs
+Cassia County
+Burley High School, Burley
+Declo High School, Declo
+Oakley High School, Oakley
+Raft River High School, Malta
+Clark County
+Clark County High School, Dubois
+Clearwater County
+Orofino High School, Orofino
+Timberline High School, Weippe
+Custer County
+Challis High School, Challis
+Mackay High School, Mackay
+Elmore County
+Glenns Ferry High School, Glenns Ferry
+Mountain Home High School, Mountain Home
+Franklin County
+Preston High School, Preston
+West Side High School, Dayton
+Fremont County
+North Fremont High School, Ashton
+South Fremont High School, St. Anthony
+Gem County
+Black Canyon High School, Emmett
+Emmett High School, Emmett
+Gooding County
+Bliss High School, Bliss
+Gooding High School, Gooding
+Hagerman High School, Hagerman
+Idaho School for the Deaf and Blind, Gooding
+Wendell High School, Wendell
+Idaho County
+Clearwater Valley High School, Kooskia
+Grangeville High School, Grangeville
+Prairie High School, Cottonwood
+Salmon River High School, Riggins
+Jefferson County
+Rigby High School, Rigby
+Ririe High School, Ririe
+West Jefferson High School, Terreton
+Jerome County
+Jerome High School, Jerome
+Valley High School, Hazelton
+Kootenai County
+Coeur d'Alene High School, Coeur d'Alene
+Coeur d'Alene Charter Academy, Coeur d'Alene
+Kootenai High School, Harrison
+Lake City High School, Coeur d'Alene
+Lakeland High School, Rathdrum
+North Idaho Christian School, Hayden
+Post Falls Christian Academy, Post Falls
+Post Falls High School, Post Falls
+Timberlake High School, Spirit Lake
+Latah County
+Deary High School, Deary
+Genesee High School, Genesee
+Kendrick High School, Kendrick
+Logos School, Moscow
+Moscow High School, Moscow
+Potlatch High School, Potlatch
+Troy High School, Troy
+Lemhi County
+Leadore High School, Leadore
+Salmon High School, Salmon
+Lewis County
+Highland High School, Craigmont
+Kamiah High School, Kamiah
+Nezperce High School, Nezperce
+Lincoln County
+Dietrich High School, Dietrich
+Richfield High School, Richfield
+Shoshone High School, Shoshone
+Madison County
+Madison High School, Rexburg
+Sugar-Salem High School, Sugar City
+Minidoka County
+Minico High School, Rupert
+Nez Perce County
+Culdesac High School, Culdesac
+Lapwai High School, Lapwai
+Lewiston High School, Lewiston
+Oneida County
+Malad High School, Malad City
+Owyhee County
+Homedale High School, Homedale
+Marsing High School, Marsing
+Rimrock High School, Bruneau
+Payette County
+Fruitland High School, Fruitland
+New Plymouth High School, New Plymouth
+Payette High School, Payette
+Power County
+American Falls High School, American Falls
+Rockland High School, Rockland
+Shoshone County
+Kellogg High School, Kellogg
+Mullan High School, Mullan
+Wallace High School, Wallace
+Teton County
+Teton High School, Driggs
+Twin Falls County
+Buhl High School, Buhl
+Canyon Ridge High School, Twin Falls
+Castleford High School, Castleford
+Filer High School, Filer
+Hansen High School, Hansen
+Kimberly High School, Kimberly
+Lighthouse Christian School, Twin Falls
+Magic Valley Christian School, Twin Falls (closed)
+Magic Valley High School, Twin Falls
+Murtaugh High School, Murtaugh
+Twin Falls Christian Academy, Twin Falls
+Twin Falls High School, Twin Falls
+Xavier Charter School, Twin Falls
+Valley County
+Cascade High School, Cascade
+McCall-Donnelly High School, McCall
+Washington County
+Cambridge High School, Cambridge
+Midvale High School, Midvale
+Weiser High School, Weiser

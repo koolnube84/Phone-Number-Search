@@ -1,0 +1,392 @@
+
+Image	Name	City	District	Enrollment	Team name	OSAA
+Classification
+Santiam Christian Schools in Adair Village.JPG	Santiam Christian School	Adair Village	Private	877	Eagles	3A
+Adrian High School	Adrian	Adrian S.D.	97	Antelopes	1A
+South Albany High School sign Oregon.JPG	South Albany High School	Albany	Greater Albany Public S.D.	1330	Rebels	5A
+Three Lakes High School	Albany	Youth Corrections Education Program	65
+West Albany High School Oregon.JPG	West Albany High School	Albany	Greater Albany Public S.D.	1459	Bulldogs	5A
+Aloha High School.JPG	Aloha High School	Aloha	Beaverton S.D.	1811	Warriors	6A
+Life Christian School - Aloha, Oregon.JPG	Life Christian School	Aloha	Private	286	Lions	1A
+Alsea High School.jpg	Alsea High School	Alsea	Alsea S.D.	65	Wolverines	1A
+Amity High School Amity Oregon.JPG	Amity High School	Amity	Amity S.D.	274	Warriors	3A
+Arlington High School in Arlington Oregon.jpg	Arlington High School	Arlington	Arlington S.D.	58	Honkers	1A
+Ashland oregon high school admin bldg.jpg	Ashland High School	Ashland	Ashland S.D.	1073	Grizzlies	5A
+Wilderness Charter School	Ashland	Ashland S.D.	22
+Kings Valley Charter School	Kings Valley	Philomath S.D.	50	Pioneers	1A
+Astoria High School - Astoria Oregon.jpg	Astoria High School	Astoria	Astoria S.D.	738	Fishermen	4A
+Weston-McEwen High School	Athena	Athena Weston S.D.	217	TigerScots	2A
+North Marion High School - Aurora Oregon.jpg	North Marion High School	Aurora	North Marion S.D.	612	Huskies	4A
+Baker High School	Baker City	Baker S.D.	662	Bulldogs	4A
+Bandon High School (Bandon, Oregon).jpg	Bandon Senior High School	Bandon	Bandon S.D.	273	Tigers	3A
+Banks High School Oregon.JPG	Banks High School	Banks	Banks S.D.	418	Braves	4A
+Arts & Communication Magnet Academy - Beaverton, Oregon.JPG	Arts & Communication Magnet Academy	Beaverton	Beaverton S.D.	305
+Beaverton High School entrance.jpg	Beaverton High School	Beaverton	Beaverton S.D.	1926	Beavers	6A
+International School of Beaverton.JPG	International School of Beaverton	Beaverton	Beaverton S.D.	593	Dragons
+Merlo Station High School - Oregon.JPG	Merlo Station High School	Beaverton	Beaverton S.D.	457
+Southridge High School Beaverton Oregon.JPG	Southridge High School	Beaverton	Beaverton S.D.	2038	Skyhawks	6A
+Sunset High School - Beaverton, Oregon.JPG	Sunset High School	Beaverton
+(Portland mailing address)	Beaverton S.D.	2046	Apollos	6A
+Westview High School Oregon.JPG	Westview High School	Beaverton
+(Portland mailing address)	Beaverton S.D.	2797	Wildcats	6A
+Jesuit High School spirit store - Portland, Oregon.JPG	Jesuit High School	Beaverton
+(Portland mailing address)	Private	1339	Crusaders	6A
+Southwest Christian School Beaverton Oregon.JPG	Southwest Christian School	Beaverton	Private		Wildcats	1A
+Jesuit High School auditorium - Portland, Oregon.JPG	Thomas A. Edison High School	Beaverton
+(on campus of Jesuit)	Private	79
+Valley Catholic School - Beaverton, Oregon.JPG	Valley Catholic School	Beaverton	Private	478	Valiants	3A
+BendSeniorHighSchool.jpg	Bend Senior High School	Bend	Bend-La Pine S.D.	1610	Lava Bears	5A
+Marshall High School	Bend	Bend-La Pine S.D.	182
+Mountain View High School	Bend	Bend-La Pine S.D.	1497	Cougars	5A
+Summit High School	Bend	Bend-La Pine S.D.	1133	Storm	5A
+Trinity Lutheran School	Bend	Private	340	Saints	1A
+Triangle Lake School (Blachly, Oregon).jpg	Triangle Lake School	Blachly	Blachly S.D.	153	Lakers	1A
+Riverside High School Boardman Oregon.jpg	Riverside Junior/Senior High School	Boardman	Morrow County S.D.	433	Pirates	3A
+Bonanza Jr./Sr. High School	Bonanza	Klamath County S.D.	239	Antlers	2A
+Brookings Harbor High School - Oregon.jpg	Brookings-Harbor High School	Brookings	Brookings-Harbor S.D.	576	Bruins	4A
+Willamette Valley Christian School - Gervais Oregon.jpg	Willamette Valley Christian High School	Brooks	Private	171	Warriors	1A
+Burns High School	Burns	Harney County S.D.	329	Hilanders	3A
+Butte Falls Secondary School	Butte Falls	Butte Falls S.D.	88	Loggers	1A
+Camas Valley School entrance - Camas Valley Oregon.jpg	Camas Valley Charter School	Camas Valley	Camas Valley S.D.	139	Hornets	1A
+Canby High School.JPG	Canby High School	Canby	Canby S.D.	1670	Cougars	6A
+Canyonville Christian Academy.jpg	Canyonville Christian Academy	Canyonville	Private	137	Pilots	2A
+Catlin Gabel School barn in the fall - Portland Oregon.jpg	Catlin Gabel School	Portland	Private	729	Eagles	3A
+Illinois Valley High School	Cave Junction	Three Rivers S.D.	435	Cougars	4A
+Crater High School	Central Point	Central Point S.D.	1564	Comets	6A
+Chiloquin High School	Chiloquin	Klamath County S.D.	232	Panthers	2A
+Alliance Charter Academy	Clackamas	Oregon City S.D.	254
+Clackamas High School - Oregon.JPG	Clackamas High School	Clackamas	North Clackamas S.D.	2106	Cavaliers	6A
+Clackamas Web Academy.JPG	Clackamas Web Academy	Clackamas	North Clackamas S.D.	409
+Clatskanie Middle High School - Clatskanie Oregon.jpg	Clatskanie Middle/High School	Clatskanie	Clatskanie S.D.	462	Tigers	3A
+Nestucca High School	Cloverdale	Nestucca Valley S.D.	228	Bobcats	2A
+Colton High School - Colton Oregon.jpg	Colton High School	Colton	Colton S.D.	238	Vikings	3A
+Condon High School.jpg	Condon High School	Condon	Condon S.D.	69	Blue Devils	1A
+Harding Learning Center.jpg	Destinations Academy	Coos Bay		50
+Marshfield Senior High School.jpg	Marshfield High School	Coos Bay	Coos Bay Public Schools	1157	Pirates	4A
+Resource Link Charter School.jpg	Resource Link Charter School	Coos Bay		50
+Coquille High School - Coquille Oregon.jpg	Coquille High School	Coquille	Coquille S.D.	301	Red Devils	3A
+Corbett School	Corbett	Corbett S.D.	700	Cardinals	2A
+College Hill High School.jpg	College Hill High School	Corvallis	Corvallis S.D.
+Corvallis High School.jpg	Corvallis High School	Corvallis	Corvallis S.D.	1400	Spartans	5A
+Crescent Valley High School-1.jpg	Crescent Valley High School	Corvallis	Corvallis S.D.	1038	Raiders	5A
+Riverside High School	Corvallis	Linn-Benton-Lincoln Education Service District	14
+Academy for Character Education	Cottage Grove	South Lane S.D.	18
+Al Kennedy Alternative High School	Cottage Grove	South Lane S.D.	78
+Cottage Grove High School (Cottage Grove, Oregon).jpg	Cottage Grove High School	Cottage Grove	South Lane S.D.	875	Lions	4A
+Cove Leopards.jpg	Cove School	Cove	Cove S.D.	252	Leopards	1A
+Crane oregon high school building.jpg	Crane Union High School	Crane	Crane Union High S.D.	98	Mustangs	1A
+Creswell High School (Creswell, Oregon).jpg	Creswell High School	Creswell	Creswell S.D.	374	Bulldogs	3A
+Crow High School (Oregon).jpg	Crow Middle/High School	Crow	Crow-Applegate-Lorane S.D.	193	Cougars	1A
+Childs Way Charter School	Culp Creek	South Lane S.D.	35
+Culver High School - Culver Oregon.jpg	Culver High School	Culver	Culver S.D.	230	Bulldogs	2A
+Dallas High School - Dallas Oregon.jpg	Dallas High School	Dallas	Dallas S.D.	1023	Dragons	5A
+Damascus Christian School - Damascus Oregon.jpg	Damascus Christian School	Damascus	Private	259	Eagles	1A
+Days Creek Charter School.jpg	Days Creek Charter School	Days Creek	Days Creek S.D.	209	Wolves	1A
+MiloAcademy1.jpg	Milo Adventist Academy	Days Creek	Private	122	Mustangs	2A
+Dayton High School - Dayton Oregon.jpg	Dayton High School	Dayton	Dayton S.D.	345	Pirates	3A
+Dayville School	Dayville	Dayville S.D.	56	Tigers	1A
+North Douglas High School	Drain	North Douglas S.D.	118	Warriors	2A
+Dufur School	Dufur	Dufur S.D.	294	Rangers	1A
+Connections Alternative School	Eagle Point	North Eagle Point S.D.	84
+Eagle Point High School	Eagle Point	Eagle Point S.D.	1205	Eagles	5A
+Echo High School.jpg	Echo School	Echo	Echo S.D.	271	Cougars	1A
+Eddyville Charter School.jpg	Eddyville Charter School	Eddyville	Lincoln County S.D.	231	Eagles	1A
+Elgin High School.jpg	Elgin High School	Elgin	Elgin S.D.	165	Huskies	2A
+Elkton High School (Oregon).JPG	Elkton High School	Elkton	Elkton S.D.	92	Elk	1A
+Elmira High School.jpg	Elmira High School	Elmira	Fern Ridge S.D.	483	Falcons	4A
+Elmira High School (Elmira, Oregon).jpg	West Lane Technology Learning Center	Elmira	Fern Ridge S.D.	76
+Enterprise High School, Quinn Court.jpg	Enterprise High School	Enterprise	Enterprise S.D.	187	Outlaws	2A
+Estacada Alternative High School	Estacada	Estacada S.D.	166
+Estacada High School - Estacada Oregon.jpg	Estacada High School	Estacada	Estacada S.D.	743	Rangers	4A
+Kalapuya High School (Eugene, Oregon).jpg	Kalapuya High School	Eugene	Bethel S.D.	165
+Lifegate School (Eugene, Oregon).jpg	Lifegate Christian School	Eugene	Private	63	Lions	1A
+Looking Glass Riverfront School and Career Center (Eugene, Oregon).jpg	Looking Glass Riverfront School and Career Center	Eugene	Private	90
+Marist High School (Eugene, Oregon).jpg	Marist High School	Eugene	Private	493	Spartans	5A
+Network Charter School (Eugene, Oregon).jpg	Network Charter School	Eugene	Eugene S.D.	130
+North Eugene Alternative High School	Eugene	Eugene S.D.	39
+North Eugene High School (Eugene, Oregon) 2.jpg	North Eugene High School	Eugene	Eugene S.D.	1071	Highlander	5A
+Oak Hill School (Eugene, Oregon).jpg	Oak Hill School	Eugene	Private	131	Falcons	1A
+Opportunity Center (Eugene, Oregon).jpg	Opportunity Center	Eugene	Eugene S.D.	145
+Henry D. Sheldon High School (Eugene, Oregon) 2.jpg
+Sheldon High School	Eugene	Eugene S.D.	1706	Fighting Irish	6A
+South Eugene High School.jpg	South Eugene High School	Eugene	Eugene S.D.	1649	Axemen	6A
+Wellsprings Friends School (Eugene, Oregon).jpg	Wellsprings Friends School	Eugene	Private	60
+Willamette High School (Eugene, Oregon).jpg	Willamette High School	Eugene	Bethel S.D.	1501	Wolverines	5A
+Willamette Leadership Academy (Oregon).jpg	Willamette Leadership Academy	Eugene	Springfield S.D.	120
+Winston Churchill High School Eugene, Oregon).jpg	Winston Churchill High School	Eugene	Eugene S.D.	1195	Lancers	5A
+Reynolds Learning Academy	Fairview	Reynolds S.D.	156
+Falls City High School - Falls City Oregon.jpg	Falls City High School	Falls City	Falls City S.D.	68	Mountaineers	1A
+McKenzie High School - Finn Rock Oregon.jpg	McKenzie High School	Finn Rock	McKenzie S.D.	92	Eagles	1A
+Ocean Dunes High School.jpg	Ocean Dunes High School	Florence	Oregon Youth Authority
+Siuslaw High School.jpg	Siuslaw High School	Florence	Siuslaw S.D.	518	Vikings	4A
+Forest Grove High School - Oregon.JPG	Forest Grove High School	Forest Grove	Forest Grove S.D.	1979	Vikings	6A
+Wheeler High School in Fossil.jpg	Wheeler High School	Fossil	Fossil S.D.	39	Knights	1A
+Gaston Oregon schools.JPG	Gaston Junior/Senior High School	Gaston	Gaston S.D.	250	Greyhounds	2A
+Douglas Avenue Alternative School	Gervais	Gervais S.D.	16
+Gervais High School - Gervais Oregon.jpg	Gervais High School	Gervais	Gervais S.D.	340	Cougars	3A
+Gilchrist Junior/Senior High School	Gilchrist	Klamath County S.D.	111	Grizzlies	1A
+Gladstone High School Oct 09.jpg	Gladstone High School	Gladstone	Gladstone S.D.	911	Gladiators	4A
+Glendale High School pirate ship entrance - Glendale Oregon.jpg	Glendale Jr/Sr High School	Glendale	Glendale S.D.	218	Pirates	2A
+Glide High School	Glide	Glide S.D.	318	Wildcats	3A
+Gold Beach High School	Gold Beach	Central Curry S.D.	239	Panthers	2A
+Grants Pass High School	Grants Pass	Grants Pass S.D.	2204	Cavemen	6A
+Hidden Valley High School	Grants Pass	Three Rivers S.D.	871	Mustangs	4A
+New Hope Christian Schools	Grants Pass	Private	69	Warriors	1A
+Newbridge High School	Grants Pass	Three Rivers S.D.
+North Valley High School	Grants Pass	Three Rivers S.D.	771	Knights	4A
+Alpha High School	Gresham	Multnomah Education Service District	48		6A
+Centennial High School	Gresham	Centennial S.D.	1837	Eagles	6A
+Center for Advanced Learning	Gresham	Gresham-Barlow S.D.	12
+GreshamHigh.JPG	Gresham High School	Gresham	Gresham-Barlow S.D.	1792	Gophers	6A
+Sam Barlow High School.jpg	Sam Barlow High School	Gresham	Gresham-Barlow S.D.	1913	Bruins	6A
+Springwater Trail High School	Gresham	Gresham-Barlow S.D.	167
+Pine Eagle Charter School	Halfway	Pine Eagle S.D.	154	Spartans	1A
+Central Linn High School	Halsey	Central Linn S.D.	324	Cobras	2A
+Harper School (Malheur County, Oregon scenic images) (malDA0054b).jpg	Harper School	Harper	Harper S.D.	92	Hornets	1A
+Harrisburg High School (Harrisburg, Oregon).jpg	Harrisburg High School	Harrisburg	Harrisburg S.D.	280	Eagles	3A
+Helix School	Helix	Helix S.D.	155	Grizzlies	1A
+Heppner Junior/Senior High School	Heppner	Morrow County S.D.	195	Mustangs	2A
+Hermiston High School.jpg	Hermiston High School	Hermiston	Hermiston S.D.	1413	Bulldogs	5A
+Century High School Hillsboro Oregon.JPG	Century High School	Hillsboro	Hillsboro S.D.	1547	Jaguars	6A
+Glencoe High School Oregon entrance.JPG	Glencoe High School	Hillsboro	Hillsboro S.D.	1650	Crimson Tide	5A
+Hilhi Gym - Hillsboro, Oregon.JPG	Hillsboro High School	Hillsboro	Hillsboro S.D.	1515	Spartans	5A
+Liberty High School Oregon.JPG	Liberty High School	Hillsboro	Hillsboro S.D.	1300	Falcons	5A
+Miller Education Center West - Hillsboro, Oregon.JPG	Miller Education Center	Hillsboro	Hillsboro S.D.
+Faith Bible High School Hillsboro Oregon.JPG	Faith Bible High School	Hillsboro	Private	148	Falcons	2A
+Tualatin Valley Junior Academy.JPG	Tualatin Valley Academy	Hillsboro	Private	200	Eagles	1A
+Hood River Valley High School.jpg	Hood River Valley High School	Hood River	Hood River County S.D.	1225	Eagles	6A
+Horizon Christian School.jpg	Horizon Christian School	Hood River	Private	169	Hawks	1A
+Huntington High School	Huntington	Huntington S.D.	81	Locomotives	1A
+Imbler High School.jpg	Imbler High School	Imbler	Imbler S.D.	157	Panthers	1A
+Central High School back under construction - Independence Oregon.jpg	Central High School	Independence	Central S.D.	870	Panthers	4A
+Ione Community Charter School	Ione	Ione S.D.	156	Cardinals	1A
+Irrigon Oregon high school pano.jpg	Irrigon Junior/Senior High School	Irrigon	Morrow County S.D.	285	Knights	2A
+Laurelwood Academy (Jasper, Oregon).jpg	Laurelwood Academy	Jasper	Private	43
+Jefferson High School - Jefferson Oregon.jpg	Jefferson High School	Jefferson	Jefferson S.D.	310	Lions	3A
+Jewell School.jpg	Jewell School	Jewell	Jewell S.D.	165	Bluejays	1A
+Blue Mountain Alternative High School	John Day	John Day S.D.	32
+Grant Union High School	John Day	John Day S.D.	253	Prospectors	2A
+Jordan Valley High School	Jordan Valley	Jordan Valley S.D.	36	Mustangs	1A
+Joseph High School.jpg	Joseph High School	Joseph	Joseph S.D.	87	Eagles	1A
+Junction City High School (Junction City, Oregon).jpg	Junction City High School	Junction City	Junction City S.D.	596	Tigers	4A
+Mcnaryhighschool.jpg	McNary High School	Keizer	Salem-Keizer S.D.	2081	Celtics	6A
+Henley High School	Klamath Falls	Klamath County S.D.	707	Hornets	4A
+Hosanna Christian School	Klamath Falls	Private	320	Lions	1A
+Klamath Union High School	Klamath Falls	Klamath Falls City S.D.	1020	Pelicans	4A
+Mazama High School	Klamath Falls	Klamath County S.D.	884	Vikings	5A
+Triad School	Klamath Falls	Private	257	Timber Wolves	1A
+Knappa High School.jpg	Knappa High School	Knappa	Knappa S.D.	185	Loggers	2A
+La Grande High School.jpg	La Grande High School	La Grande	La Grande S.D.	738	Tigers	4A
+Riverbend Facility.jpg	RiverBend Alternative Education School	La Grande	Umatilla/Morrow Educational Service District	47
+Lake Oswego High School.jpg	Lake Oswego High School	Lake Oswego	Lake Oswego S.D.	1266	Lakers	6A
+Lakeridge High School.jpg	Lakeridge High School	Lake Oswego	Lake Oswego S.D.	1103	Pacers	6A
+Westside Christian High School Lake Oswego Oregon.JPG	Westside Christian High School	Lake Oswego	Private	300	Eagles	3A
+Lakeview Senior High School, Oregon.JPG	Lakeview High School	Lakeview	Lake County S.D.	272	Honkers	2A
+La Pine Senior High School	La Pine	Bend-La Pine S.D.	550	Hawks	4A
+East Linn Christian Academy	Lebanon	Private	164	Eagles	2A
+Lhs front2.jpg	Lebanon High School	Lebanon	Lebanon Community Schools	1275	Warriors	5A
+City Hall & Lincoln City Career Technical High School - Oregon.JPG
+Lincoln City Career Technical High School	Lincoln City	Lincoln County S.D.	54
+Taft High School.jpg	Taft High School	Lincoln City	Lincoln County S.D.	762	Tigers	3A
+Long Creek School	Long Creek	Long Creek S.D.	40	Mountaineers	1A
+Lowell High School (Lowell, Oregon).jpg	Lowell Junior/Senior High School	Lowell	Lowell S.D.	113	Devils	1A
+Madras High School - south entrance - Madras Oregon.jpg	Madras High School	Madras	Jefferson County S.D.	902	White Buffalos	5A
+Mapleton High School (Oregon).JPG	Mapleton Junior/Senior High School	Mapleton	Mapleton S.D.	81	Sailors	1A
+Mohawk High School (Marcola, Oregon).jpg	Mohawk High School	Marcola	Marcola S.D.	137	Indians	1A
+South Wasco County High School - Maupin Oregon.jpg	South Wasco County High School	Maupin	South Wasco County S.D.	126	Redsides	1A
+McMinnville Oregon high school.JPG	McMinnville High School	McMinnville	McMinnville S.D.	1748	Grizzlies	6A
+Cascade Christian High School	Medford	Private	280	Challengers	3A
+Central Medford HS 1 - Medford Oregon.jpg
+Central Medford High School	Medford	Medford S.D.	197
+North Medford High School.jpg	North Medford High School	Medford	Medford S.D.	2019	Black Tornado	6A
+Rogue Valley Adventist School	Medford	Private	122	Red Tail Hawks	1A
+St. Mary's School	Medford	Private	280	Crusaders	2A
+South Medford High School	Medford	Medford S.D.	1882	Panthers	6A
+Lost River Jr./Sr. High School	Merrill	Klamath County S.D.	291	Raiders	2A
+Santiam High School	Mill City	Santiam Canyon S.D.	210	Wolverines	2A
+McLoughlin High School	Milton-Freewater	Milton-Freewater S.D.	467	Pioneers	4A
+Pleasant View School	Milton-Freewater	Milton-Freewater S.D.	100
+La Salle High School entrance - Milwaukie Oregon.jpg	La Salle High School	Milwaukie	Private	629	Falcons	4A
+Milwaukie High School Front.jpg	Milwaukie Academy of the Arts	Milwaukie	North Clackamas S.D.	200
+Milwaukie eSchool	Milwaukie	North Clackamas S.D.	40
+Milwaukie High School Front.jpg	Milwaukie High School	Milwaukie	North Clackamas S.D.	1378	Mustangs	5A
+New Urban High School Milwaukie Oregon.jpg	New Urban High School	Milwaukie	North Clackamas S.D.	275
+Portland Waldorf School	Milwaukie	Private	80	Wolfpack	1A
+Rex Putnam High School gym - Oregon.JPG	Rex Putnam High School	Milwaukie	North Clackamas S.D.	1464	Kingsmen	5A
+Nixya'awii Community School.jpg
+Nixyaawii Community School	Mission	Pendleton S.D.	67	Golden Eagles	1A
+Mitchell School Oregon.jpg
+Mitchell School	Mitchell	Mitchell S.D.	63	Loggers	1A
+Country Christian School - Molalla Oregon.jpg	Country Christian School	Molalla	Private	275	Cougars	1A
+Molalla High School - Molalla Oregon.jpg	Molalla High School	Molalla	Molalla River S.D.	909	Indians	4A
+Mid-Valley Christian Academy - Independence Oregon.jpg	Mid-Valley Christian Academy	Monmouth	Private	71	Navigators	1A
+Monroe High School (Monroe, Oregon).jpg
+Monroe High School	Monroe	Monroe S.D.	141	Dragons	2A
+JFKHS-MA Trojans 1280x800.jpg	John F. Kennedy High School	Mt. Angel	Mt. Angel S.D.	250	Trojans	2A
+Monument School (Grant County, Oregon scenic images) (graDA0075).jpg
+Monument School	Monument	Monument S.D.	66	Tigers	1A
+Sherman High School	Moro	Sherman County S.D.	136	Huskies	1A
+Myrtle Point High School - Myrtle Point Oregon.jpg	Myrtle Point High School	Myrtle Point	Myrtle Point S.D.	356	Bobcats	3A
+South Umpqua High School (Tri City, Oregon).jpg	South Umpqua High School	Myrtle Creek	South Umpqua S.D.	577	Lancers	4A
+CS Lewis Academy side - Newberg Oregon.jpg	C. S. Lewis Academy	Newberg	Private	227	Watchmen	1A
+Newberg Oregon High School.JPG	Newberg High School	Newberg	Newberg S.D.	1672	Tigers	6A
+Veritas School Newberg Oregon.JPG	Veritas School	Newberg	Private		Vanguard	1A
+Newport Oregon High School.jpg	Newport High School	Newport	Lincoln County S.D.	659	Cubs	4A
+High School (North Bend, Oregon).jpg	North Bend High School	North Bend	North Bend S.D.	774	Bulldogs	4A
+Oregon Coast Technology School	North Bend	North Bend S.D.	369
+Powder Valley School.jpg	Powder Valley School	North Powder	North Powder S.D.	238	Badgers	1A
+Nyssa High School	Nyssa	Nyssa S.D.	319	Bulldogs	3A
+Oakland High School.jpg
+Oakland High School	Oakland	Oakland S.D.	211	Oakers	2A
+Oakridge High School.jpg	Oakridge High School	Oakridge	Oakridge S.D.	226	Warriors	2A
+Ontario High School	Ontario	Ontario S.D.	843	Tigers	4A
+Treasure Valley Christian School	Ontario	Private	44	Warriors
+Clackamas Middle College	Oregon City	North Clackamas S.D.	324
+North Clackamas Christian School	Oregon City	Private	238	Saints	1A
+OCHS hallway.jpg	Oregon City High School	Oregon City	Oregon City S.D.	2776	Pioneers	6A
+Paisley School (Paisley, Oregon).jpg	Paisley School	Paisley	Paisley S.D.	103	Broncos	1A
+Harris Junior Academy	Pendleton
+Pendleton High School	Pendleton	Pendleton S.D.	1047	Buckaroos	5A
+Perrydale School - Perrydale Oregon.jpg	Perrydale High School	Perrydale	Perrydale S.D.	330	Pirates	1A
+Philomath High School	Philomath	Philomath S.D.	611	Warriors	4A
+Armadillo Technical Institute	Phoenix	Phoenix-Talent S.D.	110
+Phoenix High School	Phoenix	Phoenix-Talent S.D.	822	Pirates	4A
+Pilot Rock High School	Pilot Rock	Pilot Rock S.D.	228	Rockets	2A
+Emerald Christian Academy (Pleasant Hill, Oregon).jpg	Emerald Christian Academy	Pleasant Hill	Private	115
+Pleasant Hill High School (Oregon).JPG	Pleasant Hill High School	Pleasant Hill	Pleasant Hill S.D.	374	Billies	3A
+Albina Youth Opportunity School	Portland		54
+Pdx benson high school center main P2061.jpeg	Benson Polytechnic High School	Portland	Portland Public Schools	1218	Techmen	6A
+Grover Cleveland High School Portland Oregon photo2.jpg	Cleveland High School	Portland	Portland Public Schools	1537	Warriors	5A
+Franklin High School - Portland Oregon.jpg	Franklin High School	Portland	Portland Public Schools	1233	Quakers	5A
+Central Catholic High School - Portland Oregon.jpg	Central Catholic High School	Portland	Private	870	Rams	6A
+City Bible Church offices - Portland, Oregon.JPG	City Christian Schools	Portland	Private	312	Lions	1A
+Clinton School	Portland	Portland Public Schools
+Columbia Christian Schools - Portland Oregon.jpg	Columbia Christian Schools	Portland	Private	225	Knights	1A
+De La Salle North Catholic High School	Portland	Private		Knights	2A
+GrantHighSchoolPortland.jpg	Grant High School	Portland	Portland Public Schools	1642	Generals	6A
+Jefferson High School Portland Oregon 1920.jpg	Jefferson High School	Portland	Portland Public Schools	707	Democrats	5A
+Lincoln High School - Portland Oregon.jpg	Lincoln High School	Portland	Portland Public Schools	1404	Cardinals	6A
+Entranceofmadison.jpg	Madison High School	Portland	Portland Public Schools	859	Senators	5A
+MLC east entrance detail - Portland Oregon.jpg	Metropolitan Learning Center	Portland	Portland Public Schools	443
+Mount Scott Alternative High School	Portland	Portland Public Schools
+The Northwest Academy high school - Portland Oregon.jpg	The Northwest Academy	Portland	Private	112
+Oregon Episcopal School	Portland	Private	836	Aardvark	3A
+Pacific Crest Community School - Portland Oregon.jpg	Pacific Crest Community School	Portland	Private	79
+Portland Adventist Academy high school - Portland Oregon.jpg	Portland Adventist Academy	Portland	Private	237	Cougars	3A
+Portland Christian Schools - Oregon.JPG	Portland Christian School	Portland	Private	373	Royals	2A
+Portland Lutheran School	Portland	Private	230	Blue Jays	1A
+Roosevelt High School (Portland, Oregon).jpg	Roosevelt High School	Portland	Portland Public Schools	828	Roughriders	5A
+Rosemary Anderson High School	Portland	Private	190
+Rosemont School	Portland	Portland Public Schools
+Trillium Charter School	Portland	Portland Public Schools	314
+Wilson High Front.jpg	Woodrow Wilson High School	Portland	Portland Public Schools	1532	Trojans	5A
+Centennial Learning Center	Portland	Centennial S.D.	136
+David Douglas High School - Portland Oregon - pic2.jpg	David Douglas High School	Portland	David Douglas S.D.	3080	Scots	6A
+Parkrose High School - Portland, Oregon.JPG	Parkrose High School	Portland	Parkrose S.D.	1103	Broncos	5A
+Riverdale High School	Portland	Riverdale S.D.	131	Mavericks	3A
+St. Mary's Academy Portland.JPG	St. Mary's Academy	Portland	Private	627	Blues	6A
+Terra Nova High School - Oregon.JPG	Terra Nova High School	Portland	Beaverton S.D.
+Northwest Regional Education Service District	700
+Pacific High School - Port Orford Oregon.jpg	Pacific High School	Port Orford	Port Orford-Langolois S.D.	135	Pirates	1A
+Powers High School - Powers Oregon.jpg	Powers High School	Powers	Powers S.D.	64	Cruisers	1A
+Prairie City School	Prairie City	Prairie City S.D.	163	Panthers	1A
+Crook County High School	Prineville	Crook County S.D.	906	Cowboys	4A
+Pioneer Secondary Alternative High School	Prineville	Crook County S.D.	89
+Prospect Charter School	Prospect	Prospect S.D.	156	Cougars	1A
+North Columbia Academy - Rainer, Oregon.JPG	North Columbia Academy	Rainier	Rainier S.D.	29
+Rainier Junior Senior High School - Rainier Oregon.jpg	Rainier Junior/Senior High School	Rainier	Rainier S.D.	588	Columbians	3A
+Central Christian Schools	Redmond	Private	236	Tigers	1A
+Redmond High School (Redmond, Oregon).jpg	Redmond High School	Redmond	Redmond S.D.	1695	Panthers	5A
+Ridgeview High School (Redmond, Oregon).jpg	Ridgeview High School	Redmond	Redmond S.D.		Ravens	5A-4A
+Reedsport Junior/Senior High School	Reedsport	Reedsport S.D.	342	Braves	3A
+Riddle Charter School.jpg	Riddle Education Center	Riddle	Riddle S.D.	38
+Riddle High School.jpg	Riddle High School	Riddle	Riddle S.D.	214	Irish	2A
+Neah-Kah-Nie High School.jpg	Neah-Kah-Nie High School	Rockaway Beach	Neah-Kah-Nie S.D.	255	Pirates	3A
+Rogue River High School	Rogue River	Rogue River S.D.	446	Chieftains	3A
+Roseburg High School (Roseburg, Oregon).jpg	Roseburg High School	Roseburg	Roseburg S.D.	1543	Indians	6A
+Columbia County Education Campus - St. Helens, Oregon.JPG
+Columbia County Education Campus	St. Helens	St. Helens S.D.	53
+St. Paul Oregon High School sign.JPG	St. Paul High School	St. Paul	St. Paul S.D.	103	Buckaroos	1A
+StHelensHighSchool.jpg	St. Helens High School	St. Helens	St. Helens S.D.	966	Lions	5A
+Blanchet Catholic School - Salem Oregon.jpg	Blanchet Catholic School	Salem	Private	389	Cavaliers	3A
+Chemawa Indian School	Salem	Bureau of Indian Affairs	425	Braves	3A
+Douglas McKay High School Oregon.JPG	Douglas McKay High School	Salem	Salem-Keizer S.D.	1916	Scots	6A
+Early College High School - Salem Oregon.jpg	Early College High School	Salem	Salem-Keizer S.D.	350
+Livingstone Adventist Academy	Salem	Private	229
+NorthSalemHS.jpg	North Salem High School	Salem	Salem-Keizer S.D.	2023	Vikings	6A
+Oregon School for Deaf 1920.jpg	Oregon School for the Deaf	Salem	Oregon Department of Education	63	Panthers	1A
+Robert S Farrell High School	Salem	Youth Corrections Education Program	187
+RobertsStateStreetz.jpg	Roberts High School	Salem	Salem-Keizer S.D.	1020
+Salem Academy Christian Schools	Salem	Private	240	Crusaders	2A
+South Salem High School	Salem	Salem-Keizer S.D.	1898	Saxons	6A
+Sprague High School	Salem	Salem-Keizer S.D.	1557	Olympians	6A
+West Salem High School	Salem	Salem-Keizer S.D.	1621	Titans	6A
+Western Mennonite School	Salem	Private	273	Pioneers	2A
+Sandy High School - Sandy Oregon.jpg	Sandy High School	Sandy	Oregon Trail S.D.	1373	Pioneers	5A
+Scappoose High School - Scappoose Oregon.jpg	Scappoose High School	Scappoose	Scappoose S.D.	708	Indians	4A
+Oregon Connections Academy storefront - Scio Oregon.jpg	Oregon Connections Academy	Scio (virtual school)	Scio S.D.	1473
+Scio High School - Scio Oregon.jpg	Scio High School	Scio	Scio S.D.	233	Logger	2A
+Seaside High School - Oregon.JPG	Seaside High School	Seaside	Seaside S.D.	475	Seagulls	4A
+The Delphian School in Sheridan, Oregon.JPG	The Delphian School	Sheridan	Private		Dragons	2A
+Sheridan Oregon high school.JPG	Sheridan High School	Sheridan	Sheridan S.D.	287	Spartans	3A
+Sheridan Japanese School side.JPG	Sheridan Japanese School	Sheridan	Sheridan S.D.
+(charter school)	82	Samurai
+Sherwood High School Oregon.JPG	Sherwood High School	Sherwood	Sherwood S.D.	1126	Bowmen	5A
+Siletz Valley Early College Academy	Siletz	Lincoln County S.D.	68	Warriors	1A
+North Lake School	Silver Lake	North Lake S.D.	233	Cowboys	1A
+Silverton High School	Silverton	Silver Falls S.D.	1237	Foxes	5A
+Sisters High School - Sisters Oregon.jpg	Sisters High School	Sisters	Sisters S.D.	491	Outlaws	4A
+Spray school in oregon.jpg	Spray School	Spray	Spray S.D.	60	Eagles	1A
+Academy of Arts and Academics (Springfield, Oregon).jpg	Academy of Arts and Academics	Springfield	Springfield S.D.	112
+Gateways High School (Springfield, Oregon).jpg	Gateways High School	Springfield	Springfield S.D.	122
+Springfield High School (Springfield, Oregon) 1.jpg	Springfield High School	Springfield	Springfield S.D.	1465	Millers	5A
+Thurston High School	Springfield	Springfield S.D.	1584	Colts	6A
+Stanfield High School.jpg	Stanfield High School	Stanfield	Stanfield S.D.	249	Tigers	2A
+Regis High School sign and buildings - Stayton Oregon.jpg	Regis High School	Stayton	Private	159	Rams	2A
+Stayton High School main entrance - Stayton Oregon.jpg	Stayton High School	Stayton	North Santiam S.D.	794	Eagles	4A
+Sutherlin High School (Sutherlin, Oregon).jpg	Sutherlin High School	Sutherlin	Sutherlin S.D.	467	Bulldogs	4A
+Sweet Home High School.jpg	Sweet Home High School	Sweet Home	Sweet Home S.D.	810	Huskies	4A
+The Dalles High School entrance.jpg	The Dalles-Wahtonka High School	The Dalles	North Wasco County S.D.		Eagle-Indians	5A
+Durham School Tigard Oregon.jpg	Durham Education Center	Tigard	Tigard-Tualatin S.D.	87
+Tigard High School.JPG	Tigard High School	Tigard	Tigard-Tualatin S.D.	2004	Tigers	6A
+Tillamook High School - Oregon.JPG	Tillamook High School	Tillamook	Tillamook S.D.	722	Cheesemakers	4A
+Trask River High School	Tillamook	Youth Corrections Education Program	72
+Toledo High School (Toledo, Oregon).jpg	Toledo High School	Toledo	Lincoln County S.D.	441	Boomers	3A
+Open Door Christian Academy	Troutdale	Private	290	Huskies	1A
+Reynolds High School	Troutdale	Reynolds S.D.	2822	Raiders	6A
+Horizon Christian Schools Tualatin Oregon.jpg	Horizon Christian Schools	Tualatin	Private	472	Hawks	3A
+Tualatin High School sign.JPG	Tualatin High School	Tualatin	Tigard-Tualatin S.D.	1857	Timberwolves	6A
+Cascade Senior High School new entrance - Turner Oregon.jpg	Cascade High School	Turner	Cascade S.D.	766	Cougars	4A
+Ukiah High School	Ukiah	Ukiah S.D.	44	Cougars	1A
+Umatilla High School	Umatilla	Umatilla S.D.	380	Vikings	3A
+Union High School.jpg	Union High School	Union	Union S.D.	236	Bobcats	2A
+Burnt River School	Unity	Burnt River S.D.	47	Bulls	1A
+Vernonia Schools - Oregon.JPG	Vernonia High School	Vernonia	Vernonia S.D.	234	Loggers	3A
+Waldport High School.jpg	Waldport High School	Waldport	Lincoln County S.D.	253	Irish	3A
+Wallowa High School.jpg	Wallowa High School	Wallowa	Wallowa S.D.	109	Cougars	1A
+South Jetty High School	Warrenton	Youth Corrections Education Program	26
+Warrenton High School	Warrenton	Warrenton-Hammond S.D.	285	Warriors	3A
+West Linn High School Oregon.jpg	West Linn High School	West Linn	West Linn-Wilsonville S.D.	1556	Lions	6A
+Willamina High School.JPG	Willamina High School	Willamina	Willamina S.D.	310	Bulldogs	3A
+Arts & Technology High School Wilsonville.JPG	Arts & Technology High School	Wilsonville	West Linn-Wilsonville S.D.	80
+Wilsonville High School Oregon.JPG	Wilsonville High School	Wilsonville	West Linn-Wilsonville S.D.	1044	Wildcats	5A
+Douglas High School - Winston Oregon.jpg	Douglas High School	Winston	Winston-Dillard S.D.	549	Trojans	4A
+Umpqua Valley Christian Secondary School - Winston Oregon.jpg	Umpqua Valley Christian Secondary School	Winston	Private	110	Monarchs	1A
+Vale High School	Vale	Vale S.D.	304	Vikings	3A
+William P. Lord High School	Woodburn	Youth Corrections Education Program	366
+Woodburn High School - Woodburn Oregon.jpg	Woodburn High School	Woodburn	Woodburn S.D.	1287	Bulldogs	5A
+Woodburn Success Alternative High School - Woodburn Oregon.jpg	Woodburn Success Alternative High School	Woodburn	Woodburn S.D.	184
+Yamhill Carlton High School.JPG	Yamhill Carlton High School	Yamhill	Yamhill-Carlton S.D.	440	Tigers	4A
+Yoncalla High School (Yoncalla, Oregon).jpg	Yoncalla High School	Yoncalla	Yoncalla S.D.	214	Eagles	2A
+Defunct
+Image	Name	City	District	Opened	Closed	Team name
+Cascade Locks school - Cascade Locks Oregon.jpg	Cascade Locks School	Cascade Locks	Hood River County S.D.	1949	2009	Pirates
+Crook County Christian School.jpg	Crook County Christian School	Prineville	Private	1994		Warriors
+Fairview Christian School	Albany	Private	1975	2009
+Heritage Christian School building.JPG	Heritage Christian School	Hillsboro	Private	1998	2009	Knights
+Adams High School	Portland	Portland Public Schools	1969	1982	Patriots
+Jackson Middle School - Portland Oregon.JPG	Jackson High School	Portland	Portland Public Schools		1982	Raiders
+John Marshall High School - Portland, Oregon.JPG	Marshall High School	Portland	Portland Public Schools	1960	2011	Minutemen
+MBA Arial.jpg	Mount Bachelor Academy	Prineville	Private	1987	2009	Bears
+Edwin Brown High School	Redmond	Redmond S.D.	1998	2009
+Howard Hall in 2015.JPG	Oregon School for the Blind	Salem	Oregon Department of Education	1873	2009

@@ -1,0 +1,247 @@
+Beaverhead County
+Beaverhead County High School, Dillon, Class A
+Lima High School, Lima, Class C
+Big Horn County
+Hardin High School, Hardin, Class A
+Lodge Grass High School, Lodge Grass, Class B
+Northern Cheyenne High School, Busby, Class C
+Plenty Coups High School, Pryor, Class C
+Blaine County
+Chinook High School, Chinook, Class C
+Harlem High School, Harlem, Class B
+Hays-Lodge Pole High School, Hays, Class C
+Turner High School, Turner, Class C
+Broadwater County
+Broadwater High School, Townsend, Class B
+Three Forks High School, Three Forks, Class B
+Carbon County
+Belfry High School, Belfry, Class C
+Bridger High School, Bridger, Class C
+Fromberg High School, Fromberg, Class C
+Joliet High School, Joliet, Class B
+Red Lodge High School, Red Lodge, Class B
+Roberts High School, Roberts, Class C
+Carter County
+Carter County High School, Ekalaka, Class C
+Cascade County
+Belt High School, Belt, Class C
+Cascade High School, Cascade, Class C
+Centerville High School, Sand Coulee, Class C
+Charles M. Russell High School (CMR), Great Falls, Class AA
+Great Falls Central Catholic High School, Great Falls, Class C
+Great Falls High School, Great Falls, Class AA
+Montana School for Deaf & Blind High, Great Falls, Class C
+Simms High School, Simms, Class C
+Chouteau County
+Big Sandy High School, Big Sandy, Class C
+Fort Benton High School, Fort Benton, Class C
+Geraldine High School, Geraldine, Class C
+Highwood High School, Highwood, Class C
+Custer County
+Custer County District High School, Miles City, Class A
+Daniels County
+Peerless High School, Peerless, Class C
+Scobey High School, Scobey, Class C
+Dawson County
+Dawson High School, Glendive, Class A
+Richey High School, Richey, Class C
+Deer Lodge County
+Anaconda High School, Anaconda, Class B
+Fallon County
+Baker High School, Baker, Class B
+Plevna High School, Plevna, Class C
+Fergus County
+Denton High School, Denton, Class C
+Fergus High School, Lewistown, Class A
+Grass Range High School, Grass Range, Class C
+Moore High School, Moore, Class C
+Roy High School, Roy, Class C
+Winifred High School, Winifred, Class C
+Flathead County
+Bigfork High School, Bigfork, Class B
+Columbia Falls High School, Columbia Falls, Class A
+Flathead High School, Kalispell, Class AA
+Glacier High School, Kalispell, Class AA
+Stillwater Christian School, Kalispell, Class C
+Whitefish High School, Whitefish, Class A
+Gallatin County
+Belgrade High School, Belgrade, Class A
+Bozeman High School, Bozeman, Class AA
+Heritage Christian School, Bozeman
+Lone Peak High School, Big Sky, Montana, Class C
+Manhattan Christian School, Churchill, Class C
+Manhattan High School, Manhattan, Class B
+Mount Ellis Academy, Bozeman, Class C
+Three Forks High School, Three Forks, Class B
+West Yellowstone High School, West Yellowstone, Class C
+Willow Creek High School, Willow Creek, Class C
+Garfield County
+Garfield County District High School, Jordan, Class C
+Glacier County
+Browning High School, Browning, Class A
+Cut Bank High School, Cut Bank, Class B
+Golden Valley County
+Lavina High School, Lavina, Class C
+Ryegate High School, Ryegate, Class C
+Granite County
+Drummond High School, Drummond, Class C
+Granite High School, Philipsburg, Class C
+Hill County
+Box Elder High School, Box Elder, Class C
+Havre High School, Havre, Class A
+North Star High School, Rudyard, Class C
+Rocky Boy High School, Box Elder, Class B
+Jefferson County
+Jefferson High School, Boulder, Class B
+Whitehall High School, Whitehall, Class B
+Judith Basin County
+Geyser High School, Geyser, Class C
+Hobson High School, Hobson, Class C
+Stanford High School, Stanford, Class C
+Lake County
+Arlee High School, Arlee, Class C
+Charlo High School, Charlo, Class C
+Polson High School, Polson, Class A
+Ronan High School, Ronan, Class B
+St. Ignatius High School, St. Ignatius, Class B
+Two Eagle River School, Pablo, Class C
+Lewis and Clark County
+Augusta High School, Augusta, Class C
+Capital High School, Helena, Class AA
+Helena High School, Helena, Class AA
+Lincoln High School, Lincoln, Class C
+Liberty County
+Chester-Joplin-Inverness High School (CJI), Chester, Class C
+Lincoln County
+Libby High School, Libby, Class A
+Lincoln County High School, Eureka, Class B
+Troy High School, Troy, Class B
+Madison County
+Ennis High School, Ennis, Class C
+Harrison High School, Harrison, Class C
+Sheridan High School, Sheridan, Class C
+Twin Bridges High School, Twin Bridges, Class C
+McCone County
+Circle High School, Circle, Class C
+Meagher County
+White Sulphur Springs High School, White Sulphur Springs, Class C
+Mineral County
+Alberton High School, Alberton, Class C
+St. Regis High School, St. Regis, Class C
+Superior High School, Superior, Class C
+Missoula County
+Big Sky High School, Missoula, Class AA
+Frenchtown High School, Frenchtown Class A
+Hellgate High School, Missoula, Class AA
+Loyola Sacred Heart High School, Missoula, Class B
+Mission Mountain School, Condon, Class C
+Missoula International School, Missoula
+Seeley-Swan High School, Seeley Lake, Class C
+Sentinel High School, Missoula, Class AA
+Sussex School, Missoula
+Valley Christian School, Missoula, Class C
+Willard Alternative High School, Missoula
+Musselshell County
+Melstone High School, Melstone, Class C
+Roundup High School, Roundup, Class B
+Park County
+Gardiner High School, Gardiner, Class C
+Park High School, Livingston, Class A
+Shields Valley High School, Clyde Park, Class C
+Petroleum County
+Winnett High School, Winnett, Class C
+Phillips County
+Dodson High School, Dodson, Class C
+Malta High School, Malta, Class B
+Saco High School, Saco, Class C
+Whitewater High School, Whitewater, Class C
+Pondera County
+Conrad High School, Conrad, Class B
+Heart Butte High School, Heart Butte, Class C
+Valier High School, Valier, Class C
+Powder River County
+Powder River County District High School, Broadus, Class B
+Powell County
+Powell County High School, Deer Lodge, Class B
+Prairie County
+Terry High School, Terry, Class C
+Ravalli County
+Corvallis High School, Class A
+Darby High School, Class C
+Florence-Carlton High School, Class B
+Hamilton High School, Class A
+Stevensville High School, Class A
+Victor High School, Class C
+Richland County
+Fairview High School, Fairview, Class C
+Lambert High School, Lambert, Class C
+Savage High School, Savage, Class C
+Sidney High School, Sidney, Class A
+Roosevelt County
+Bainville High School, Bainville, Class C
+Brockton High School, Brockton, Class C
+Culbertson High School, Culbertson, Class C
+Froid High School, Froid, Class C
+Poplar High School, Poplar, Class C
+Wolf Point High School, Wolf Point, Class B
+Rosebud County
+Colstrip High School, Colstrip, Class B
+Forsyth High School, Forsyth, Class B
+Lame Deer High School, Lame Deer, Class C
+Rosebud High School, Rosebud, Class C
+St. Labre Indian Catholic High School, Ashland, Class C
+Sanders County
+Hot Springs High School, Hot Springs, Class C
+Monarch School, Heron, Private
+Noxon High School, Noxon, Class C
+Plains High School, Plains, Class C
+Thompson Falls High School, Thompson Falls, Class B
+Sheridan County
+Medicine Lake High School, Medicine Lake, Class C
+Plentywood High School, Plentywood, Class B
+Westby High School, Westby, Class C
+Silver Bow County
+Butte Central Catholic High School, Butte, Class A
+Butte High School, Butte, Class AA
+Stillwater County
+Absarokee High School, Absarokee, Class C
+Columbus High School, Columbus, Class B
+Park City High School, Park City, Class C
+Rapelje High School, Rapelje, Class C
+Reedpoint High School, Reedpoint, Class C
+Sweet Grass County
+Sweet Grass County High School, Big Timber, Class B
+Teton County
+Choteau High School, Choteau, Class B
+Dutton/Brady High School, Dutton, Class C
+Fairfield High School, Fairfield, Class B
+Power High School, Power, Class C
+Toole County
+North Toole County High School, Sunburst, Class C
+Shelby High School, Shelby, Class B
+Treasure County
+Hysham High School, Hysham, Class C
+Valley County
+Frazer High School, Frazer, Class C
+Lustre Christian High School, Lustre, Class C
+Glasgow High School, Glasgow, Class B
+Hinsdale High School, Hinsdale, Class C
+Nashua High School, Nashua, Class C
+Opheim High School, Opheim, Class C
+Wheatland County
+Harlowton High School, Harlowton, Class C
+Judith Gap High School, Judith Gap, Class C
+Wibaux County
+Wibaux High School, Wibaux, Class C
+Yellowstone County
+Billings Central Catholic High School, Billings, Class A
+Billings Senior High School, Billings, Class AA
+Billings West High School, Billings, Class AA
+Broadview High School, Broadview, Class C
+Custer High School, Custer, Class C
+Huntley Project High School, Worden, Class B
+Laurel High School, Laurel, Class A
+Rimrock Christian High School, West Billings, Class C
+Shepherd High School, Shepherd, Class B
+Skyview High School, Billings, Class AA
+Yellowstone Academy, Billings, Class C

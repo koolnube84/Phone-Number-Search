@@ -1,0 +1,499 @@
+Allen County
+Humboldt High School, Humboldt, USD 258
+Iola High School, Iola, USD 257
+Marmaton Valley High School, Moran, USD 256
+Anderson County
+Anderson County Jr/Sr High School, Garnett, USD 365
+Crest High School, Colony, USD 479
+Atchison County
+Atchison County Community High School, Effingham
+Atchison High School, Atchison
+Maur Hill - Mount Academy, Atchison (Formed with the merger of Maur Hill Prep School & Mount St. Scholastica High School)
+Barber County
+Medicine Lodge High School, Medicine Lodge
+South Barber High School, Kiowa
+Barton County
+Central Plains High School, Claflin
+Ellinwood High School, Ellinwood
+Great Bend High School, Great Bend
+Hoisington High School, Hoisington
+Bourbon County
+Fort Scott High School, Fort Scott
+Uniontown High School, Uniontown
+Brown County
+Hiawatha High School, Hiawatha
+Horton High School, Horton
+Kickapoo Nation School, Powhattan
+Butler County
+Andover Central High School, Andover
+Andover High School, Andover
+Augusta High School, Augusta
+Berean Academy, Elbing
+Bluestem High School, Leon
+Circle High School, Towanda
+Douglass High School, Douglass
+El Dorado High School, El Dorado
+Flinthills High School, Rosalia
+Frederic Remington High School, Whitewater, USD 206
+Rose Hill High School, Rose Hill
+Chase County
+Chase County Junior/Senior High School, Cottonwood Falls, USD 284
+Chautauqua County
+Cedar Vale High School, Cedar Vale
+Sedan High School, Sedan
+Cherokee County
+Baxter Springs High School, Baxter Springs
+Columbus High School, Columbus
+Galena High School, Galena
+Riverton High School, Riverton
+Cheyenne County
+Cheylin West Junior/Senior High School, Bird City
+St. Francis High School, St. Francis
+Clark County
+Ashland High School, Ashland
+Minneola High School, Minneola
+Clay County
+Clay Center Community High School, Clay Center
+Wakefield High School, Wakefield
+Cloud County
+Concordia Junior-Senior High School, Concordia
+Glasco High School, Glasco
+Miltonvale High School, Miltonvale
+Clifton-Clyde Senior High School, Clyde
+Coffey County
+Burlington High School, Burlington
+Lebo Junior-Senior High School, Lebo
+Waverly High School, Waverly
+Southern Coffey County High School, LeRoy
+Comanche County
+South Central High School, Coldwater
+Cowley County
+Arkansas City High School, Arkansas City
+Central Junior-Senior High School, Burden
+Dexter High School, Dexter
+Udall High School, Udall
+Winfield High School, Winfield
+Crawford County
+Frontenac Junior/Senior High School, Frontenac
+Girard High School, Girard
+Northeast High School, Arma
+Pittsburg High School, Pittsburg
+St. Mary's-Colgan High School, Pittsburg
+Southeast High School, Cherokee
+Decatur County
+Decatur Community Junior/Senior High School, Oberlin
+Dickinson County
+Abilene High School, Abilene, USD 435
+Chapman High School, Chapman, USD 473
+Enterprise Academy, Enterprise
+Herington High School, Herington, USD 487
+Hope High School, Hope, USD 481
+Solomon High School, Solomon, USD 393
+Doniphan County
+Doniphan West High School, Highland (formerly Midway and Highland High Schools)
+Troy High School, Troy
+Riverside High School, Wathena (Merger of Wathena and Elwood)
+Douglas County
+Baldwin High School, Baldwin City
+Bishop Seabury Academy, Lawrence
+Eudora High School, Eudora
+Lawrence Free State High School, Lawrence
+Lawrence High School, Lawrence
+Veritas Christian School, Lawrence
+Edwards County
+Kinsley Junior-Senior High School, Kinsley
+Lewis High School, Lewis
+Elk County
+Elk Valley High School, Longton
+West Elk High School, Howard
+Ellis County
+Ellis High School, Ellis
+Hays High School, Hays
+Thomas More Prep-Marian, Hays
+Victoria High School, Victoria
+Ellsworth County
+Ellsworth High School, Ellsworth
+Quivira Heights High School, Bushton
+Wilson High School, Wilson
+Finney County
+Garden City High School, Garden City
+Holcomb High School, Holcomb
+Ford County
+Bucklin High School, Bucklin
+Dodge City High School, Dodge City
+Spearville Junior/Senior High School, Spearville
+Franklin County
+Central Heights High School, Richmond
+Ottawa High School, Ottawa
+Wellsville High School, Wellsville
+West Franklin High School, Pomona (consolidation of Pomona and Williamsburg High Schools)
+Geary County
+Junction City High School, Junction City
+St. Xavier High School, Junction City
+Gove County
+Quinter Junior-Senior High School, Quinter
+Wheatland/Grinnell High School, Grainfield
+Graham County
+Hill City High School, Hill City
+Grant County
+Ulysses High School, Ulysses
+Gray County
+Cimarron High School, Cimarron
+Ingalls High School, Ingalls
+South Gray High School, Montezuma
+Greeley County
+Greeley County High School, Tribune
+Greenwood County
+Eureka High School, Eureka
+Hamilton High School, Hamilton
+Madison High School, Madison
+Hamilton County
+Syracuse High School, Syracuse
+Harper County
+Attica High School, Attica
+Chaparral High School, Anthony
+Harvey County
+Burrton High School, Burrton, USD 369
+Halstead High School, Halstead, USD 440
+Hesston High School, Hesston, USD 460
+Newton Christian High School, Newton
+Newton High School, Newton, USD 373
+Sedgwick High School, Sedgwick, USD 439
+Haskell County
+Satanta Junior-Senior High School, Satanta
+Sublette High School, Sublette
+Hodgeman County
+Hodgeman County High School, Jetmore
+Jackson County
+Holton High School, Holton
+Jackson Heights High School, Holton
+Royal Valley High School, Hoyt
+Jefferson County
+Jefferson County North High School, Winchester
+Jefferson West High School, Meriden
+McLouth High School, McLouth
+Oskaloosa High School, Oskaloosa
+Perry-Lecompton High School, Perry
+Valley Falls High School, Valley Falls
+Jewell County
+Rock Hills High School, Mankato
+Johnson County
+Blue Valley School District
+Blue Valley High School, Stilwell
+Blue Valley North High School, Overland Park
+Blue Valley Northwest High School, Overland Park
+Blue Valley West High School, Overland Park
+Blue Valley Southwest High School, Overland Park
+Blue Valley Academy, Overland Park
+De Soto School District
+De Soto High School, De Soto
+Mill Valley High School, Shawnee
+Olathe School District
+Olathe East High School, Olathe
+Olathe North High School, Olathe
+Olathe Northwest High School, Olathe
+Olathe South High School, Olathe
+Shawnee Mission School District
+Shawnee Mission East High School, Prairie Village
+Shawnee Mission North High School, Overland Park
+Shawnee Mission Northwest High School, Shawnee
+Shawnee Mission South High School, Overland Park
+Shawnee Mission West High School, Overland Park
+Bishop Miege High School, Roeland Park
+Gardner Edgerton High School, Gardner
+Hyman Brand Hebrew Academy, Overland Park
+Midland Adventist Academy, Shawnee
+St. James Academy, Lenexa
+St. Thomas Aquinas High School, Overland Park
+Kansas State School For the Deaf, Olathe
+Spring Hill Charter High School, Spring Hill
+Kearny County
+Deerfield High School, Deerfield
+Lakin High School, Lakin
+Kingman County
+Cunningham High School, Cunningham
+Kingman High School, Kingman
+Norwich High School, Norwich
+Kiowa County
+Kiowa County High School, Greensburg
+Labette County
+Chetopa High School, Chetopa
+Labette County High School, Altamont
+Oswego High School, Oswego
+Parsons Senior High School, Parsons
+Lane County
+Dighton High School, Dighton
+Healy High School, Healy
+Leavenworth County
+Basehor-Linwood High School, Basehor
+Immaculata High School, Leavenworth
+Lansing High School, Lansing
+Leavenworth High School, Leavenworth
+Pleasant Ridge High School, Easton
+Tonganoxie High School, Tonganoxie
+Lincoln County
+Lincoln Junior/Senior High School, Lincoln
+Sylvan Unified High School, Sylvan Grove
+Linn County
+Jayhawk-Linn High School, Mound City
+Pleasanton High School, Pleasanton
+Prairie View High School, La Cygne
+Logan County
+Oakley High School, Oakley
+Tri-Plains High School, Winona
+Lyon County
+Emporia High School, Emporia
+Hartford High School, Hartford
+Northern Heights High School, Allen
+Olpe Junior-Senior High School, Olpe
+Marion County
+Centre High School, Lost Springs, USD 397
+Goessel High School, Goessel, USD 411
+Hillsboro High School, Hillsboro, USD 410
+Marion High School, Marion, USD 408
+Peabody-Burns Junior/Senior High School, Peabody, USD 398
+Marshall County
+Axtell High School, Axtell
+Frankfort High School, Frankfort
+Marysville Junior/Senior High School, Marysville
+Valley Heights Jr/Sr High School, Blue Rapids
+McPherson County
+Canton-Galva High School, Canton, USD 419
+Elyria Christian School, McPherson
+Inman Junior/Senior High School, Inman
+McPherson High School, McPherson
+Middle-Kansas Independent Academy, Moundridge
+Moundridge High School, Moundridge
+Smoky Valley High School, Lindsborg
+Meade County
+Fowler High School, Fowler
+Meade High School, Meade
+Miami County
+Louisburg High School, Louisburg
+Osawatomie High School, Osawatomie
+Paola High School, Paola
+Peoria Street Charter School, Louisburg
+Mitchell County
+Beloit Junior-Senior High School, Beloit
+St. John's Catholic High School, Beloit
+Tipton Catholic High School, Tipton
+Montgomery County
+Caney Valley High School, Caney
+Cherryvale Middle-High School, Cherryvale
+Field Kindley High School, Coffeyville
+Independence Bible School, Independence
+Independence High School, Independence
+Tyro Community Christian School, Tyro
+Morris County
+Council Grove High School, Council Grove, USD 417
+White City High School, White City, USD 481
+Morton County
+Elkhart High School, Elkhart
+Rolla High School, Rolla
+Nemaha County
+Centralia High School, Centralia
+Nemaha Central High School, Seneca
+Sabetha High School, Sabetha
+Wetmore High School, Wetmore
+Neosho County
+Chanute High School, Chanute
+Erie High School, Erie
+St. Paul High School, St. Paul
+Ness County
+Ness City High School, Ness City
+Western Plains High School, Ransom
+Norton County
+Northern Valley High School, Almena
+Norton High School, Norton
+Osage County
+Burlingame High School, Burlingame
+Lyndon High School, Lyndon
+Marais des Cygnes Valley High School, Melvern
+Osage City High School, Osage City
+Santa Fe Trail High School, Carbondale, USD 434
+Osborne County
+Lakeside High School, Downs
+Natoma High School, Natoma
+Osborne High School, Osborne
+Ottawa County
+Bennington High School, Bennington
+Minneapolis High School, Minneapolis
+Tescott High School, Tescott
+Pawnee County
+Larned High School, Larned
+Pawnee Heights High School, Rozel
+Phillips County
+Logan High School, Logan
+Phillipsburg High School, Phillipsburg
+Pottawatomie County
+Kaw Valley School District
+Rossville High School, Rossville
+St. Marys High School, St. Marys
+Rock Creek School District
+Rock Creek Junior/Senior High School, St. George
+Onaga Senior High School, Onaga
+Wamego High School, Wamego
+Pratt County
+Pratt High School, Pratt
+Skyline High School, Pratt
+Walden Center Charter, Pratt
+Rawlins County
+Rawlins County High School, Atwood
+Reno County
+Buhler High School, Buhler
+Central Christian School, Hutchinson
+Fairfield High School, Langdon
+Haven High School, Haven
+Hutchinson High School, Hutchinson
+Nickerson High School, Nickerson
+Pleasantview Academy, Pleasantview
+Pretty Prairie High School, Pretty Prairie
+Trinity Catholic High School, Hutchinson
+Republic County
+Republic County High School, Belleville
+Pike Valley High School, Scandia
+Rice County
+Chase High School, Chase
+Little River High School, Little River
+Lyons High School, Lyons
+Sterling High School, Sterling
+Riley County
+Blue Valley High School, Randolph
+Manhattan High School West/East Campus, Manhattan
+Riley County High School, Riley
+Rooks County
+Palco High School, Palco
+Plainville High School, Plainville
+Stockton High School, Stockton
+Rush County
+Lacrosse High School, Lacrosse
+Otis-Bison High School, Otis
+Russell County
+Russell High School, Russell
+Saline County
+Ell-Saline High School, Brookville
+Sacred Heart High School, Salina
+St. John's Military School, Salina
+Salina High School Central, Salina
+Salina High School South, Salina
+Southeast of Saline High School, Gypsum
+Scott County
+Scott City High School, Scott City
+Sedgwick County
+Goddard School District
+Eisenhower High School, Goddard
+Goddard High School, Goddard
+Maize School District
+Maize High School, Maize
+Maize South High School, Maize
+Valley Center School District
+Valley Center Charter School, Valley Center
+Valley Center High School, Valley Center
+Wichita School District
+Wichita East High School, Wichita
+Wichita North High School, Wichita
+Wichita Heights High School, Wichita
+Wichita Northeast Magnet High School, Wichita
+Wichita Northwest High School, Wichita
+Wichita South High School, Wichita
+Wichita Southeast High School, Wichita
+Wichita West High School, Wichita
+Andale High School, Andale
+Bishop Carroll Catholic High School, Wichita
+Calvary Christian School, Wichita
+Campus High School, Haysville
+Cheney High School, Cheney
+Classical School of Wichita, Wichita
+Clearwater High School, Clearwater
+Derby High School, Derby
+Garden Plain High School, Garden Plain
+The Independent School, Wichita
+Kapaun Mt. Carmel High School, Wichita
+Metro Boulevard Alternative High School, Wichita
+Metro Meridian Alternative High School, Wichita
+Metro Midtown Alternative High School, Wichita
+Northeast Magnet/Downtown Campus School, Wichita
+Sunrise Christian Academy, Bel Aire
+Trinity Academy, Wichita
+Wichita Collegiate School, Wichita
+Word of Life Christian School, Wichita
+Seward County
+Liberal High School, Liberal
+Southwestern Heights Junior/Senior High School, Kismet
+Shawnee County
+Topeka School District
+Highland Park High School, Topeka
+Hope Street Charter Academy, Topeka
+Topeka High School, Topeka
+Topeka West High School, Topeka
+Cair Paravel-Latin School, Topeka
+Hayden High School, Topeka
+Rossville High School, Rossville
+Seaman High School, Topeka
+Shawnee Heights High School, Tecumseh
+Silver Lake Junior-Senior High School, Silver Lake
+Washburn Rural High School, Topeka
+Washburn Rural Alternative High School, Topeka
+Sheridan County
+Hoxie High School, Hoxie - Website
+Sherman County
+Goodland High School, Goodland
+Smith County
+Smith Center High School, Smith Center
+Thunder Ridge High School, Kensington
+Stafford County
+Macksville High School, Macksville
+St. John-Hudson High School, St. John
+Stafford Middle School/High School, Stafford
+Stanton County
+Stanton County High School, Johnson
+Stevens County
+Hugoton High School, Hugoton
+Moscow High School, Moscow
+Sumner County
+Argonia High School, Argonia
+Belle Plaine High School, Belle Plaine
+Caldwell High School, Caldwell
+Conway Springs High School, Conway Springs
+Oxford Junior/Senior High School, Oxford
+Mulvane High School Mulvane
+South Haven High School, South Haven
+Wellington High School, Wellington
+Thomas County
+Brewster High School, Brewster
+Colby High School, Colby
+Golden Plains High School, Rexford
+Trego County
+Trego Community High School, Wakeeney
+Wabaunsee County
+Mission Valley High School, Eskridge
+Wabaunsee High School, Alma
+Wallace County
+Wallace County High School, Sharon Springs
+Weskan High School, Weskan
+Washington County
+Hanover High School, Hanover
+Linn High School, Linn
+Washington County High School, Washington
+Wichita County
+Wichita County High School, Leoti
+Wilson County
+Altoona-Midway High School, Buffalo
+Fredonia High School, Fredonia
+Neodesha High School, Neodesha
+Woodson County
+Yates Center High School, Yates Center
+People High School
+R. Floyd Liberal Arts Magnet
+Wyandotte County
+Bishop Ward High School, Kansas City
+Bonner Springs High School, Bonner Springs
+Fairfax Learning Center, Kansas City
+J. C. Harmon High School, Kansas City
+Piper High School, Kansas City
+F.L. Schlagle High School, Kansas City
+Kansas State School for the Blind (KSSB), Kansas City
+Sumner Academy of Arts & Science, Kansas City
+Turner High School, Turner, Kansas
+Washington High School, Kansas City
+Wyandotte High School, Kansas City

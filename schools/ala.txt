@@ -1,0 +1,475 @@
+Autauga County
+Autauga Academy, Prattville
+Autaugaville School, Autaugaville
+Billingsley High School, Billingsley
+Prattville Christian Academy, Prattville
+Prattville High School, Prattville
+Marbury High School, Marbury
+Baldwin County
+Baldwin County High School, Bay Minette
+Daphne High School, Daphne
+Fairhope High School, Fairhope
+Foley High School, Foley
+Gulf Shores High School, Gulf Shores
+Robertsdale High School, Robertsdale
+Spanish Fort High School, Spanish Fort
+Barbour County
+Barbour County High School, Clayton
+Eufaula High School, Eufaula
+Vivian B. Adams High School, Ozark
+Bibb County
+Bibb County High School, Centreville
+West Blocton High School, West Blocton
+Blount County
+Appalachian High School, Appalachian
+Cleveland High School, Cleveland
+Hayden High School, Hayden
+J. B. Pennington High School, Blountsville
+Locust Fork High School, Locust Fork
+Oneonta City Schools, Oneonta
+Susan Moore High School, Snead
+Bullock County
+Bullock County High School, Union Springs
+Butler County
+Georgiana School, Georgiana
+Greenville High School, Greenville
+McKenzie High School, McKenzie
+Calhoun County
+Alexandria High School, Alexandria
+Anniston High School, Anniston
+Jacksonville High School, Jacksonville
+Ohatchee High School, Ohatchee
+Oxford High School, Oxford
+Piedmont High School, Piedmont
+Pleasant Valley High School, Jacksonville
+Saks High School, Anniston
+Weaver High School, Weaver
+Wellborn High School, Anniston
+White Plains High School, Anniston
+Chambers County
+Lafayette High School, Lafayette
+Lanett High School, Lanett
+Valley High School, Valley
+Cherokee County
+Cedar Bluff High School, Cedar Bluff
+Cherokee County High School, Centre
+Gaylesville High School, Gaylesville
+Sand Rock High School, Sand Rock
+Spring Garden High School, Spring Garden
+Chilton County
+Chilton Christian Academy, Jemison
+Chilton County High School, Clanton
+Isabella High School, Maplesville
+Jemison High School, Jemison
+Maplesville High School, Maplesville
+Thorsby High School, Thorsby
+Verbena High School, Verbena
+Choctaw County
+Choctaw County High School, Butler
+Southern Choctaw High School, Gilbertown
+Clarke County
+Clarke County High School, Grove Hill
+Jackson High School, Jackson
+Thomasville High School, Thomasville
+Clay County
+Central High School of Clay County
+Cleburne County
+Cleburne County High School, Heflin
+Ranburne High School, Ranburne
+Coffee County
+Elba High School, Elba
+Enterprise High School, Enterprise
+Kinston High School, Kinston
+New Brockton High School, New Brockton
+Zion Chapel High School, Jack
+Colbert County
+Cherokee High School, Cherokee
+Colbert County High School, Leighton
+Colbert Heights High School, Tuscumbia (Colbert Heights)
+Deshler High School, Tuscumbia
+Muscle Shoals High School, Muscle Shoals
+Sheffield High School, Sheffield
+Conecuh County
+Hillcrest High School, Evergreen
+Coosa County
+Central High School, Rockford
+Covington County
+Andalusia High School, Andalusia
+Florala High School, Florala
+Opp High School, Opp
+Pleasant Home School, Andalusia
+Red Level High School, Red Level
+Straughn High School, Andalusia
+Crenshaw County
+Brantley High School, Brantley
+Highland Home High School, Highland Home
+Luverne High School, Luverne
+Cullman County
+Cold Springs High School, Bremen
+Cullman High School, Cullman
+Fairview High School
+Good Hope High School
+Hanceville High School
+Holly Pond High School
+St. Bernard Preparatory School, Cullman
+Vinemont High School
+West Point High School
+Dale County
+Carroll High School, Ozark
+Dale County High School, Midland City
+Daleville High School, Daleville
+G. W. Long High School, Skipperville
+Dallas County
+Central Christian Academy, Selma
+Dallas County High School, Plantersville
+Keith High School, Orrville
+Meadowview Christian School, Selma
+Morgan Academy, Selma
+Selma High School, Selma
+Southside High, Selma
+Dekalb County
+Collinsville High School, Collinsville
+Crossville High School, Crossville
+Fort Payne High School, Fort Payne
+Fyffe High School, Fyffe
+Geraldine High School, Geraldine
+Ider High School, Ider
+Plainview High School, Rainsville
+Sylvania High School, Sylvania
+Valley Head High School, Valley Head
+Elmore County
+Edgewood Academy, Elmore
+Elmore County High School, Eclectic
+Holtville High School, Deatsville
+Stanhope Elmore High School, Millbrook
+Wetumpka High School, Wetumpka
+Escambia County
+Escambia Academy High School, Atmore
+Escambia County High School, Atmore
+Flomaton High School, Flomaton
+T. R. Miller High School, Brewton
+W. S. Neal High School, East Brewton
+Etowah County
+Coosa Christian High School, Gadsden
+Emma Sansom High School, Gadsden
+Etowah High School, Attalla
+Gadsden City High School, Gadsden
+Glencoe High School, Glencoe
+Hokes Bluff High School, Hokes Bluff
+Litchfield High School, Gadsden (closed)
+Sardis High School, Sardis
+Southside High School, Southside
+West End High School, Walnut Grove
+Fayette County
+Berry High School, Berry
+Fayette County High School, Fayette
+Hubbertville School, Hubertville
+Franklin County
+Belgreen High School, Russellville
+Phil Campbell High School, Phil Campbell
+Red Bay High School, Red Bay
+Russellville High School, Russellville
+Tharptown High School, Russellville
+Vina High School, Vina
+Geneva County
+Geneva County High School, Hartford
+Geneva High School, Geneva
+Samson High School, Samson
+Slocomb High School, Slocomb
+Greene County
+Greene County High School, Eutaw
+Hale County
+Hale County High School, Moundville
+Henry County
+Abbeville Christian Academy
+Abbeville High School, Abbeville
+Headland High School
+Houston County
+Ashford Academy, Ashford
+Ashford High School, Ashford
+Cottonwood High School, Cottonwood
+Dothan High School, Dothan
+Emmanuel Christian School, Dothan
+Houston Academy, Dothan
+Houston County High School, Columbia
+Northside Methodist Academy, Dothan
+Northview High School, Dothan
+Providence Christian School, Dothan
+Rehobeth High School Rehobeth
+Wicksburg High School, Wicksburg
+Jackson County
+Mountain View Christian Academy, Bryant
+North Jackson High School, Stevenson
+North Sand Mountain, Higdon
+Scottsboro High School, Scottsboro
+Section High School, Section
+Skyline High School, Scottsboro
+Woodville High School, Woodville, Alabama|Scottsboro]]
+Jefferson County
+A. H. Parker High School, Birmingham
+Alabama School of Fine Arts, Birmingham
+Altamont School, Birmingham
+Banks High School (now L. Frazier Banks Middle School), Birmingham
+Bessemer City High School, Bessemer
+Briarwood Christian School, Birmingham
+Center Point High School, Center Point
+City High School, Birmingham
+Clay-Chalkville High School, Clay
+Corner High School, Warrior
+E.B. Erwin High School, Center Point
+Ensley High School, Birmingham
+Fairfield High Preparatory School, Fairfield
+Flint Hill Christian School, Bessemer
+Fultondale High School, Fultondale
+Gardendale High School, Gardendale
+Garywood Christian School, Hueytown
+George Washington Carver High School, Birmingham
+Hewitt-Trussville High School, Trussville
+Homebound High School, Birmingham
+Homewood High School, Homewood
+Hoover High School, Hoover
+Hueytown High School, Hueytown
+Huffman High School, Birmingham
+Jackson-Olin High School, Birmingham
+Jefferson County International Baccalaureate School, Irondale
+Jess Lanier High School, Bessemer
+John Carroll Catholic High School, Birmingham
+Leeds High School, Leeds
+McAdory High School, McCalla
+Midfield High School, Midfield
+Minor High School, Adamsville
+Mortimer Jordan High School, Morris
+Mountain Brook High School, Mountain Brook
+Oak Grove High School, Bessemer
+Pinson Valley High School, Pinson
+Pleasant Grove High School, Pleasant Grove
+Ramsay High School, Birmingham
+Shades Valley High School, Irondale
+Tabernacle Christian School, Gardendale
+Tarrant High School, Birmingham
+Vestavia Hills High School, Vestavia Hills
+Wenonah High School, Birmingham
+West End High School, Birmingham
+Woodlawn High School, Birmingham
+Lamar County
+Lamar County High School, Vernon
+South Lamar High School, Millport
+Sulligent High School, Sulligent
+Lauderdale County
+Brooks High School, Killen
+Central High School, Florence
+Florence High School, Florence
+Lauderdale County High School, Rogersville
+Lexington High School, Lexington
+Mars Hill Bible School, Florence
+Shoals Christian Academy, Florence
+Rogers High School, Lexington (Greenhill)
+Waterloo High School, Waterloo
+Lawrence County
+East Lawrence High School, Trinity (Caddo)
+Hatton High School, Town Creek (Hatton)
+Lawrence County High School, Moulton
+R.A. Hubbard High School, North Courtland
+Lee County
+Auburn High School, Auburn
+Beauregard High School, Opelika
+Loachapoka High School, Loachapoka
+Opelika High School, Opelika
+Smiths Station High School, Smiths Station
+Limestone County
+Athens High School, Athens
+Clements High School, Athens (Clements)
+East Limestone High School, Athens (Capshaw)
+Elkmont High School, Elkmont
+Ardmore High School, Ardmore
+Tanner High School, Tanner
+West Limestone High School, Athens (Lester)
+Lowndes County
+Calhoun Colored School, Calhoun (1892–1945)
+Calhoun High School, Letohatchee
+Central High School, Hayneville
+Lowndes Academy, Lowndesboro
+Macon County
+Booker T. Washington High School, Tuskegee
+Notasulga High School, Notasulga
+Madison County
+Buckhorn High School, New Market
+Bob Jones High School, Madison
+Columbia High School, Huntsville
+Hazel Green High School, Hazel Green
+Huntsville High School, Huntsville
+J.O. Johnson High School, Huntsville
+James Clemens High School, Madison
+Lee High School, Huntsville
+Madison County High School, Gurley
+New Century Technology High School, Huntsville
+New Hope High School, New Hope
+Oakwood Adventist Academy, Huntsville
+Pope John Paul II Catholic High School, Huntsville
+Randolph School, Huntsville
+S. R. Butler High School, Huntsville
+Sparkman High School, Harvest
+Virgil I. Grissom High School, Huntsville
+Marengo County
+Amelia Love Johnson High School, Thomaston
+Demopolis High School, Demopolis
+John Essex High School, Demopolis
+Linden High School, Linden
+Marengo Academy High School, Linden
+Marengo High School, Dixons Mills
+Sweet Water High School, Sweet Water
+Marion County
+Brilliant High School, Brilliant
+Hackleburg High School, Hackleburg
+Hamilton High School, Hamilton
+Marion County High School, Guin
+Phillips High School, Bear Creek
+Winfield High School, Winfield
+Marshall County
+Albertville High School, Albertville
+Arab High School, Arab
+Asbury High School, Albertville
+Boaz High School, Boaz
+Brindlee Mountain High School, Guntersville
+Douglas High School, Douglas
+Guntersville High School, Guntersville
+Kate Duncan Smith DAR School, Grant
+Mobile County
+Alabama School of Mathematics and Science, Mobile
+Alma Bryant High School, Bayou La Batre, Grand Bay
+B.C. Rain High School, Mobile
+Baker High School, Mobile
+Citronelle High School, Citronelle
+Davidson High School, Mobile
+Faith Academy, Mobile
+John L. LeFlore Magnet High School of Advanced Communication and Fine Performing Arts, Mobile
+Mary G. Montgomery High School, Semmes
+Mattie T. Blount High School, Eight Mile
+McGill-Toolen Catholic High School, Mobile
+Murphy High School, Mobile
+Saint Pauls High School, Mobile
+Saraland High School, Saraland
+Satsuma High School, Satsuma
+Theodore High School, Theodore
+UMS-Wright High School, Mobile
+Vigor High School, Prichard
+Williamson High School, Mobile
+Monroe County
+Excel High School, Excel
+Frisco City High School, Frisco City
+J. F. Shields High School, Beatrice
+J. U. Blacksher School, Uriah
+Monroe Academy, Monroeville
+Monroe County High School, Monroeville
+Monroe Intermediate School
+Montgomery County
+Alabama Christian Academy, Montgomery
+Booker T. Washington High Magnet School, Montgomery
+Brewbaker Technology Magnet High School, Montgomery
+George Washington Carver High School, Montgomery
+Jefferson Davis High School, Montgomery
+Loveless Academic Magnet Program (LAMP), Montgomery
+Montgomery Academy, Montgomery
+Montgomery Catholic Preparatory School, Montgomery
+Robert E. Lee High School, Montgomery
+Saint James School, Montgomery
+St. Jude Educational Institute, Montgomery
+Lanier High School, Montgomery
+Trinity Presbyterian School, Montgomery
+Morgan County
+Albert P. Brewer High School, Somerville (Florette)
+Austin High School, Decatur
+Danville High School, Danville
+Decatur Heritage Christian Academy, Decatur
+Decatur High School, Decatur
+Falkville High School, Falkville
+Hartselle High School, Hartselle
+Priceville High School, Priceville
+West Morgan High School, Trinity
+Perry County
+Francis Marion School, Marion
+Robert C. Hatch, Uniontown
+Pickens County
+Aliceville High School, Aliceville
+Gordo High School, Gordo
+Pickens Academy, Carrollton
+Pickens County High School, Reform
+Pike County
+Charles Henderson High School, Troy
+Goshen High School, Goshen
+Pike County High School, Brundidge
+Randolph County
+Handley High School
+Randolph County High School
+Wadley High School
+Woodland High School
+Russell County
+Central-Phenix City High School, Phenix City
+Russell County High School, Seale
+St. Clair County
+Ashville High School, Ashville
+Moody High School, Moody
+Pell City High School, Pell City
+Ragland High School, Ragland
+St. Clair County High School, Odenville
+Springville High School, Springville
+Victory Christian School, Pell City
+Shelby County
+Calera High School, Calera
+Chelsea High School, Chelsea
+Coosa Valley Academy Harpersville
+Evangel Christian School, Alabaster
+Helena High School, Helena
+Indian Springs School, Indian Springs Village
+Oak Mountain High School, Birmingham
+Pelham High School, Pelham
+Shelby County High School, Columbiana
+Spain Park High School, Hoover
+Thompson High School, Alabaster
+Vincent High School, Vincent
+Sumter County
+Sumter Academy, York
+Sumter Central High School, York
+Talladega County
+B. B. Comer Memorial High School, Sylacauga
+Fayettville High School, Sylacauga
+Lincoln High School, Lincoln
+Sylacauga High School, Sylacauga
+Talladega High School, Talladega
+Tallapoosa County
+Benjamin Russell High School, Alexander City
+Horseshoe Bend High School, New Site
+Reeltown High School, Tallassee
+Tuscaloosa County
+Brookwood High School, Brookwood
+Central High School, Tuscaloosa
+Hillcrest High School, Tuscaloosa
+Holt High School, Holt
+Northridge High School, Tuscaloosa
+Northside High School, Northport
+Paul W. Bryant High School, Tuscaloosa
+Sipsey Valley High School, Romulus
+Tuscaloosa County High School, Northport
+Walker County
+Carbon Hill High School, Carbon Hill
+Cordova High School, Cordova
+Curry High School, Curry
+Dora High School, Dora
+Oakman High School, Oakman
+Parrish High School, Parrish
+Sumiton Christian School, Sumiton
+Walker High School, Jasper
+Washington County
+Fruitdale High School, Fruitdale
+Leroy High School, Leroy
+McIntosh High School, McIntosh
+Millery High School, Millry
+Washington County High School, Chatom
+Wilcox County
+Wilcox Academy, Camden
+Wilcox Central High School, Camden
+Winston County
+Addison High School, Addison
+Lynn High School, Lynn
+Meek High School, Arley
+Winston County High School, Double Springs

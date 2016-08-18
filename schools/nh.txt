@@ -1,0 +1,126 @@
+
+School	City/Town	County
+Academy for Science and Design	Nashua	Hillsborough
+Alvirne High School	Hudson	Hillsborough
+Bedford High School	Bedford	Hillsborough
+Belmont High School	Belmont	Belknap
+Berlin High School	Berlin	Coos
+Bishop Brady High School	Concord	Merrimack
+Bishop Guertin High School	Nashua	Hillsborough
+Bow High School	Bow	Merrimack
+Brentwood School	Merrimack	Hillsborough
+Brewster Academy	Wolfeboro	Carroll
+Campbell High School	Litchfield	Hillsborough
+Claremont Christian Academy	Claremont	Sullivan
+Cocheco Arts and Technology Academy	Dover	Strafford
+Coe-Brown Northwood Academy	Northwood	Rockingham
+Colebrook Academy	Colebrook	Coos
+Conant High School	Jaffrey	Cheshire
+Concord High School	Concord	Merrimack
+ConVal Regional High School	Peterborough	Hillsborough
+The Derryfield School	Manchester	Hillsborough
+Dover High School	Dover	Strafford
+Dublin Christian Academy	Dublin	Cheshire
+Dublin School	Dublin	Cheshire
+Epping High School	Epping	Rockingham
+Exeter High School	Exeter	Rockingham
+Fall Mountain Regional High School	Langdon	Sullivan
+Farmington Senior High School	Farmington	Strafford
+Franklin Career Academy Charter School	Franklin	Merrimack
+Franklin High School	Franklin	Merrimack
+Gilford High School	Gilford	Belknap
+Goffstown High School	Goffstown	Hillsborough
+Good Shepherd High School	Barrington	Strafford
+Gorham High School	Gorham	Coos
+Great Bay eLearning Charter School	Exeter	Rockingham
+Groveton High School	Groveton	Coos
+Hanover High School	Hanover	Grafton
+High Mowing School	Wilton	Hillsborough
+Hillsboro-Deering High School	Hillsborough	Hillsborough
+Hinsdale High School	Hinsdale	Cheshire
+Holderness School	Plymouth	Grafton
+Hollis/Brookline High School	Hollis	Hillsborough
+Holy Family Academy	Manchester	Hillsborough
+Hopkinton High School	Contoocook	Merrimack
+Immaculate Conception Apostolic School	Center Harbor	Belknap
+Inter-Lakes High School	Meredith	Belknap
+Jesse Remington High School	Candia	Rockingham
+John Stark Regional High School	Weare	Hillsborough
+Kearsarge Regional High School	Sutton	Merrimack
+Keene High School	Keene	Cheshire
+Kennett High School	Conway	Carroll
+Kimball Union Academy	Meriden	Sullivan
+King Street School	Woodsville	Grafton
+Kingswood Regional High School	Wolfeboro	Carroll
+Laconia Christian School	Laconia	Belknap
+Laconia High School	Laconia	Belknap
+Lebanon High School	Lebanon	Grafton
+Liberty Harbor Academy	Manchester	Hillsborough
+Lin-Wood Public School	Lincoln	Grafton
+Lisbon Regional School	Lisbon	Grafton
+Littleton High School	Littleton	Grafton
+Londonderry High School	Londonderry	Rockingham
+Longview School at the Summit Center	Deerfield	Rockingham
+Manchester Central High School	Manchester	Hillsborough
+Manchester High School West	Manchester	Hillsborough
+Manchester Memorial High School	Manchester	Hillsborough
+Manchester School of Technology	Manchester	Hillsborough
+Mascenic Regional High School	New Ipswich	Hillsborough
+Mascoma Valley Regional High School	West Canaan	Grafton
+The Meeting School	Rindge	Cheshire
+Merrimack High School	Merrimack	Hillsborough
+Merrimack Valley High School	Penacook	Merrimack
+Milford High School	Milford	Hillsborough
+Monadnock Regional High School	Swanzey	Cheshire
+Moultonborough Academy	Moultonborough	Carroll
+Mount Royal Academy	Sunapee	Sullivan
+Mount Zion Christian Schools	Manchester	Hillsborough
+Nashua Christian Academy	Nashua	Hillsborough
+Nashua High School North	Nashua	Hillsborough
+Nashua High School South	Nashua	Hillsborough
+New Hampton School	New Hampton	Belknap
+New Heights Charter Academy	Goffstown	Hillsborough
+Newfound Regional High School	Bristol	Grafton
+Newmarket Junior-Senior High School	Newmarket	Rockingham
+Newport High School	Newport	Sullivan
+North Country Charter Academy	Littleton / Lancaster	Grafton / Coos
+Nute High School	Milton	Strafford
+Oliverian School	Haverhill	Grafton
+Oyster River High School	Durham	Strafford
+Parker Academy	Concord	Merrimack
+Pelham High School	Pelham	Hillsborough
+Pembroke Academy	Pembroke	Merrimack
+Phillips Exeter Academy	Exeter	Rockingham
+Pinkerton Academy	Derry	Rockingham
+Pittsburg School	Pittsburg	Coos
+Pittsfield High School	Pittsfield	Merrimack
+Plymouth Regional High School	Plymouth	Grafton
+Portsmouth Christian Academy	Dover	Strafford
+Portsmouth High School	Portsmouth	Rockingham
+Proctor Academy	Andover	Merrimack
+Profile Senior High School	Bethlehem	Grafton
+Prospect Mountain High School	Alton	Belknap
+Raymond High School	Raymond	Rockingham
+Saint Paul's School	Concord	Merrimack
+Saint Thomas Aquinas High School	Dover	Strafford
+Salem High School	Salem	Rockingham
+Sanborn Regional High School	Kingston	Rockingham
+Sant Bani School	Sanbornton	Belknap
+Shortridge Academy	Milton	Strafford
+Somersworth High School	Somersworth	Strafford
+Souhegan High School	Amherst	Hillsborough
+Spaulding High School	Rochester	Strafford
+Stevens High School	Claremont	Sullivan
+Stratford Public School	Stratford	Coos
+Sunapee Middle–High School	Sunapee	Sullivan
+Tilton School	Tilton	Belknap
+Timberlane Regional High School	Plaistow	Rockingham
+Tri-City Christian Academy	Somersworth	Strafford
+Trinity High School	Manchester	Hillsborough
+White Mountain School	Bethlehem	Grafton
+White Mountains Regional High School	Whitefield	Coos
+Wilton-Lyndeboro Cooperative High School	Wilton	Hillsborough
+Windham High School	Windham	Rockingham
+Winnacunnet High School	Hampton	Rockingham
+Winnisquam Regional High School	Tilton	Belknap
+Woodsville High School	Woodsville	Grafton

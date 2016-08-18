@@ -1,0 +1,264 @@
+
+Name	School district/
+Private/Religious	Community/Town	County	District Reference Group	Boarding school	Sports league [1]	Notes
+Ansonia High School	Ansonia School District	Ansonia	New Haven County	H		Naugatuck Valley League
+Emmett O'Brien Technical High School	Connecticut Technical High School System	Ansonia	New Haven County			Constitution State Conference
+Avon High School	Avon Public Schools	Avon	Hartford County	A		North Central Connecticut Conference
+Avon Old Farms	Private	Avon, Connecticut	Hartford County		Boarding
+and day		For boys
+Woodland Regional High School	Regional School District 16	Beacon Falls	New Haven County			Naugatuck Valley League	Also serves Prospect
+Berlin High School	Berlin Public Schools	Berlin	Hartford County	D		Northwest Conference
+Bethel High School	Bethel Public Schools	Bethel	Fairfield County	D		South-West Conference
+Woodhall School		Bethlehem	Litchfield County
+Bloomfield High School	Bloomfield Public Schools	Bloomfield	Hartford County	G		Central Connecticut Conference
+Metropolitan Learning Center	Capitol Region Education Council	Bloomfield	Hartford County				Grades 6-12
+Bolton High School	Bolton Public Schools	Bolton	Tolland County	C		North Central Connecticut Conference
+Branford High School	Branford Public Schools	Branford	New Haven County	D		Southern Connecticut Conference
+Bassick High School	Bridgeport Public Schools	Bridgeport	Fairfield County	I		FCIAC
+The Bridge Academy		Bridgeport	Fairfield County
+Bridgeport International Academy	Private	Bridgeport	Fairfield County
+Bullard Havens Technical High School	Connecticut Technical High School System	Bridgeport	Fairfield County			Constitution State Conference
+Central High School	Bridgeport Public Schools	Bridgeport	Fairfield County	I		FCIAC
+Jewish High School of Connecticut		Bridgeport	Fairfield County
+Kolbe Cathedral High School	Roman Catholic Diocese of Bridgeport	Bridgeport	Fairfield County			South-West Conference
+Harding High School	Bridgeport Public Schools	Bridgeport	Fairfield County	I		FCIAC
+University School		Bridgeport	Fairfield County
+Bristol Central High School	Bristol Public Schools	Bristol	Hartford County	G		Central Connecticut Conference
+Bristol Technical Education Center	Connecticut Technical High School System	Bristol	Hartford County				Attending students receive diplomas from their local high schools
+Bristol Eastern High School	Bristol Public Schools	Bristol	Hartford County	G		Central Connecticut Conference
+St. Paul Catholic High School	Roman Catholic Archdiocese of Hartford	Bristol	Hartford County			Northwest Conference
+Brookfield High School	Brookfield Public Schools	Brookfield	Fairfield County	A		South-West Conference
+Lewis S. Mills High School	Regional School District 10	Burlington	Hartford County			Berkshire League	serving Harwinton and Burlington
+Housatonic Valley Regional High School	Region 1 School District	Canaan	Litchfield County			Berkshire League	Also serves Cornwall, Kent, North Canaan, Salisbury and Sharon.
+Canton High School	Canton Public Schools	Canton	Hartford County	C		North Central Connecticut Conference
+Parish Hill High School	Regional District 11	Chaplin	Windham County			Constitution State Conference	Also serves Hampton and Scotland; Grades 7 - 12 Grade
+Cheshire Academy		Cheshire	New Haven County	A
+Cheshire High School	Cheshire Public Schools	Cheshire	New Haven County	A		Southern Connecticut Conference
+Morgan School	Cllinton Public Schools	Clinton	Middlesex County			Shoreline Conference
+Bacon Academy	Colchester Public Schools	Colchester	New London			Eastern Connecticut Conference
+Connecticut River Academy		East Hartford	Hartford County
+Coventry High School	Coventry Public Schools	Coventry	Tolland County	E		North Central Connecticut Conference
+Cromwell High School	Cromwell Public Schools	Cromwell	Middlesex County	E		Shoreline Conference
+Danbury High School	Danbury Public Schools	Danbury	Fairfield County	H		FCIAC
+Henry Abbott Technical High School	Connecticut Technical High School System	Danbury	Fairfield County			Constitution State Conference
+Immaculate High School	Roman Catholic Diocese of Bridgeport	Danbury	Fairfield County			South-West Conference
+Wooster School		Danbury	Fairfield County
+H. H. Ellis Technical High School	Connecticut Technical High School System	Danielson	Windham County
+Darien High School	Darien Public Schools	Darien	Fairfield County	A		FCIAC
+Valley Regional High School	Regional School District 4	Deep River	Middlesex County			Shoreline Conference	Also serves Chester and Essex
+Derby High School	Derby Public Schools	Derby	New Haven County	H		Southern Connecticut Conference
+Coginchaug Regional High School	Regional School District 1	Durham	Middlesex County			Shoreline Conference	Also serves Middlefield
+East Granby High School	East Granby Public Schools	East Granby	Hartford County	D		North Central Connecticut Conference
+Franklin Academy		East Haddam	Middlesex County
+Nathan Hale-Ray High School	East Haddam Public Schools	East Haddam	Middlesex County	E		Shoreline Conference
+East Hampton High School	East Hampton Public Schools	East Hampton	Middlesex County	D		Shoreline Conference
+Connecticut International Baccalaureate Academy		East Hartford	Hartford County
+East Hartford High School	East Hartford Public Schools	East Hartford	Hartford County	H		Central Connecticut Conference
+East Haven High School	East Haven Public Schools	East Haven	New Haven County	G		Southern Connecticut Conference
+East Lyme High School	East Lyme Public Schools	East Lyme	New London County	D		Eastern Connecticut Conference	Also serves Salem
+East Windsor High School	East Windsor Public Schools	East Windsor	Hartford County			North Central Connecticut Conference
+Ellington High School	Ellington Public Schools	Ellington	Tolland County			North Central Connecticut Conference
+Enfield High School	Enfield Public Schools	Enfield	Hartford County			North Central Connecticut Conference
+Enrico Fermi High School	Enfield Public Schools	Enfield	Hartford County			Central Connecticut Conference
+Fairfield High Schools Fitzgerald Campus	Fairfield Public Schools	Fairfield	Fairfield County	B			Commonly referred to as "Co-op"
+Fairfield College Preparatory School	Private, Roman Catholic	Fairfield	Fairfield County			Southern Connecticut Conference
+Fairfield Ludlowe High School	Fairfield Public Schools	Fairfield	Fairfield County	B		FCIAC
+Fairfield Warde High School	Fairfield Public Schools	Fairfield	Fairfield County	B		FCIAC
+Notre Dame Catholic High School	Roman Catholic Diocese of Bridgeport	Fairfield	Fairfield County			South-West Conference
+Farmington High School	Farmington Public Schools	Farmington	Hartford County			Northwest Conference
+Tunxis Middle College High School		Farmington	Hartford County
+Miss Porter's School		Farmington	Hartford County
+Glastonbury High School	Glastonbury Public Schools	Glastonbury	Hartford County	B		Central Connecticut Conference
+Grace S. Webb School	The Institute of Living	Hartford	Hartford County				Special school
+Granby Memorial High School	Granby Public Schools	Granby	Hartford County	B		North Central Connecticut Conference
+Brunswick School		Greenwich	Fairfield County
+Greenwich High School	Greenwich Public Schools	Greenwich	Fairfield County	B		FCIAC
+Griswold High School	Griswold Public Schools	Griswold	New London County			Eastern Connecticut Conference
+Fitch Senior High School	Groton Public Schools	Groton	New London County	G		Eastern Connecticut Conference
+Grasso Southeastern Technical High School	Connecticut Technical High School System	Groton	New London County			Constitution State Conference
+Guilford High School	Guilford Public Schools	Guilford	New Haven County	B		Southern Connecticut Conference
+Haddam-Killingworth High School		Haddam	Middlesex County	C		Shoreline Conference	Serves Haddam and Killingworth
+Cedarhurst School	Private	Hamden	New Haven County				7th through 12th grades
+Eli Whitney Technical High School	Connecticut Technical High School System	Hamden	New Haven County			Constitution State Conference
+Hamden Hall Country Day School		Hamden	New Haven County
+Hamden High School	Hamden Public Schools	Hamden	New Haven County			Southern Connecticut Conference
+Hyde Leadership School		Hamden	New Haven County			Shoreline Conference
+Sacred Heart Academy	Roman Catholic Archdiocese of Hartford	Hamden	New Haven County			Southern Connecticut Conference
+A.I. Prince Technical High School	Connecticut Technical High School System	Hartford	Hartford County			Constitution State Conference
+Bulkeley High School	Hartford Public Schools	Hartford	Hartford County			Central Connecticut Conference
+Capital Preparatory Magnet School		Hartford	Hartford County			Constitution State Conference
+Classical Magnet School		Hartford	Hartford County			Constitution State Conference	Grades 6-12
+Greater Hartford Academy of Mathematics and Science	Capitol Region Education Council	Hartford	Hartford County
+Hartford Magnet Trinity College Academy	Hartford Public Schools	Hartford	Hartford County
+Hartford Public High School	Hartford Public Schools	Hartford	Hartford County			Central Connecticut Conference
+Sport and Medical Sciences Academy		Hartford	Hartford County			Constitution State Conference	Grades 7-12
+University High School of Science	Hartford Public Schools and University of Hartford	Hartford	Hartford County
+Watkinson School		Hartford	Hartford County
+Weaver High School		Hartford	Hartford County			Central Connecticut Conference
+RHAM High School	Regional District 8	Hebron	Tolland County			Northwest Conference	Also serves Andover and Marlborough
+Kent School		Kent	Litchfield County
+Marvelwood School		Kent	Litchfield County
+South Kent School		Kent	Litchfield County
+H. H. Ellis Technical High School	Connecticut Technical High School System	Killingly	Tolland County			Constitution State Conference
+Killingly High School	Killingly Public Schools	Killingly	Windham County			Eastern Connecticut Conference
+Lyman Memorial High School	Lebanon School District	Lebanon	New London County			Eastern Connecticut Conference
+Ledyard High School	Ledyard Public Schools	Ledyard	New London County			Eastern Connecticut Conference
+Forman School		Litchfield	Litchfield County
+Litchfield High School	Litchfield Public Schools	Litchfield	Litchfield County			Berkshire League	7th Grade to 12th Grade
+Wamogo Regional High School	Regional School District 6	Litchfield	Litchfield County			Berkshire League	7th Grade to 12th Grade
+Daniel Hand High School	Madison Public Schools	Madison	New Haven County	B		Southern Connecticut Conference
+Grove School		Madison	New Haven County
+East Catholic High School		Manchester	Hartford County			Northwest Conference
+Howell Cheney Technical High School	Connecticut Technical High School System	Manchester	Hartford County
+Manchester High School		Manchester	Hartford County			Central Connecticut Conference
+Manchester Regional Academy		Manchester	Hartford County
+E.O. Smith High School	Regional School District 19	Storrs	Tolland County			Central Connecticut Conference	serves Ashford, Mansfield and Willington, as well as students from other nearby towns, such as Coventry and Windham, who participate in the school's Agriculture Education program; campus adjacent to the University of Connecticut campus
+Francis T Maloney High School	Meriden Board of Education	Meriden	New Haven County	H		Central Connecticut Conference
+Orville H. Platt High School	Meriden Board of Education	Meriden	New Haven County	H		Central Connecticut Conference
+H.C. Wilcox Technical High School	Connecticut Technical High School System	Meriden	New Haven County			Constitution State Conference
+Westover School		Middlebury	New Haven County
+Long Lane School		Middletown	Middlesex County
+Mercy High School	Roman Catholic Diocese of Norwich	Middletown	Middlesex County			Southern Connecticut Conference
+Middletown High School		Middletown	Middlesex County			Northwest Conference
+Vinal Technical High School	Connecticut Technical High School System	Middletown	Middlesex County			Constitution State Conference
+Xavier High School		Middletown	Middlesex County
+Joseph A. Foran High School		Milford	New Haven County			Southern Connecticut Conference
+Jonathan Law High School		Milford	New Haven County			Southern Connecticut Conference
+Milford Academy		Milford	New Haven County
+Academy of Our Lady of Mercy, Lauralton Hall		Milford	New Haven County			South-West Conference
+Platt Technical High School	Connecticut Technical High School System	Milford	New Haven County			Constitution State Conference
+Masuk High School		Monroe	Fairfield County	B		South-West Conference
+Montville High School		Montville	New London County			Eastern Connecticut Conference
+St. Bernard High School		Montville	New London County			Eastern Connecticut Conference
+Nathan Hale Ray High School		Moodus	Middlesex County
+Naugatuck High School		Naugatuck	New Haven County	G		Naugatuck Valley League
+E. C. Goodwin Technical High School	Connecticut Technical High School System	New Britain	Hartford County			Constitution State Conference
+New Britain High School		New Britain	Hartford County	I		Central Connecticut Conference
+St. Luke's School		New Canaan	Fairfield County
+New Canaan High School	New Canaan Public Schools	New Canaan	Fairfield County	A		FCIAC
+New Fairfield High School		New Fairfield	Fairfield County	B		South-West Conference
+Common Ground High School	Common Ground High School District	New Haven	New Haven County
+Cooperative High School	Amistad Academy District	New Haven	New Haven County
+High School in the Community	Amistad Academy District	New Haven	New Haven County
+Hill Regional Career Magnet High School	Amistad Academy District	New Haven	New Haven County
+James Hillhouse High School	Amistad Academy District	New Haven	New Haven County	I		Southern Connecticut Conference
+Integrated Day Charter School		Norwich	New London County
+Hopkins School	Common Ground High School District	New Haven	New Haven County				7th Grade to 12th Grade
+Polly T. McCabe Center	New Haven School District	New Haven	New Haven County				8th Grade to 12th Grade
+Riverside Educational Academy	New Haven School District	New Haven	New Haven County
+Sound School	New Haven School District	New Haven	New Haven County
+Wilbur Cross High School	Amistad Academy District	New Haven	New Haven County	I		Southern Connecticut Conference	8th Grade to 12th Grade
+New London High School		New London	New London County	I		Eastern Connecticut Conference
+The Williams School		New London	New London County				7th Grade to 12th Grade
+Canterbury School		New Milford	Litchfield County
+Faith Preparatory School	Faith Ministries, Inc.	New Milford	Litchfield County			Constitution State Conference	Pre-K to Grade 12; nondenominational Christian preparatory school
+Connecticut Conservatory of Theatre School		New Milford	Litchfield County
+New Milford High School		New Milford	Litchfield County	D		South-West Conference
+Newington High School		Newington	Hartford County	D		Central Connecticut Conference
+Newtown High School		Newtown	Fairfield County	B		South-West Conference
+North Branford High School		North Branford	New Haven County	E		Shoreline Conference
+Collaborative Alternative Magnet School	Area Cooperative Educational Services	North Haven	New Haven County	D			Grades 7 - 10
+North Haven High School		North Haven	New Haven County	D		Southern Connecticut Conference
+Wheeler High School		North Stonington	New London County	E		Eastern Connecticut Conference
+Briggs High School	Norwalk Public Schools	Norwalk	Fairfield County	H
+Brien McMahon High School	Norwalk Public Schools	Norwalk	Fairfield County	H		FCIAC
+Center for Global Studies	Norwalk Public Schools	Norwalk	Fairfield County	H		FCIAC	At Brien McMahon High School
+Norwalk High School	Norwalk Public Schools	Norwalk	Fairfield County	H		FCIAC
+Norwich Free Academy		Norwich	New London County			Eastern Connecticut Conference
+Thames River Academy (formerly Norwich High School)		Norwich	New London County	H
+Norwich Technical High School	Connecticut Technical High School System	Norwich	New London County			Constitution State Conference
+Lyme-Old Lyme High School		Old Lyme	New London County	C		Shoreline Conference	Serves Lyme and Old Lyme
+Old Saybrook Senior High School		Old Saybrook	Middlesex County, Connecticut	D		Shoreline Conference
+Oxford High School		Oxford	New Haven County			South-West Conference
+Plainfield High School		Central Village in Plainfield	Windham County	G		Eastern Connecticut Conference	Also serves Sterling
+Plainville High School		Plainville	Hartford County			Northwest Conference
+Terryville High School		Plymouth	Litchfield County			Berkshire League
+Pomfret School		Pomfret	Windham County
+Portland High School		Portland	Middlesex County	E		Shoreline Conference
+Putnam High School		Putnam	Windham County	G		Eastern Connecticut Conference
+Joel Barlow High School	Regional District 9	Redding	Fairfield County	A		South-West Conference	Also serves Easton
+Ridgefield High School	Ridgefield School District	Ridgefield	Fairfield County	A
+Rocky Hill High School		Rocky Hill	Hartford County	D		Northwest Conference
+Hotchkiss School	Private, nonsectarian	Salisbury	Litchfield County		Boarding
+Salisbury School	Private	Salisbury	Litchfield County
+Seymour High School		Seymour	New Haven County	F		Naugatuck Valley League
+Shelton High School		Shelton	Fairfield County	D		Southern Connecticut Conference
+Simsbury High School		Simsbury	Hartford County	B		Central Connecticut Conference
+Ethel Walker School		Simsbury	Hartford County
+The Master's School		Simsbury	Hartford County
+Westminster School		Simsbury	Hartford County
+Somers High School		Somers	Tolland County	C		North Central Connecticut Conference
+South Windsor High School		South Windsor	Hartford County	B		Central Connecticut Conference
+Pomperaug Regional High School	Pomperaug Regional School District 15	Southbury	New HavenCounty	B		South-West Conference
+Southington High School		Southington	Hartford	D		Central Connecticut Conference
+Academy of the Holy Family		Sprague	New London County
+Stafford High School		Stafford Springs	Tolland County
+Academy of Information Technology and Engineering	Stamford Public Schools	Stamford	Fairfield County
+King Low Heywood Thomas		Stamford	Fairfield County
+Rippowam High School	Stamford Public Schools	Stamford	Fairfield County
+Sacred Heart Academy	Private, Roman Catholic	Stamford	Fairfield County				Closed
+Stamford High School	Stamford Public Schools	Stamford	Fairfield County	H		FCIAC
+Trinity Catholic High School	Roman Catholic Diocese of Bridgeport	Stamford	Fairfield County			FCIAC
+Westhill High School	Stamford Public Schools	Stamford	Fairfield County	H		FCIAC
+J. M. Wright Technical High School	Connecticut Technical High School System	Stamford	Fairfield County			Constitution State Conference
+Yeshiva Bais Binyomin School		Stamford	Fairfield County
+Stonington High School		Stonington	New London County
+Frank Scott Bunnell High School		Stratford	Fairfield County			South-West Conference
+Stratford High School		Stratford	Fairfield County			South-West Conference
+Suffield Academy		Suffield	Hartford County
+Suffield High School		Suffield	Hartford County			North Central Connecticut Conference
+Thomaston High School		Thomaston	Litchfield County			Berkshire League	7th Grade to 12th Grade
+Marianapolis Preparatory School	Roman Catholic prep school governed by the Trinity Foundation	Thompson	Windham County		Boarding
+Tourtellotte Memorial High School		Thompson	Windham County			Eastern Connecticut Conference
+Tolland High School		Tolland	Tolland County			North Central Connecticut Conference
+Southeast School		Torrington	Litchfield County			Naugatuck Valley League
+Torrington High School	Torrington Public Schools	Torrington	Litchfield County			Naugatuck Valley League
+Oliver Wolcott Technical High School	Connecticut Technical High School System	Torrington	Litchfield County
+Christian Heritage School		Trumbull	Fairfield County	B
+St. Joseph High School	Roman Catholic Diocese of Bridgeport	Trumbull	Fairfield County			FCIAC
+Trumbull High School		Trumbull	Fairfield County	B
+Rockville High School		Vernon	Tolland County			Central Connecticut Conference
+Choate Rosemary Hall		Wallingford	New Haven County
+Lyman Hall High School		Wallingford	New Haven County			Southern Connecticut Conference
+Mark T. Sheehan High School		Wallingford	New Haven County			Southern Connecticut Conference
+Shepaug Valley High School		Washington	Litchfield County			Berkshire League
+Chase Collegiate School		Waterbury	New Haven County
+Crosby High School	Waterbury Public Schools	Waterbury	New Haven County	I		Naugatuck Valley League
+Holy Cross High School		Waterbury	New Haven County			Naugatuck Valley League
+W.F. Kaynor Technical High School	Connecticut Technical High School System	Waterbury	New Haven County			Constitution State Conference
+John F. Kennedy High School	Waterbury Public Schools	Waterbury	New Haven County	I		Naugatuck Valley League
+Sacred Heart High School		Waterbury	New Haven County			Naugatuck Valley League
+Waterbury Arts Magnet School	Waterbury Public Schools	Waterbury	New Haven County
+Waterbury Catholic High School		Waterbury	New Haven County
+Wilby High School	Waterbury Public Schools	Waterbury	New Haven County	I		Naugatuck Valley League
+Waterford High School		Waterford	New London County			Eastern Connecticut Conference
+Taft School		Watertown	Litchfield County		Boarding
+Watertown High School		Watertown	Litchfield County			Naugatuck Valley League
+Conard High School	West Hartford Public Schools	West Hartford	Hartford County	B		Central Connecticut Conference
+Hall High School	West Hartford Public Schools	West Hartford	Hartford County	B		Central Connecticut Conference
+Hebrew High School of New England		West Hartford	Hartford County
+Kingswood-Oxford School		West Hartford	Hartford County
+Northwest Catholic High School		West Hartford	Hartford County
+Woodstock School		West Hartford	Hartford County
+Notre Dame High School		West Haven	New Haven County			Southern Connecticut Conference
+West Haven High School		West Haven	New Haven County	H		Southern Connecticut Conference
+Westbrook High School		Westbrook	Middlesex County			Shoreline Conference
+Weston High School	Weston Public Schools	Weston	Fairfield County	A		South-West Conference
+Staples High School		Westport	Fairfield County	A		FCIAC
+Wethersfield High School		Wethersfield	Hartford County			Central Connecticut Conference
+Wilton High School	Wilton Public Schools	Wilton	Fairfield County	A		FCIAC
+Windham High School		Windham	Windham County, Connecticut	I		Eastern Connecticut Conference	Also serves Columbia
+Windham Technical High School	Connecticut Technical High School System	Windham	Windham County			Constitution State Conference
+Loomis Chaffee School		Windsor	Hartford County
+Windsor High School		Windsor	Hartford County	D		Central Connecticut Conference
+Windsor Locks High School		Windsor Locks	Hartford County	F		North Central Connecticut Conference
+Explorations School	Explorations District	Winsted	Litchfield County
+Gilbert School		Winsted	Litchfield County			Berkshire League
+Northwestern Regional High School		Winsted	Litchfield County			Berkshire League
+Wolcott High School		Wolcott	New Haven	F		Naugatuck Valley League
+Wolcott Technical High School		Wolcott	New Haven			Berkshire League
+Amity Regional High School	Amity Regional District #5	Woodbridge	New Haven	B		Southern Connecticut Conference	Also serves Bethany and Orange
+Marine Science Magnet High School		Groton	New London			Eastern Connecticut Conference
+Nonnewaug High School	Regional School District 14	Woodbury	Litchfield			Berkshire League	Also serves Bethlehem
+Hyde School		Woodstock	Windham County
+Woodstock Academy		Woodstock	Windham County	E		Eastern Connecticut Conference	Serves Union, Woodstock, Eastford, Pomfret, Brooklyn

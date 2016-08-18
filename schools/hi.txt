@@ -1,0 +1,125 @@
+Honolulu
+Public
+School Name	Communities	Grades	Establishment
+Farrington High School	Kalihi	9-12	1931
+Kaimukī High School	Kaimukī	9-12	1949
+Kaiser High School	Hawaiʻi Kai	9-12	1974
+Kalani High School	East Honolulu	9-12	1958
+McKinley High School	Makiki	9-12	1866
+Moanalua High School	Moanalua/Salt Lake	9-12	1972
+Radford High School	Aliamanu/Pearl Harbor	9-12	1957
+Roosevelt High School	Central Honolulu	9-12	1932
+Private
+Academy of the Pacific, Honolulu
+ASSETS School, Honolulu
+Christian Academy, Honolulu
+Damien Memorial School, Honolulu
+Hawaii Baptist Academy, Honolulu
+Hawaiian Mission Academy, Honolulu
+ʻIolani School, Honolulu
+Kamehameha Schools, Honolulu
+La Pietra (Hawaii School for Girls), Honolulu
+Le Jardin Academy, Honolulu
+Lutheran High School of Hawaii, Honolulu
+Maryknoll School, Honolulu
+Mid-Pacific Institute, Honolulu
+Myron B. Thompson Academy, Honolulu
+Pacific Buddhist Academy, Honolulu
+Punahou School, Honolulu
+Sacred Hearts Academy, Honolulu
+St. Andrew's Priory School, Honolulu
+Saint Louis School, Honolulu
+Saint Francis School, Honolulu
+St. Patrick School, Honolulu
+Varsity International School, Honolulu
+Waldorf Academy, Honolulu
+Word of Life Academy, Honolulu
+Greater Oʻahu
+Public
+School Name	City	Grades	Establishment
+ʻAiea High School	Aiea	9-12	1961
+Campbell High School	ʻEwa Beach	9-12	1962
+Castle High School	Kāneʻohe	9-12	1951
+Kahuku High & Intermediate School	Kahuku	7-12	1914
+Kailua High School	Kailua	9-12	1954
+Kalāheo High School	Kailua	9-12	1966
+Kapolei High School	Kapolei	9-12	2000
+Leilehua High School	Wahiawā	9-12	1949
+Mililani High School	Mililani	9-12	1973
+Nānākuli High & Intermediate School	Nānākuli	7-12	1967
+Olomana High & Intermediate School	Kailua	7-12
+Pearl City High School	Pearl City	9-12	1971
+Waiʻanae High School	Waiʻanae	9-12	1957
+Waialua High and Intermediate School	Waialua	7-12	1924
+Waipahu High School	Waipahu	9-12	1939
+Planned East Kapolei High School	Ewa Plain	9-12	2017
+Planned High School	Near Waipio-Wahiawa	9-12	2017
+Private
+Friendship Christian School,Ewa Beach
+Hale O Ulu School, ʻEwa Beach
+Honolulu Waldorf School, Kahala
+Island Pacific Academy, Kapolei
+Lanakila Baptist High School, ʻEwa Beach
+Le Jardin Academy, Kailua
+Pacific Buddhist Academy, Nuuanu
+Niʻihau
+School Name	City	Grades	Establishment
+Niʻihau High & Elementary
+Kauaʻi
+Public
+School Name	City	Grades	Establishment
+Kapaʻa High School	Kapaʻa	9-12	1941
+Kauaʻi High School	Līhuʻe	9-12	1914
+Waimea High School	Waimea	9-12	1881
+Private
+Island School, Līhuʻe
+Kahili Adventist School, Koloa
+Kula High & Kula Intermediate School, Kilauea
+Molokaʻi
+School Name	City	Grades	Establishment
+Molokaʻi High School	Hoʻolehua	9-12	1928
+Lānaʻi
+School Name	City	Grades	Establishment
+Lānaʻi High and Elementary School	Lānaʻi City	K-12	1937
+Maui
+Public
+School Name	City	Grades	Establishment
+Baldwin High School	Wailuku	9-12	1938
+Hana High and Elementary School	Hana	K-12	1912
+Kekaulike High School	Pukalani	9-12	1995
+Lahainaluna High School	Lahaina	9-12	1831
+Maui High School	Kahului	9-12	1913
+Kihei Charter School	Kihei	9-12	2001
+Private
+Kamehameha Schools Maui Campus, Pukalani
+Maui Preparatory Academy, Napili
+St. Anthony High School, Wailuku
+Seabury Hall College Preparatory School, Makawao
+Big Island
+Public
+School Name	City	Grades	Establishment
+Hilo High School	Hilo	9-12	1906
+Honokaʻa High & Intermediate School	Honokaʻa	7-12	1889
+Kaʻu High / Pahala Elementary School	Pahala	K-12	1881
+Ke Kula o Ehunuikaimalino	Kealakekua	K-12
+Keaʻau High School	Keaʻau	9-12	1999
+Kealakehe High School	Kailua-Kona	9-12	1997
+Kohala High School	Kapaʻau	9-12	1926
+Konawaena High School	Kealakekua	9-12	1899
+Laupāhoehoe Community Public Charter School	Laupahoehoe	K-12	1904
+Pāhoa High & Intermediate	Pahoa	7-12	1910
+Waiakea High School	Hilo	9-12	1976
+Private
+The High School of the Pacific, Kealakekua
+Hawaii Preparatory AcademyHPA, Kamuela
+Hualalai Academy, Kailua Kona
+Kamehameha Schools Hawaii Campus, Keaʻau
+Makua Lani Christian Academy, Kailua Kona
+Parker School, Kamuela
+St. Joseph High School (Hilo, Hawaii), Hilo
+Public Charter
+Hawaii Academy of Arts and Sciences, Pāhoa
+Ke Ana Laʻahana Charter School, Hilo
+Ke Kula ʻo Nāwahīokalaniʻōpuʻu, Keaʻau
+Laupāhoehoe Community Public Charter School, Laupahoehoe
+West Hawaiʻi Explorations Academy Public Charter School, Kailua Kona

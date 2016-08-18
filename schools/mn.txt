@@ -1,0 +1,597 @@
+Aitkin County
+Aitkin High School, Aitkin
+Hill City High School, Hill City
+McGregor High School, McGregor
+Anoka County
+Andover High School, Andover
+Anoka High School, Anoka
+Blaine High School, Blaine
+Bridges School, Andover
+Centennial High School, Circle Pines
+Columbia Heights High School, Columbia Heights
+Coon Rapids High School, Coon Rapids
+Fridley High School, Fridley
+Meadow Creek Christian School, Andover
+PACT Charter School, Ramsey
+Paladin Career and Technical High School, Blaine
+Saint Francis Christian School, St. Francis
+Saint Francis High School, St. Francis
+Spring Lake Park High School, Spring Lake Park
+Totino-Grace High School, Fridley
+Woodcrest Baptist Academy, Fridley
+Becker County
+Detroit Lakes High School, Detroit Lakes
+Frazee High School, Frazee
+Lake Park Audubon Secondary School, Lake Park
+Beltrami County
+Bemidji High School, Bemidji
+Blackduck High School, Blackduck
+Red Lake High School, Red Lake
+Benton County
+Foley High School, Foley
+Sauk Rapids-Rice High School, Sauk Rapids
+Big Stone County
+Clinton-Graceville-Beardsley High School, Graceville
+Ortonville High School, Ortonville
+Blue Earth County
+Immanuel Lutheran School, Mankato
+Lake Crystal Wellcome Memorial Secondary School, Lake Crystal
+Loyola Catholic School, Mankato
+Mankato East High School, Mankato
+Mankato West High School, Mankato
+Maple River High School, Mapleton
+RiverBend Academy Charter School, Mankato
+St. Clair High School, St. Clair
+Brown County
+Cathedral High School, New Ulm
+Comfrey Public School, Comfrey
+New Ulm High School, New Ulm
+St. Mary's High School, Sleepy Eye
+Sleepy Eye High School, Sleepy Eye
+Springfield High School, Springfield
+Carlton County
+Barnum High School, Barnum
+Carlton High School, Carlton
+Cloquet High School, Cloquet
+Cromwell-Wright High School, Cromwell
+Lincoln High School, Esko
+Moose Lake High School, Moose Lake
+Wrenshall High School, Wrenshall
+Carver County
+Central High School, Norwood
+Chanhassen High School, Chanhassen
+Chaska High School, Chaska
+Holy Family Catholic High School, Victoria
+Lutheran High School, Mayer
+Southwest Christian High School, Chaska[1]
+Waconia Senior School, Waconia
+Watertown Senior School, Watertown
+Cass County
+Cass Lake-Bena Secondary School, Cass Lake
+Northland Secondary School, Remer
+Pillager Area Charter School, Pillager
+Pillager Secondary School, Pillager
+Pine River-Backus Secondary School, Pine River
+Walker-Hackensack-Akeley Secondary School, Walker
+Chippewa County
+MACCRAY High School, Clara City
+Montevideo Senior School, Montevideo
+Chisago County
+Chisago Lakes Baptist School, Chisago City
+Chisago Lakes High School, Lindstrom
+North Branch Area High School, North Branch
+Rush City Secondary School, Rush City
+Clay County
+Barnesville Secondary School, Barnesville
+Dilworth-Glyndon-Felton Senior School, Glyndon
+Hawley Secondary School, Hawley
+Moorhead High School, Moorhead
+Park Christian School, Moorhead
+Ulen-Hitterdal Secondary School, Ulen
+Clearwater County
+Bagley High School, Bagley
+Clearbrook-Gonvick Secondary School, Clearbrook
+Cook County
+Cook County Senior School, Grand Marais
+Cottonwood County
+Mountain Lake Christian School, Mountain Lake
+Red Rock Central Elementary ISD 2884, Jeffers
+Mountain Lake Public School, Mountain Lake
+Westbrook-Walnut Grove Senior School, Westbrook
+Windom Senior School, Windom
+Crow Wing County
+Brainerd High School, Brainerd
+Crosby-Ironton Secondary School, Crosby
+Lake Region Christian School, Baxter
+Pequot Lakes High School, Pequot Lakes
+Dakota County
+Apple Valley High School, Apple Valley
+Burnsville High School, Burnsville
+Christian Life School, Farmington
+Convent of the Visitation, Mendota Heights
+Eagan High School, Eagan
+Eastview High School, Apple Valley
+Farmington High School, Farmington
+First Baptist School, Rosemount
+Hastings High School, Hastings
+Henry Sibley High School, Mendota Heights
+Lakeville North High School, Lakeville
+Lakeville South High School, Lakeville
+Randolph Secondary School, Randolph
+Rosemount High School, Rosemount
+School of Environmental Studies, Apple Valley
+St. Croix Lutheran High School, West St. Paul
+Saint Thomas Academy, Mendota Heights
+Simley High School, Inver Grove Heights
+South Saint Paul High School
+Trinity School at River Ridge, Eagan
+Dodge County
+Hayfield High School, Hayfield
+Kasson-Mantorville High School, Kasson
+Triton Senior High School, Dodge Center
+Douglas County
+Brandon High School, Brandon
+Evansville High School, Evansville
+Jefferson High School, Alexandria
+Lakes Area Charter School, Osakis
+Osakis Secondary School, Osakis
+Faribault County
+Blue Earth Area High School, Blue Earth
+Elmore Academy, Elmore
+Shattuck-Saint_Mary's
+United South Central Senior School, Wells
+Fillmore County
+Fillmore Central High School, Harmony
+Kingsland Senior School, Spring Valley
+Lanesboro Secondary School, Lanesboro
+Mabel-Canton Secondary School, Mabel
+Rushford-Peterson Senior School, Rushford
+Freeborn County
+Albert Lea High School, Albert Lea
+Alden-Conger High School, Alden
+Glenville-Emmons Senior School, Glenville
+Goodhue County
+Cannon Falls Area Schools, Cannon Falls
+Goodhue Secondary School, Goodhue
+Kenyon-Wanamingo High School, Kenyon
+Pine Island High School, Pine Island
+Red Wing High School, Red Wing
+Zumbrota-Mazeppa Senior School, Zumbrota
+Grant County
+Ashby High School, Ashby
+Herman Secondary School, Herman
+West Central Area Secondary School, Barrett
+Hennepin County
+Academy of Holy Angels, Richfield
+Ascension Academy Charter School, Minneapolis
+Arts High School, Golden Valley
+Benilde-St. Margaret's School, St. Louis Park
+Bethany Academy, Bloomington
+The Blake School, Minneapolis
+Bloomington Jefferson High School, Bloomington
+Bloomington Kennedy High School, Bloomington
+Breck School, Golden Valley
+Broadway Education Place School, Minneapolis
+Brooklyn Center High School, Brooklyn Center
+Calvin Christian High School, Crystal
+Center for Training & Careers, Minneapolis
+Champlin Park High School, Champlin
+Communication Arts Senior High School, Minneapolis
+Concordia Academy, Bloomington
+De La Salle High School, Minneapolis
+Eagle Ridge Academy, Eden Prairie
+Eden Prairie High School, Eden Prairie
+Edina High School, Edina
+Edison High School, Minneapolis
+El Colegio Charter School, Minneapolis
+Excel High School, Plymouth[2]
+Four Directions Charter School, Minneapolis
+Fourth Baptist Christian School, Plymouth
+Grace Academy, Minneapolis
+Groves Academy, St. Louis Park
+Heart of the Earth Secondary School, Minneapolis
+Heritage Christian Academy, Maple Grove
+Hopkins High School, Minnetonka
+Icall School, Minneapolis
+Insight School of Minnesota, Brooklyn Center[3]
+The International School of Minnesota, Eden Prairie
+Lincoln International High School, Minneapolis
+Mainstreet School of Performing Arts, Hopkins
+Maple Grove Senior High School, Maple Grove
+Maranatha Christian Academy, Brooklyn Park
+Menlo Park School, Minneapolis
+Minnehaha Academy, Minneapolis
+Minnesota Transitions Charter School, Minneapolis
+Minnetonka Christian Academy, Minnetonka
+Minnetonka High School, Minnetonka
+Mound-Westonka Secondary School, Minnetrista
+North Community High School, Minneapolis
+Northgate Academy, Plymouth[4]
+Orono High School, Long Lake
+Osseo Senior High School, Osseo
+Park Center Senior High School, Brooklyn Park
+Patrick Henry High School, Minneapolis
+Pease Academy, Minneapolis
+Providence Academy, Plymouth
+Richfield High School, Richfield
+Robbinsdale Armstrong High School, Plymouth
+Robbinsdale Cooper High School, New Hope
+Rockford High School, Rockford
+Rogers High School, Rogers
+Roosevelt High School, Minneapolis
+Sage Academy Charter School, Maple Grove
+St. Anthony Village High School, St. Anthony
+Saint Louis Park High School, St. Louis Park
+South High School, Minneapolis
+Southwest High School, Minneapolis
+Volunteers of America High School, Minneapolis
+Washburn High School, Minneapolis
+Watershed High School, Minneapolis
+Wayzata High School, Plymouth
+West Lutheran High School, Plymouth
+Houston County
+Caledonia High School, Caledonia
+Houston High School, Houston
+La Crescent Senior High School, La Crescent
+Spring Grove Secondary School, Spring Grove
+Hubbard County
+Laporte Secondary School, Laporte
+Nevis Secondary School, Nevis
+Park Rapids Senior School, Park Rapids
+Isanti County
+Braham Area High School, Braham
+Cambridge Christian School, Cambridge
+Cambridge-Isanti High School, Cambridge
+Itasca County
+Bigfork High School, Bigfork
+Deer River Secondary School, Deer River
+Grand Rapids High School, Grand Rapids
+Greenway High School, Coleraine
+Nashwauk Secondary School, Nashwauk
+Thistledew School, Togo
+Jackson County
+Heron Lake-Okabena High School, Okabena
+Jackson County Central Senior School, Jackson
+Kanabec County
+Mora Secondary School, Mora
+Ogilvie High School, Ogilvie
+Kandiyohi County
+New London-Spicer Senior School, New London
+Willmar High School, Willmar
+Kittson County
+Kittson Central Secondary School, Hallock
+Lancaster High School, Lancaster
+Tri-County Secondary School, Karlstad
+Koochiching County
+Falls High School, International Falls
+Indus Secondary School, Birchdale
+Littlefork-Big Falls Secondary School, Littlefork
+Northome Secondary School, Northome
+Lac Qui Parle County
+Dawson-Boyd Secondary School, Dawson
+Lac Qui Parle Valley Secondary School, Madison
+Lake County
+Kelley Secondary School, Silver Bay
+Two Harbors Secondary School, Two Harbors
+Lake of the Woods County
+Lake of the Woods School, Baudette
+Le Sueur County
+Cleveland High School, Cleveland
+Le Sueur-Henderson Secondary School, Le Sueur
+Tri-City United High School, Montgomery-Lonsdale-Le Center
+Waterville-Elysian-Morristown High School, Waterville
+Lincoln County
+Lincoln Secondary School, Ivanhoe
+RTR High School, Tyler
+Lyon County
+Lakeview Secondary School, Cottonwood
+Marshall Senior High School, Marshall
+Minneota Secondary School, Minneota
+Tracy High School, Tracy
+Yankton Country Charter School, Balaton
+Mahnomen County
+Mahnomen Secondary School, Mahnomen
+Waubun Secondary School, Waubun
+Marshall County
+Grygla Secondary School, Grygla
+Marshall County Central High School, Newfolden
+Stephen-Argyle Central High School, Stephen
+Warren-Alvarado-Oslo Secondary School, Warren
+Martin County
+Fairmont Area High School, Fairmont
+Granada-Huntley-East Chain Schools, Granada
+Martin County West Schools, Sherburn-Welcome-Trimont
+Martin Luther High School, Northrop
+Truman High School, Truman
+McLeod County
+Glencoe-Silver Lake Senior School, Glencoe
+Holy Trinity High School, Winsted
+Hutchinson High School, Hutchinson
+Lester Prairie Secondary School, Lester Prairie
+Maplewood Academy, Hutchinson
+Meeker County
+A.C.G.C. Secondary School, Grove City
+Eden Valley Secondary School, Eden Valley
+Litchfield Senior High School, Litchfield
+Mille Lacs County
+Faith Christian School, Foreston
+Isle Secondary School, Isle
+Milaca Secondary School, Milaca
+Onamia Secondary School, Onamia
+Princeton High School, Princeton
+Morrison County
+Healy Secondary School, Pierz
+Little Falls Community High School, Little Falls
+Royalton Secondary School, Royalton
+Swanville Secondary School, Swanville
+Upsala Secondary School, Upsala
+Mower County
+Austin High School, Austin
+Grand Meadow Secondary School, Grand Meadow
+Leroy-Ostrander High School, Leroy
+Lyle Secondary School, Lyle
+Pacelli High School, Austin
+Southland High School, Adams
+Murray County
+Fulda High School, Fulda
+Murray County Central High School, Slayton
+Nicollet County
+Minnesota Valley Lutheran High School, New Ulm
+Nicollet Secondary School, Nicollet
+St. Peter High School, St. Peter
+Nobles County
+Adrian Secondary School, Adrian
+Ellsworth Secondary School, Ellsworth
+Worthington Senior High School, Worthington
+Norman County
+Ada-Borup Secondary School, Ada
+Norman County East High School, Twin Valley
+Norman County West Secondary School, Halstad
+Olmsted County
+Byron High School, Byron
+Century High School, Rochester
+Chosen Valley High School, Chatfield
+Dover-Eyota Secondary School, Eyota
+Faith Christian School, Rochester
+John Marshall High School, Rochester
+Lourdes High School, Rochester
+Mayo High School, Rochester
+Schaeffer Academy, Rochester
+Stewartville Senior School, Stewartville
+Studio Academy Charter, Rochester
+Otter Tail County
+Battle Lake High School, Battle Lake
+Fergus Falls Senior High School, Fergus Falls
+Henning Secondary School, Henning
+Hillcrest Lutheran Academy, Fergus Falls
+New York Mills Secondary School, New York Mills
+Parkers Prairie Secondary School, Parkers Prairie
+Pelican Rapids Secondary School, Pelican Rapids
+Perham High School, Perham
+Underwood Secondary School, Underwood
+Pennington County
+Goodridge Secondary School, Goodridge
+Lincoln Senior School, Thief River Falls
+Pine County
+East Central High School, Finlayson
+Hinckley-Finlayson High School, Hinckley
+Pine City High School, Pine City
+Willow River High School, Willow River
+Pipestone County
+Edgerton Secondary School, Edgerton
+Pipestone Area High School, Pipestone
+Southwest Minnesota Christian High School, Edgerton
+Polk County
+Climax Secondary School, Climax
+Crookston High School, Crookston
+East Grand Forks Senior High School, East Grand Forks
+Fertile-Beltrami Secondary School, Fertile
+Fosston Secondary School, Fosston
+Sacred Heart High School, East Grand Forks
+Win-E-Mac Secondary School, Erskine
+Pope County
+Minnewaska Area High School
+Minnewaska Secondary School, Glenwood
+Ramsey County
+Academy for Sciences and Agriculture High School, Vadnais Heights
+Arlington Senior High School, St. Paul
+Avalon School, St. Paul
+Calvin Academy, Mounds View
+Calvin Christian High School, Fridley
+Central Senior High School, St. Paul
+City Academy High School, St. Paul
+Community of Peace Academy, St. Paul
+Como Park Senior High School, St. Paul
+Concordia Academy, Roseville
+Cretin-Derham Hall High School, St. Paul
+Fairview Alternative High School, Roseville
+Gordon Parks High School, St. Paul
+Great River Charter Montessori School, St. Paul
+Harding Senior High School, St. Paul
+High School for Recording Arts, St. Paul
+Highland Park High School, St. Paul
+Hill-Murray School, Maplewood
+Hmong Academy, St. Paul
+Humboldt Senior High School, St. Paul
+Irondale Senior High School, New Brighton
+Jennings Experiential High School, St. Paul
+Johnson Senior High School, St. Paul
+Liberty Classical Academy, Maplewood
+Minnesota Business Academy Charter, St. Paul
+Mounds Park Academy, St. Paul
+Mounds View Senior High School, Arden Hills
+North High School, North St. Paul
+Roseville Area High School, Roseville
+Saint Agnes High School, St. Paul
+Saint Bernard's High School, St. Paul
+St. Odilia School, Shoreview
+St. Paul Academy and Summit School, St. Paul
+Skills for Tomorrow Charter School, St. Paul
+White Bear Lake Area High School, White Bear Lake
+Red Lake County
+Lafayette High School, Red Lake Falls
+Oklee Secondary School, Oklee
+Redwood County
+Cedar Mountain Secondary School, Morgan
+Redwood Valley High School, Redwood Falls
+Red Rock Central ISD 2884, Lamberton
+Vesta Secondary School, Wabasso
+Wabasso Secondary School, Wabasso
+Redwood Valley Middle School, Redwood Falls
+Renville County
+BOLD Senior School, Olivia
+Renville County West Senior School, Renville
+Rice County
+Arcadia Charter School, Northfield
+Bethlehem Academy, Faribault
+Faribault High School, Faribault
+Minnesota State Academy for the Blind, Faribault
+Minnesota State Academy for the Deaf, Faribault
+Northfield High School, Northfield
+Rock County
+Hills-Beaver Creek Secondary School, Hills
+Luverne Senior High School, Luverne
+Roseau County
+Badger Community School, Badger
+Greenbush-Middle River High School, Greenbush
+Roseau Secondary School, Roseau
+Warroad Senior School, Warroad
+St. Louis County
+Albrook Secondary School, Saginaw
+Babbitt Secondary School, Babbitt
+Central High School, Duluth
+Cherry Secondary School, Iron
+Chisholm High School, Chisholm
+Cook Secondary School, Cook
+Cotton Secondary School, Cotton
+Denfeld High School, Duluth
+East High School, Duluth
+East Range Academy of Technology and Science, Eveleth
+Eveleth-Gilbert Senior School, Eveleth
+Floodwood Secondary School, Floodwood
+Harbor City International School, Duluth
+Hermantown Senior School, Hermantown
+Hibbing High School, Hibbing
+Hibbing Senior School, Hibbing
+Lake Superior High School, Duluth
+Lakeview Christian Academy, Duluth
+The Marshall School, Duluth
+Memorial Secondary School, Ely
+Mesabi East High School, Aurora
+Mountain Iron-Buhl Secondary School, Mountain Iron
+Orr Secondary School, Orr
+Proctor High School, Proctor
+Tower-Soudan Secondary School, Tower
+Vermilion Country School, Tower
+Virginia High School, Virginia
+Scott County
+Belle Plaine High School, Belle Plaine
+Jordan High School, Jordan
+New Prague High School, New Prague
+Prior Lake Senior School, Prior Lake
+Shakopee High School, Shakopee
+Sherburne County
+Becker High School, Becker
+Big Lake High School, Big Lake
+Elk River High School, Elk River
+Ivan Sand Community School, Elk River
+Rivers Christian Academy, Elk River
+Spectrum High School, Elk River
+Zimmerman High School, Zimmerman
+Sibley County
+G.F.W. Senior School, Winthrop
+Minnesota New Country School, Henderson
+Sibley East High School, Arlington
+Stearns County
+Albany Senior School, Albany
+Apollo High School, St. Cloud
+Belgrade-Brooten-Elrosa High School, Belgrade
+Cathedral High School/John XXIII, St. Cloud
+Holdingford Secondary School, Holdingford
+Kimball High School, Kimball
+Melrose High School, Melrose
+Paynesville Senior School, Paynesville
+Rocori High School, Cold Spring
+St. John's Preparatory School, Collegeville
+Sartell High School, Sartell
+Sauk Centre Secondary School, Sauk Centre
+Technical Senior School, St. Cloud
+Steele County
+Blooming Prairie High School, Blooming Prairie
+Medford Secondary School, Medford
+Owatonna Senior High School, Owatonna
+Stevens County
+Chokio-Alberta High School, Alberta
+Hancock Secondary School, Hancock
+Morris Area Secondary School, Morris
+Swift County
+Benson High School, Benson
+Kerkhoven-Murdock-Sunburg Secondary School, Kerkhoven
+Lac Qui Parle Valley High School
+Todd County
+Bertha-Hewitt High School, Bertha
+Browerville High School, Browerville
+Eagle Valley Secondary School, Eagle Bend
+Long Prairie-Grey Senior School, Long Prairie
+Staples-Motley Senior School, Staples
+Traverse County
+Wheaton High School, Wheaton
+Wabasha County
+Lincoln Secondary School, Lake City
+Plainview/Elgin/Millville, Plainview, Elgin
+River Valley Academy, Kellogg
+Wabasha-Kellogg Secondary School, Wabasha
+Wadena County
+Menahga Secondary School, Menahga
+Sebeka Secondary School, Sebeka
+Verndale Secondary School, Verndale
+Wadena-Deer Creek Senior High School, Wadena
+Waseca County
+Janesville-Waldorf-Pemberton Senior School, Janesville
+NRHEG High School, New Richland
+Waseca Senior High School, Waseca
+Washington County
+Century Junior High School, Forest Lake
+East Ridge High School, Woodbury
+Forest Lake Area Senior High School, Forest Lake
+Hope Christian Academy, St. Paul Park
+Mahtomedi Senior High School, Mahtomedi
+Math and Science Academy
+New Life Academy, Woodbury
+North Lakes Academy
+Park High School, Cottage Grove, Minnesota
+St. Croix Preparatory Academy, Stillwater
+Southwest Junior High School, Forest Lake
+Stillwater Senior High School, Stillwater
+Tartan Senior High School, Oakdale
+Woodbury Senior High School, Woodbury
+Watonwan County
+Butterfield-Odin Schools, Butterfield
+Madelia Secondary School, Madelia
+St. James High School, St. James
+Wilkin County
+Breckenridge Senior School, Breckenridge
+Campbell-Tintah Secondary School, Campbell
+Rothsay Secondary School, Rothsay
+Winona County
+Cotter High School, Winona
+Hope Lutheran High School, Winona
+Lewiston-Altura Secondary School, Lewiston
+Riverway Secondary School, Minnesota City
+St. Charles High School, St. Charles
+Winona Senior High School, Winona
+Wright County
+Annandale High School, Annandale
+Buffalo High School, Buffalo
+Dassel-Cokato Senior School, Cokato
+Delano High School, Delano
+Howard Lake-Waverly-Winsted Secondary School, Howard Lake
+Maple Lake Secondary School, Maple Lake
+Monticello High School, Monticello
+St. Michael-Albertville High School, Albertville
+Yellow Medicine County
+Canby High School, Canby
+ECHO Charter School, Echo
+Yellow Medicine East High School, Granite Falls
+Online schools
+Minnesota Online High School, statewide

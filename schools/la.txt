@@ -1,0 +1,496 @@
+Acadia Parish
+Church Point High School, Church Point
+Crowley High School, Crowley
+Iota High School, Iota
+Midland High School, Midland
+Northside Christian High School, Crowley
+Notre Dame High School, Crowley
+Rayne High School, Rayne
+Allen Parish
+Elizabeth High School, Elizabeth
+Fairview High School, Grant
+Kinder High School, Kinder
+Oakdale High School, Oakdale
+Oberlin High School, Oberlin
+Reeves High School, Reeves
+Indian Bible Academy, Elton
+Ascension Parish
+Ascension Catholic High School, Donaldsonville
+Ascension Christian High School, Gonzales
+Donaldsonville High School, Donaldsonville
+Dutchtown High School, Geismar
+East Ascension High School, Gonzales
+St. Amant High School, St. Amant
+Assumption Parish
+Assumption High School, Napoleonville
+Avoyelles Parish
+Avoyelles High School, Moreauville
+Avoyelles Public Charter School, Mansura
+Bunkie High School, Bunkie
+Marksville High School, Marksville
+Louisiana School for the Agricultural Sciences, Bunkie
+St. Joseph School, Plaucheville
+Beauregard Parish
+DeRidder High School, DeRidder
+East Beauregard High School, Dry Creek
+Merryville High School, Merryville
+Singer High School, Singer
+South Beauregard High School, Longville
+Bienville Parish
+Arcadia High School, Arcadia
+Castor High School, Castor
+Gibsland-Coleman Complex, Gibsland
+Ringgold High School, Ringgold
+Saline High School, Saline
+Bossier Parish
+Airline High School, Bossier City
+Benton High School, Benton
+Bossier High School, Bossier City
+Haughton High School, Haughton
+Parkway High School, Bossier City
+Plain Dealing High School, Plain Dealing
+Caddo Parish
+Booker T. Washington High School, Shreveport
+C. E. Byrd High School, Shreveport
+Caddo Magnet High School, Shreveport
+Calvary Baptist Academy, Shreveport
+Captain Shreve High School, Shreveport
+Evangel Christian Academy, Shreveport
+Fair Park Medical Careers Magnet High School, Shreveport
+Green Oaks High School, Shreveport
+Huntington High School, Shreveport
+Loyola College Prep, Shreveport
+North Caddo High School, Vivian
+Northwood High School, Shreveport
+Southwood High School, Shreveport
+Woodlawn High School, Shreveport
+Calcasieu Parish
+A. M. Barbe High School, Lake Charles
+Bell City High School, Bell City
+DeQuincy High School, DeQuincy
+Hamilton Christian Academy, Lake Charles
+Iowa High School, Iowa
+LaGrange High School, Lake Charles
+Lake Charles College Prep, Lake Charles
+Lake Charles Learning Academy, Lake Charles
+Parkview Baptist School, Sulphur
+Sam Houston High School, Lake Charles
+St. Louis Catholic High School, Lake Charles
+Starks High School, Starks
+Sulphur High School, Sulphur
+Vinton High School, Vinton
+Washington-Marion Magnet High School, Lake Charles
+Westlake High School, Westlake
+Caldwell Parish
+Caldwell Parish High School, Columbia
+Cameron Parish
+Grand Lake High School, Grand Lake
+Hackberry High School, Hackberry
+Johnson Bayou High School, Johnson Bayou
+South Cameron High School, Cameron
+Catahoula Parish
+Central High School, Jonesville
+Block High School, Jonesville
+Harrisonburg High School, Harrisonburg
+Sicily Island High School, Sicily Island
+Claiborne Parish
+Athens High School, Athens
+Haynesville High School, Haynesvile
+Homer High School, Homer
+Summerfield High School, Summerfield
+Concordia Parish
+Delta Charter School, Ferriday
+Ferriday High School, Ferriday
+Monterey High School, Monterey
+Vidalia High School, Vidalia
+De Soto Parish
+Logansport High School, Logansport
+Mansfield High School, Mansfield
+North DeSoto High School, Stonewall
+Pelican All Saints High School, Pelican
+Stanley High School, Logansport
+East Baton Rouge Parish
+Baker High School, Baker
+Baton Rouge High School, Baton Rouge
+Belaire High School, Baton Rouge
+Broadmoor High School, Baton Rouge
+Capitol High School, Baton Rouge
+Catholic High School, Baton Rouge
+Central High School, Central
+Central Private School, Central
+Christian Life Academy, Baton Rouge
+The Dunham School, Baton Rouge
+Episcopal High School, Baton Rouge
+Family Christian Academy, Baton Rouge
+Glen Oaks High School, Baton Rouge
+Jehovah-Jireh Christian Academy, Baton Rouge
+Lee Magnet High School, Baton Rouge
+Louisiana School for the Deaf, Baton Rouge
+Louisiana School for the Visually Impaired, Baton Rouge
+Madison Preparatory Academy, Baton Rouge
+McKinley High School, Baton Rouge
+Mentorship Academy of Digital Arts, Baton Rouge
+Northeast High School, Zachary
+Parkview Baptist High School, Baton Rouge
+The Runnels School, Baton Rouge
+St Joseph's Academy, Baton Rouge
+Scotlandville Magnet High School, Baton Rouge
+Southern University Lab High School, Baton Rouge
+St. Michael the Archangel High School, Baton Rouge
+Tara High School, Baton Rouge
+University High School, Baton Rouge
+Woodlawn High School, Baton Rouge
+Zachary High School, Zachary
+East Carroll Parish
+Briarfield Academy, Lake Providence
+General Trass High School, Lake Providence
+East Feliciana Parish
+East Feliciana High School, Jackson
+Silliman Institute, Clinton
+Slaughter Community Charter School, Slaughter
+Evangeline Parish
+Basile High School, Basile
+Mamou High School, Mamou
+Pine Prairie High School, Pine Prairie
+Sacred Heart High School, Ville Platte
+Ville Platte High School, Ville Platte
+Franklin Parish
+Family Community Christian School, Winnsboro
+Franklin Academy, Winnsboro
+Franklin Parish High School, Winnsboro
+Grant Parish
+Georgetown High School, Georgetown
+Grant Academy, Dry Prong
+Grant High School, Dry Prong
+Montgomery High School, Montgomery
+Iberia Parish
+Catholic High School, New Iberia
+Delcambre High School, Delcambre
+Highland Baptist Christian School, New Iberia
+Jeanerette Senior High School, Jeanerette
+Loreauville High School, Loreauville
+New Iberia Senior High School, New Iberia
+Westgate High School, New Iberia
+Iberville Parish
+East Iberville High School, St. Gabriel
+Plaquemine Senior High School, Plaquemine
+St. John High School, Plaquemine
+White Castle High School, White Castle
+Jackson Parish
+Jonesboro-Hodge High School, Jonesboro
+Quitman High School, Quitman
+Weston High School, Weston
+Jefferson Parish
+Academy of Our Lady, Marrero
+Archbishop Chapelle High School, Metairie
+Archbishop Rummel High School, Metairie
+Archbishop Shaw High School, Marrero
+Alfred Bonnabel High School, Kenner
+Crescent City Christian School, Metairie
+East Jefferson High School, Metairie
+Ecole Classique, Metairie
+Fisher High School, Jean Lafitte
+Grace King High School, Metairie
+Grand Isle High School, Grand Isle
+Haynes Academy for Advanced Studies, Metairie
+Helen Cox High School, Harvey
+Holy Rosary High School, Metairie
+John Curtis Christian High School, River Ridge
+John Ehret High School, Marrero
+L.W. Higgins High School, Marrero
+Lutheran High School, Metairie
+Metairie Park Country Day School, Metairie
+Patrick F. Taylor Science and Technology Academy, Jefferson
+Ridgewood Preparatory School, Metairie
+Riverdale High School, Jefferson
+St. Martin's Episcopal School, Metairie
+Thomas Jefferson High School, Gretna
+West Jefferson High School, Harvey
+Jefferson Davis Parish
+Bethel Christian School, near Jennings
+Elton High School, Elton
+Hathaway High School, Hathaway
+Jennings High School, Jennings
+Lacassine High School, Lacassine
+Lake Arthur High School, Lake Arthur
+Welsh High School, Welsh
+La Salle Parish
+Jena High School, Jena
+La Salle High School, Olla
+Lafayette Parish
+Acadiana High School, Lafayette
+Ascension Episcopal School, Lafayette
+Carencro High School, Lafayette
+David Thibodaux STEM Magnet Academy, Lafayette
+Lafayette Christian Academy, Lafayette
+Lafayette Charter High School, Lafayette
+Lafayette High School, Lafayette
+Northside High School, Lafayette
+Ovey Comeaux High School, Lafayette
+St. Thomas More School, Lafayette
+Teurlings Catholic High School, Lafayette
+Upper Lafayette Academy, Lafayette
+Lafourche Parish
+Central Lafourche High School, Raceland
+South Lafourche High School, Galliano
+Thibodaux High School, Thibodaux
+Edward Douglas White Catholic High School, Thibodaux
+Lincoln Parish
+Bethel Christian School, Ruston
+Cedar Creek School, Ruston
+Choudrant High School, Choudrant
+Dubach High School, Dubach
+Grambling State University Laboratory High School, Grambling
+New Living Word School, Ruston
+Ruston High School, Ruston
+Simsboro High School, Simsboro
+Livingston Parish
+Albany High School, Albany
+Denham Springs High School, Denham Springs
+Doyle High School, Livingston
+French Settlement High School, French Settlement
+Holden High School, Holden
+Live Oak High School, Watson
+Maurepas High School, Maurepas
+Springfield High School, Springfield
+Walker High School, Walker
+Madison Parish
+Madison High School, Tallulah
+Tallulah Academy-Delta Christian School, Tallulah
+Morehouse Parish
+Bastrop High School, Bastrop
+Beekman Charter School, Bastrop
+Prairie View Academy, Bastrop
+Natchitoches Parish
+Lakeview High School, Campti
+Louisiana School for Math, Science, and the Arts, Natchitoches
+Natchitoches Central Annex, Natchitoches
+Natchitoches Central High School, Natchitoches
+St. Mary's High School, Natchitoches
+Orleans Parish
+Academy of the Sacred Heart, New Orleans
+Algiers Technology Academy, New Orleans
+Benjamin Franklin High School, New Orleans
+Bishop McManus Academy, New Orleans
+Brother Martin High School, New Orleans
+Cabrini High School, New Orleans
+Joseph S. Clark High School, New Orleans
+Cohen College Prep High School, New Orleans
+Crescent Leadership Academy, New Orleans
+Dr. Martin Luther King Jr. Charter School for Science and Technology, New Orleans
+De La Salle High School, New Orleans
+Edna Karr High School, New Orleans
+Einstein Charter High School, New Orleans
+Eleanor McMain Secondary School, New Orleans
+G.W. Carver Collegiate Academy, New Orleans
+G.W. Carver Preparatory Academy, New Orleans
+Holy Cross High School, New Orleans
+Holy Rosary High School, New Orleans
+International High School of New Orleans, New Orleans
+Isidore Newman School, New Orleans
+Jesuit High School, New Orleans
+John McDonogh High School, New Orleans
+KIPP Renaissance High School, New Orleans
+Lake Area New Tech Early College High School, New Orleans
+Landry-Walker College and Career Preparatory High School, New Orleans
+Lusher Charter School, New Orleans
+McDonogh 35 High School, New Orleans
+McGehee School, New Orleans
+Mount Carmel Academy, New Orleans
+Net Charter High School, New Orleans
+New Orleans Accelerated High School, New Orleans
+New Orleans Center for Creative Arts (NOCCA), New Orleans
+New Orleans Charter Science and Mathematics High School, New Orleans
+New Orleans Military and Maritime Academy, New Orleans
+St. Augustine High School, New Orleans
+St. Katharine Drexel Preparatory School, New Orleans
+St. Mary's Academy, New Orleans
+St. Mary's Dominican High School, New Orleans
+Sci Academy, New Orleans
+Sophie B. Wright Charter School, New Orleans
+Ursuline Academy, New Orleans
+Warren Easton High School, New Orleans
+Ouachita Parish
+Carroll High School, Monroe
+Claiborne Christian School, West Monroe
+Neville High School, Monroe
+Ouachita Christian School, Monroe
+Ouachita Parish High School, Monroe
+Richwood High School, Monroe
+River Oaks School, Monroe
+St. Frederick High School, Monroe
+Sterlington High School, Monroe
+Vision Academy, Monroe
+West Monroe High School, West Monroe
+West Ouachita High School, West Monroe
+Wossman High School, Monroe
+Plaquemines Parish
+Belle Chasse High School, Belle Chasse
+South Plaquemines High School, Port Sulphur
+Phoenix High School, Braithwaite
+Plaquemines Parish Alternative School, Belle Chasse
+Pointe Coupee Parish
+Catholic High School of Pointe Coupee, New Roads
+False River Academy, New Roads
+Livonia High School, Livonia
+Rapides Parish
+Alexandria Senior High School, Alexandria
+Bolton High School, Alexandria
+Buckeye High School, Deville
+Glenmora High School, Glenmora
+Grace Christian School, Alexandria
+Holy Savior Menard Central High School, Alexandria
+Northwood High School, Lena
+Oak Hill High School, Hineston
+Peabody Magnet High School, Alexandria
+Pineville High School, Pineville
+Plainview High School, Glenmora
+Rapides High School, Lecompte
+Tioga High School, Tioga
+University Academy of Central Louisiana, Alexandria
+Red River Parish
+Red River Senior High School, Coushatta
+Riverdale Academy, Coushatta
+Richland Parish
+Delhi Charter School, Delhi
+Delhi High School, Delhi
+Mangham High School, Mangham
+Rayville High School, Rayville
+Riverfield Academy, Rayville
+Sabine Parish
+Converse High School, Converse
+Ebarb School, Ebarb
+Florien High School, Florien
+Many High School, Many
+Negreet High School, Negreet
+Pleasant Hill High School, Pleasant Hill
+Zwolle High School, Zwolle
+St. Bernard Parish
+Chalmette High School, Chalmette
+St. Charles Parish
+Destrehan High School, Destrehan
+Hahnville High School, Boutte
+St. Helena Parish
+St. Helena Central High School, Greensburg
+St. James Parish
+Lutcher High School, Lutcher
+St. James High School, St. James
+St. John the Baptist Parish
+East St. John High School, Reserve
+West St. John High School, Edgard
+Riverside Academy, Reserve
+St. Charles Catholic High School, Laplace
+St. Landry Parish
+Academy of the Sacred Heart, Grand Coteau
+Beau Chene High School, Arnaudville
+Eunice High School, Eunice
+Magnet Academy for Cultural Arts, Opelousas
+North Central High School, Lebeau
+Northwest High School, Opelousas
+Opelousas Catholic School, Opelousas
+Opelousas Senior High School, Opelousas
+Port Barre High School, Port Barre
+St. Edmund High School, Eunice
+Westminster Christian Academy, Opelousas
+St. Martin Parish
+Breaux Bridge High School, Breaux Bridge
+Cecilia High School, Cecilia
+Episcopal School of Acadiana, Cade
+St. Martinville Senior High School, St. Martinville
+St. Mary Parish
+Berwick High School, Berwick
+Centerville High School, Centerville
+Central Catholic High School, Morgan City
+Franklin Senior High School, Franklin
+Hanson Memorial High School, Franklin
+Morgan City High School, Morgan City
+Patterson High School, Patterson
+West St. Mary High School, Baldwin
+St. Tammany Parish
+Archbishop Hannan High School, Covington
+Covington High School, Covington
+First Baptist Christian School, Slidell
+Fontainebleau High School, Mandeville
+Lakeshore High School, Mandeville
+Mandeville High School, Mandeville
+Northlake Christian School, Covington
+Northshore High School, Slidell
+Pearl River High School, Pearl River
+Pope John Paul II High School, Slidell
+St. Paul's School, Covington
+St. Scholastica Academy, Covington
+Salmen High School, Slidell
+Slidell High School, Slidell
+Tangipahoa Parish
+Amite High School, Amite
+Hammond High School, Hammond
+Independence High School, Independence
+Kentwood High School, Kentwood
+Loranger High School, Loranger
+Northwood Preparatory High School, Amite
+Ponchatoula High School, Ponchatoula
+St. Thomas Aquinas High School, Hammond
+Sumner High School, Kentwood
+Tensas Parish
+Tensas Academy, St. Joseph
+Tensas High School, St. Joseph
+Terrebonne Parish
+Covenant Christian Academy, Houma
+Houma Christian School, Houma
+H. L. Bourgeois High School, Gray
+Ellender Memorial High School, Houma
+South Terrebonne High School, Bourg
+Terrebonne High School, Houma
+Vandebilt Catholic High School, Houma
+Union Parish
+Bernice High School, Bernice
+D'Arbonne Woods Charter School, Farmerville
+Downsville High School, Downsville
+Union Parish High School, Farmerville
+Marion High School, Marion
+Spearsville High School, Spearsville
+Vermilion Parish
+Abbeville High School, Abbeville
+Erath High School, Erath
+Gueydan High School, Gueydan
+Harvest Time Christian Academy, Abbeville
+Kaplan High School, Kaplan
+North Vermilion High School, Maurice
+Vermilion Catholic High School, Abbeville
+Vernon Parish
+Anacoco High School, Anacoco
+Evans High School, Evans
+Hicks High School, Leesville
+Hornbeck High School, Hornbeck
+Leesville High School, Leesville
+Pickering High School, Leesville
+Pitkin High School, Pitkin
+Rosepine High School, Rosepine
+Simpson High School, Simpson
+Washington Parish
+Bogalusa High School, Bogalusa
+Franklinton High School, Franklinton
+Mount Hermon School, Mount Hermon
+Pine Senior High School, Franklinton
+Varnado High School, Varnado
+Webster Parish
+Doyline High School, Doyline
+Glenbrook School, Minden
+Lakeside High School, Sibley
+Minden High School, Minden
+North Webster High School, Springhill
+West Baton Rouge Parish
+Brusly High School, Brusly
+Port Allen High School, Port Allen
+West Carroll Parish
+Epps High School, Epps
+Forest High School, Forest
+Kilbourne High School, Kilbourne
+Oak Grove High School, Oak Grove
+West Feliciana Parish
+West Feliciana High School, St. Francisville
+Winn Parish
+Atlanta High School, Atlanta
+Calvin High School, Calvin
+Dodson High School, Dodson
+Winnfield Senior High School, Winnfield

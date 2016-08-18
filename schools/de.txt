@@ -1,0 +1,101 @@
+Public schools
+New Castle County
+School name	Location	Grade
+range	2012 en-
+rollment
+Alexis I. duPont High School	Wilmington	9-12	1,172
+Appoquinimink High School	Middletown	9-12	1,513
+Brandywine High School	Wilmington	9-12	989
+Cab Calloway School of the Arts	Wilmington	6-12	470
+Concord High School	Wilmington	9-12	1,217
+Conrad Schools of Science	Wilmington	6-12	586
+Delaware School for the Deaf Secondary	Newark	PK-12	29
+Douglass School	Wilmington	K-12	30
+First State School	Wilmington	K-12	10
+Glasgow High School	Newark	9-12	981
+John Dickinson High School	Wilmington	9-12	726
+John G. Leach School	New Castle	PK-12	24
+Middletown High School	Middletown	8-12	1,222
+Mount Pleasant High School	Wilmington	9-12	959
+Newark High School	Newark	9-12	1,530
+Reach/Cbip	Newark	PK-12	67
+The Brennen School	Newark	PK-12	107
+The Central School	Wilmington	6-12	91
+Thomas McKean High School	Wilmington	8-12	864
+William Penn High School	New Castle	9-12	2,073
+Total grades 9–12 for county	14,660
+Kent County
+School name	Location	Grade
+range	2012 en-
+rollment
+Caesar Rodney High School	Camden Wyoming, Delaware	9-12	2,081
+Dover High School	Dover	9-12	1,619
+John S. Charlton School	Dover	PK-12	87
+Kent County Alternative Programs	Dover	6-12	58
+Kent County Community School	Dover	PK-12	37
+Lake Forest High School	Felton	8-12	896
+Milford Central Academy	Milford	8-9	276
+Milford Senior High School	Milford	8-12	846
+Smyrna High School	Smyrna	9-12	1,387
+Woodbridge High School	Bridgeville	9-12	581
+Total grades 9–12 for county	7,868
+Sussex County
+School name	Location	Grade
+range	2012 en-
+rollment
+Cape Henlopen High School	Lewes	8-12	1,264
+Delmar Senior High School	Delmar	9-12	615
+Howard T. Ennis School	Georgetown	PK-12	58
+Indian River High School	Frankford	8-12	897
+Laurel Senior High School	Laurel	9-12	455
+Seaford Senior High School	Seaford	8-12	708
+Sussex Central High School	Georgetown	8-12	1,249
+Sussex Consortium	Lewes	PK-12	76
+Sussex Orthopedic Program	Seaford	PK-12	11
+Western Sussex Academy	Laurel	8-12	6
+Total grades 9–12 for county	5,339
+Private schools
+New Castle County
+School name	Location	Grade
+range	2012 en-
+rollment
+Archmere Academy	Claymont	9-12	481
+Caravel Academy	Bear	PK-12	340
+Concord Christian Academy	Wilmington	PK-12	38
+Fairwinds Christian School	Bear	PK-12	32
+High Road School of Delaware	Wilmington	5-12	13
+Layton Preparatory School	New Castle	9-12	26
+Padua Academy	Wilmington	9-12	596
+Red Lion Christian Academy	Bear	PK-12	276
+Salesianum School	Wilmington	9-12	981
+Sanford School	Hockessin	PK-12	239
+St. Andrew's School	Middletown	9-12	295
+St. Mark's High School	Wilmington	9-12	1,077
+Tall Oaks Classical School	New Castle	K-12	39
+The Tatnall School	Wilmington	PK-12	242
+Tower Hill School	Wilmington	PK-12	236
+Ursuline Academy	Wilmington	PK-12	197
+Wilmington Christian School	Wilmington	PK-12	213
+Wilmington Friends School	Wilmington	PK-12	266
+Total grades 9–12 for county	5,587
+Kent County
+School name	Location	Grade
+range	2012 en-
+rollment
+Calvary Christian Academy	Delaware	PK-12	51
+Capitol Baptist School	Delaware	PK-12	8
+Central Christian School	Delaware	K-11	14
+Integrity Christian School	Felton	4-11	1
+Kenton Mennonite School	Clayton	3-12	5
+St. Thomas More Academy	Magnolia	9-12	235
+Total grades 9–12 for county	314
+Sussex County
+School name	Location	Grade
+range	2012 en-
+rollment
+Delmarva Christian High School	Georgetown	9-12	181
+Geneva Academy	Lincon	K-12	1
+Greenwood Mennonite School	Greenwood	PK-12	54
+Jesus Is Lord Christian Academy	Georgetown	PK-12	5
+Seaford Christian Academy	Seaford	PK-9	1
+Total grades 9–12 for county	242

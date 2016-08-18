@@ -1,0 +1,620 @@
+Adams County
+Adams-Friendship High School, Adams
+Ashland County
+Ashland High School, Ashland [1]
+Butternut High School, Butternut
+Glidden High School, Glidden
+Mellen High School, Mellen
+Barron County
+Barron High School, Barron [2]
+Cameron High School, Cameron [3]
+Chetek-Weyerhaeuser High School, Chetek [4]
+Cumberland High School, Cumberland [5]
+Prairie Farm High School, Prairie Farm [6]
+Rice Lake High School, Rice Lake [7]
+Turtle Lake High School, Turtle Lake [8]
+Bayfield County
+Bayfield High School, Bayfield
+Drummond High School, Drummond
+South Shore High School, Port Wing
+Washburn High School, Washburn
+Brown County
+Ashwaubenon High School, Green Bay
+Bay City Baptist School, Green Bay
+Bay Port High School, Green Bay
+De Pere High School, De Pere
+Denmark High School, Denmark
+Green Bay East High School, Green Bay
+Green Bay Southwest High School, Green Bay
+Green Bay West High School, Green Bay
+Northeastern Wisconsin Lutheran High School, Green Bay
+Notre Dame De La Baie Academy, Green Bay
+Preble High School, Green Bay
+Pulaski High School, Pulaski
+West De Pere High School, De Pere
+Wrightstown High School, Wrightstown
+Buffalo County
+Alma High School, Alma
+Cochrane-Fountain City High School, Fountain City
+Gilmanton High School, Gilmanton
+Mondovi High School, Mondovi
+Burnett County
+Grantsburg High School, Grantsburg
+Siren High School, Siren
+Webster High School, Webster
+Calumet County
+Brillion High School, Brillion
+Chilton High School, Chilton
+Hilbert High School, Hilbert
+New Holstein High School, New Holstein
+Stockbridge High School, Stockbridge
+Chippewa County
+Bloomer High School, Bloomer
+Cadott High School, Cadott
+Chippewa Falls High School, Chippewa Falls
+Cornell High School, Cornell
+Holcombe High School, Holcombe
+McDonell Central Catholic High School, Chippewa Falls
+New Auburn High School, New Auburn
+Stanley-Boyd High School, Stanley
+Clark County
+Abbotsford High School, Abbotsford
+Colby High School, Colby
+Granton High School, Granton
+Greenwood High School, Greenwood
+Loyal High School, Loyal
+Neillsville High School, Neillsville
+Owen-Withee High School, Owen
+Thorp High School, Thorp
+Columbia County
+Cambria-Friesland High School, Cambria
+Columbus Senior High School, Columbus
+Fall River High School, Fall River
+Lodi High School, Lodi
+Pardeeville High School, Pardeeville
+Portage High School, Portage
+Poynette High School, Poynette
+Rio High School, Rio
+Wisconsin Academy, Columbus
+Wisconsin Dells High School, Wisconsin Dells
+Crawford County
+North Crawford High School, Soldiers Grove
+Prairie du Chien High School, Prairie du Chien
+Seneca High School, Seneca
+Wauzeka High School, Wauzeka
+Dane County
+Abundant Life Christian School, Madison [9]
+Belleville High School, Belleville
+DeForest High School, DeForest
+Deerfield High School, Deerfield [10]
+Edgewood High School of the Sacred Heart, Madison [11]
+Madison Country Day School, Madison
+Madison East High School, Madison
+Madison LaFollette High School, Madison
+Madison West High School, Madison
+Marshall High School, Marshall [12]
+McFarland High School, McFarland [13]
+James Madison Memorial High School, Madison
+Middleton High School, Middleton
+Monona Grove High School, Monona
+Mount Horeb High School, Mount Horeb
+Oregon High School, Oregon
+Saint Ambrose Academy, Madison
+Malcolm Shabazz City High School, Madison
+Stoughton High School, Stoughton
+Sun Prairie High School, Sun Prairie
+Verona Area High School, Verona
+Waunakee High School, Waunakee
+Wisconsin Heights High School, Mazomanie
+Work & Learning High School, Madison
+Dodge County
+Beaver Dam High School, Beaver Dam
+Dodgeland High School, Juneau
+Horicon High School, Horicon
+Hustisford High School, Hustisford
+Lomira High School, Lomira
+Mayville High School, Mayville
+Randolph High School, Randolph [14]
+Watertown High School, Watertown [15]
+Wayland Academy, Beaver Dam
+Waupun High School, Waupun
+Central Wisconsin Christian High School, Waupun
+Door County
+Gibraltar High School, Fish Creek
+Sevastopol High School, Sturgeon Bay
+Southern Door High School, Brussels
+Sturgeon Bay High School, Sturgeon Bay
+Washington Island High School, Washington Island
+Douglas County
+Northwestern High School, Maple [16]
+Solon Springs High School, Solon Springs [17]
+Superior High School, Superior
+Dunn County
+Boyceville High School, Boyceville
+Colfax High School, Colfax [18]
+Elk Mound High School, Elk Mound
+Lucas Charter School, Menomonie
+Menomonie High School, Menomonie
+Eau Claire County
+Altoona High School, Altoona
+Augusta High School, Augusta [19]
+Eau Claire Christian High School, Eau Claire
+Memorial High School, Eau Claire
+North High School, Eau Claire
+Eau Claire Technology Charter School, Eau Claire
+Fall Creek High School, Fall Creek
+Immanuel Lutheran High School, Eau Claire
+McKinley Charter School, Eau Claire
+Regis High School, Eau Claire
+Florence County
+Florence High School, Florence
+Fond du Lac County
+Campbellsport High School, Campbellsport
+Fond du Lac High School, Fond du Lac
+Laconia High School, Rosendale
+Horace Mann High School, North Fond du Lac
+Oakfield High School, Oakfield
+Ripon High School, Ripon
+Saint Lawrence Seminary High School, Mount Calvary
+Saint Mary Springs High School, Fond du Lac
+Winnebago Lutheran Academy, Fond du Lac
+Forest County
+Crandon High School, Crandon
+Laona High School, Laona
+Wabeno High School, Wabeno
+Grant County
+Boscobel High School, Boscobel [20]
+Cassville High School, Cassville
+Cuba City High School, Cuba City
+Fennimore High School, Fennimore
+Lancaster High School, Lancaster [21]
+Platteville High School, Platteville [22]
+Potosi High School, Potosi
+River Ridge High School, Patch Grove
+Riverdale High School, Muscoda [23]
+Southwestern Wisconsin High School, Hazel Green
+Green County
+Albany High School, Albany [24]
+Brodhead High School, Brodhead
+Juda High School, Juda
+Monroe High School, Monroe
+Monticello High School, Monticello
+New Glarus High School, New Glarus
+Green Lake County
+Berlin High School, Berlin [25]
+Green Lake High School, Green Lake
+Markesan High School, Markesan
+Princeton High School, Princeton
+Iowa County
+Barneveld High School, Barneveld
+Dodgeville High School, Dodgeville
+Highland High School, Highland
+Iowa-Grant High School, Livingston
+Mineral Point High School, Mineral Point
+Iron County
+Hurley K-12 School, Hurley
+Mercer High School, Mercer
+Jackson County
+Black River Falls High School, Black River Falls
+Lincoln High School, Alma Center [26]
+Melrose-Mindoro High School, Melrose
+Jefferson County
+Cambridge High School, Cambridge [27]
+Fort Atkinson High School, Fort Atkinson
+Jefferson High School, Jefferson [28]
+Johnson Creek High School, Johnson Creek
+Lake Mills High School, Lake Mills
+Lakeside Lutheran High School, Lake Mills
+Luther Preparatory School, Watertown (formerly Northwestern Preparatory School)
+Maranatha Baptist Academy, Watertown
+Palmyra-Eagle High School, Palmyra
+Waterloo High School, Waterloo [29]
+Juneau County
+Mauston High School, Mauston
+Necedah High School, Necedah
+New Lisbon High School, New Lisbon, [30]
+Royall High School, Elroy
+Wonewoc-Center High School, Wonewoc
+Kenosha County
+Mary D. Bradford High School, Kenosha
+Christian Life High School, Kenosha
+Indian Trail Academy, Kenosha
+Harborside Academy, Kenosha
+Hillcrest School, Kenosha
+Lakeview Tech Academy, Pleasant Prairie
+Walter Reuther Central High School, Kenosha
+Saint Joseph High School, Kenosha
+Shoreland Lutheran High School, Somers
+George Nelson Tremper High School, Kenosha
+Westosha Central High School, Salem
+Wilmot Union High School, Wilmot
+Kewaunee County
+Algoma High School, Algoma
+Kewaunee High School, Kewaunee
+Luxemburg-Casco High School, Luxemburg
+La Crosse County
+Aquinas High School, La Crosse
+Bangor High School, Bangor
+Coulee Region Christian School, West Salem
+Holmen High School, Holmen
+LaCrossroads Charter School, La Crosse
+La Crosse Central High School, La Crosse
+Logan High School, La Crosse
+Luther High School, Onalaska
+Onalaska High School, Onalaska
+Providence Academy, La Crosse
+West Salem High School, West Salem
+Lafayette County
+Argyle High School, Argyle
+Belmont High School, Belmont [31]
+Benton High School, Benton
+Black Hawk High School, South Wayne
+Darlington High School, Darlington
+Pecatonica High School, Blanchardville
+Shullsburg High School, Shullsburg
+Langlade County
+Antigo High School, Antigo
+Elcho High School, Elcho
+White Lake High School, White Lake
+Lincoln County
+Lincoln Hills School, Irma
+Merrill High School, Merrill
+Tomahawk High School, Tomahawk
+New Testament Church Christian Academy, Merrill
+Manitowoc County
+Kiel High School, Kiel
+Lincoln High School, Manitowoc
+Manitowoc Lutheran High School, Manitowoc
+Mishicot High School, Mishicot
+Reedsville High School, Reedsville
+Roncalli High School, Manitowoc
+Two Rivers High School, Two Rivers
+Valders High School, Valders
+Marathon County
+Athens High School, Athens [32]
+Edgar High School, Edgar
+D.C. Everest High School, Weston [33]
+Faith Christian Academy, Wausau
+Marathon High School, Marathon [34]
+Mosinee High School, Mosinee
+Newman Catholic High School, Wausau
+Northland Lutheran High School, Kronenwetter
+Spencer High School, Spencer
+Stratford High School, Stratford [35]
+Wausau East High School, Wausau
+Wausau West High School, Wausau
+Wisconsin Valley Lutheran High School, Mosinee
+Marinette County
+Coleman High School, Coleman
+Crivitz High School, Crivitz
+Goodman High School, Goodman
+Catholic Central High School, Marinette
+Marinette High School, Marinette
+Niagara High School, Niagara
+Pembine High School, Pembine
+Peshtigo High School, Peshtigo
+Wausaukee High School, Wausaukee
+Pioneer Christian School, Beecher - www.pioneercs.org
+Marquette County
+Montello High School, Montello
+Westfield Area High School, Westfield
+Menomonee County
+Menomonee Indian High School, Keshena
+Milwaukee County
+City of Milwaukee
+
+Afro Urban Institute, Milwaukee
+Alliance High School, Milwaukee
+Assata School, Milwaukee
+Bay View High School, Milwaukee
+Believers in Christ Academy High School
+Bradley Technology & Trade High School, Milwaukee
+Cornerstone Achievement Academy, Milwaukee
+Custer High School, Milwaukee
+Destiny High School, Milwaukee
+Divine Savior Holy Angels High School, Milwaukee
+Eastbrook Academy, Milwaukee
+El Puente High School, Milwaukee
+Hamilton High School, Milwaukee
+HR Academy, Milwaukee
+Juneau High School, Milwaukee
+Learning Enterprise of Wisconsin School, Milwaukee
+Loyola Academy, Milwaukee
+Madison High School, Milwaukee
+Marquette University High School, Milwaukee
+Marshall High School, Milwaukee
+Messmer High School, Milwaukee
+Metropolitan High School, Milwaukee
+Milwaukee High School of the Arts, Milwaukee
+Milwaukee Lutheran High School, Milwaukee
+Milwaukee School of Entrepreneurship, Milwaukee
+Milwaukee Spectrum School, Milwaukee
+New School for Community Service, Milwaukee
+North Division High School, Milwaukee
+Nova School, Milwaukee
+Pius XI High School, Milwaukee
+Phoenix School, Milwaukee
+Pulaski High School, Milwaukee
+Ronald Wilson Reagan College Preparatory High School, City of Milwaukee
+Riverside University High School, Milwaukee
+Rufus King High School, Milwaukee
+Saint Anthony High School, Milwaukee
+Saint Joan Antida High School, Milwaukee
+Shalom High School, Milwaukee
+South Division High School, Milwaukee
+Spotted Eagle High School, Milwaukee
+Tenor High School, Milwaukee
+Veritas High School, Milwaukee
+Vincent High School, Milwaukee
+Washington High School, Milwaukee
+Aurora Weier Educational Center, Milwaukee
+Wisconsin Institute for Torah Study, Milwaukee
+Wisconsin Lutheran High School, Milwaukee
+Suburban
+Brown Deer High School, Brown Deer
+Cudahy High School, Cudahy
+Dominican High School, Whitefish Bay
+Martin Luther High School, Greendale
+Franklin High School, Franklin
+Greendale High School, Greendale
+Greenfield High School, Greenfield
+Heritage Christian School, West Allis
+Kradwell School, Wauwatosa
+Nathan Hale High School, West Allis [36]
+Nicolet High School, Glendale
+Oak Creek High School, Oak Creek
+Saint Francis High School, Saint Francis
+Saint Thomas More High School, Saint Francis
+Shorewood High School, Shorewood
+South Milwaukee High School, South Milwaukee
+Torah Academy of Milwaukee (TAM), Glendale
+University School of Milwaukee, River Hills
+Wauwatosa East High School, Wauwatosa
+Wauwatosa West High School, Wauwatosa
+West Allis Central High School, West Allis
+Whitefish Bay High School, Whitefish Bay
+Whitnall High School, Greenfield
+Monroe County
+Cashton High School, Cashton
+Sparta High School, Sparta
+High Point Charter School, Sparta
+Tomah High School, Tomah, (actually named Ronald Reagan High School, but is commonly referred to as Tomah)
+Oconto County
+Gillett High School, Gillett
+Lena High School, Lena
+Oconto Falls High School, Oconto Falls
+Oconto High School, Oconto
+Suring High School, Suring
+Oneida County
+Lakeland Union High School, Minocqua [37]
+Rhinelander High School, Rhinelander
+Three Lakes High School, Three Lakes
+Outagamie County
+Appleton East High School, Appleton
+Appleton North High School, Appleton
+Appleton West High School, Appleton
+Fox Valley Lutheran High School, Appleton
+Freedom High School, Freedom [38]
+Hortonville High School, Hortonville
+Kaukauna High School, Kaukauna
+Kimberly High School, Kimberly [39]
+Little Chute High School, Little Chute
+Seymour Community High School, Seymour [40]
+Shiocton High School, Shiocton
+Xavier High School, Appleton
+Ozaukee County
+Cedarburg High School, Cedarburg
+Grafton High School, Grafton
+Homestead High School, Mequon
+Ozaukee High School, Fredonia
+Port Washington High School, Port Washington
+Pepin County
+Durand High School, Durand [41]
+Pepin High School, Pepin [42]
+Pierce County
+Ellsworth High School, Ellsworth
+Elmwood High School, Elmwood
+Plum City High School, Plum City
+Prescott High School, Prescott
+River Falls High School, River Falls
+Spring Valley High School, Spring Valley
+Polk County
+Amery High School, Amery
+Clayton High School, Clayton [43]
+Clear Lake High School, Clear Lake [44]
+Frederic High School, Frederic
+Luck High School, Luck
+Osceola High School, Osceola [45]
+Saint Croix Falls High School, Saint Croix Falls
+Unity High School, Balsam Lake [46]
+Portage County
+Almond-Bancroft High School, Almond
+Amherst High School, Amherst [47]
+Rosholt High School, Rosholt
+Pacelli High School, Stevens Point
+Stevens Point Area Senior High (SPASH), Stevens Point
+Price County
+Park Falls High School, Park Falls
+Phillips High School, Phillips
+Prentice High School, Prentice
+Racine County
+Burlington High School, Burlington
+Jerome I. Case High School, Racine
+Burlington Catholic Central High School, Burlington
+William Horlick High School, Racine
+Racine Lutheran High School, Racine
+Keith R Mack Achievement Center, Racine
+The Prairie School, Wind Point
+Saint Catherine's High School, Racine
+Union Grove High School, Union Grove
+Walden III Middle/High School, Racine
+Washington Park High School, Racine
+Waterford Union High School, Waterford
+W. Brimley High School, Waterford
+Richland County
+Ithaca High School, Richland Center [48]
+Richland Center High School, Richland Center
+Eagle High School, Richland Center
+Rock County
+Beloit Memorial High School, Beloit
+Clinton High School, Clinton [49]
+Joseph A. Craig High School, Janesville
+Edgerton High School, Edgerton
+Evansville High School, Evansville [50]
+Milton High School, Milton [51]
+Oakhill Christian School, Janesville
+George S. Parker High School, Janesville
+Parkview High School, Orfordville
+Rock River Charter School, Janesville
+Turner High School, Town of Beloit
+Rusk County
+Bruce High School, Bruce
+Flambeau High School, Tony
+Ladysmith High School, Ladysmith
+Saint Croix County
+Baldwin-Woodville High School, Baldwin
+Glenwood City High School, Glenwood City
+Hudson High School, Hudson [52]
+New Richmond High School, New Richmond
+Saint Croix Central High School, Hammond
+Somerset High School, Somerset [53]
+Sauk County
+Baraboo High School, Baraboo
+Community Christian School, Baraboo [54]
+Reedsburg Area High School, Reedsburg
+River Valley High School, Spring Green [55]
+Sauk Prairie High School, Prairie du Sac
+Weston High School, Cazenovia [56]
+Sawyer County
+Hayward High School, Hayward
+Lac Courte Oreilles Ojibwe High School, Hayward
+Winter High School, Winter
+Shawano County
+Bonduel High School, Bonduel
+Bowler High School, Bowler
+Gresham High School, Gresham
+Shawano High School, Shawano
+Tigerton High School, Tigerton
+Wittenberg-Birnamwood High School, Wittenberg
+Wolf River Lutheran High School, Shawano
+Sheboygan County
+Cedar Grove-Belgium High School, Cedar Grove
+Elkhart Lake-Glenbeulah High School, Elkhart Lake
+Howards Grove High School, Howards Grove
+Kohler High School, Kohler
+Oostburg High School, Oostburg
+Plymouth High School, Plymouth
+Random Lake High School, Random Lake
+Sheboygan County Christian High School, Sheboygan
+Sheboygan Falls High School, Sheboygan Falls
+Sheboygan Area Lutheran High School, Sheboygan
+Sheboygan North High School, Sheboygan
+Sheboygan South High School, Sheboygan
+Taylor County
+Gilman High School, Gilman
+Medford High School, Medford
+Rib Lake High School, Rib Lake
+Trempealeau County
+Arcadia High School, Arcadia [57]
+Blair-Taylor High School, Blair
+Gale-Ettrick-Tremp High School, Galesville
+Independence High School, Independence [58]
+Osseo-Fairchild High School, Osseo
+Whitehall High School, Whitehall
+Eleva-Strum High School, Strum [59]
+Vernon County
+Better Futures High School, Viroqua
+Brookwood High School, Ontario [60]
+Cornerstone Christian Academy, Viroqua
+De Soto High School, De Soto
+Hillsboro High School, Hillsboro
+Kickapoo High School, Viola [61]
+La Farge High School, La Farge
+Laurel High School, Viroqua [62]
+Viroqua High School, Viroqua
+Westby Area High School, Westby
+Youth Initiative High School, Viroqua [63]
+Vilas County
+Conserve School, Land O' Lakes
+Northland Pines High School, Eagle River
+Phelps High School, Phelps
+Walworth County
+Badger High School, Lake Geneva
+Big Foot High School, Walworth
+Delavan-Darien High School, Delavan
+East Troy High School, East Troy
+Elkhorn Area High School, Elkhorn
+Faith Christian High School, Williams Bay
+Whitewater High School, Whitewater
+Williams Bay High School, Williams Bay
+Washburn County
+Birchwood High School, Birchwood
+Shell Lake High School, Shell Lake
+Spooner High School, Spooner
+Northwoods High School, Minong
+Washington County
+Germantown High School, Germantown
+Hartford Union High School, Hartford
+Kettle Moraine Lutheran High School, Jackson
+Kewaskum High School, Kewaskum
+Living Word Lutheran High School, Jackson
+Slinger High School, Slinger
+West Bend East High School, West Bend
+West Bend West High School, West Bend
+Waukesha County
+Arrowhead High School, Hartland
+Brookfield Academy, Brookfield
+Brookfield Central High School, Brookfield
+Brookfield East High School, Brookfield
+Catholic Memorial High School, Waukesha
+Ethan Allen School, Wales
+Hamilton High School, Sussex [64]
+Kettle Moraine High School, Wales
+Lake Country Lutheran High School, Oconomowoc
+Menomonee Falls High School, Menomonee Falls
+Mukwonago High School, Mukwonago
+Muskego High School, Muskego
+New Berlin Eisenhower Middle/High School, New Berlin
+New Berlin West Middle/High School, New Berlin
+Norris High School, Mukwonago
+Oconomowoc High School, Oconomowoc
+Pewaukee High School, Pewaukee
+Harvey Philip Alternative Charter School, Waukesha
+Saint John's Northwestern Military Academy, Delafield
+University Lake School, Hartland
+Waukesha Christian Academy, Waukesha
+Waukesha North High School, Waukesha
+Waukesha South High School, Waukesha
+Waukesha West High School, Waukesha
+Waupaca County
+Clintonville High School, Clintonville
+Iola-Scandinavia High School, Iola
+Little Wolf High School, Manawa
+Marion High School, Marion
+New London High School, New London
+Starr Academy, New London
+Waupaca High School, Waupaca
+Weyauwega-Fremont High School, Weyauwega
+Waushara County
+Tri-County High School, Plainfield
+Wautoma High School, Wautoma
+Wild Rose High School, Wild Rose
+Winnebago County
+Lourdes High School, Oshkosh [65]
+Menasha High School, Menasha
+Neenah High School, Neenah
+Omro High School, Omro
+Oshkosh North High School, Oshkosh
+Oshkosh West High School, Oshkosh
+Saint Mary Central High School, Neenah
+Winneconne High School, Winneconne
+Wood County
+Assumption High School, Wisconsin Rapids
+Auburndale High School, Auburndale
+Columbus Catholic High School, Marshfield
+John Edwards High School, Port Edwards
+Lincoln High School, Wisconsin Rapids [66]
+Marshfield High School, Marshfield
+Nekoosa High School, Nekoosa
+Pittsville High School, Pittsville
+River Cities High School, Wisconsin Rapids
